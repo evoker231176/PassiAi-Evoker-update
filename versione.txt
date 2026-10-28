@@ -1,0 +1,2 @@
+2.32.0
+Windows sistemato da solo (24 bit / 48000, uso esclusivo, LEQ), backup in Documenti, preset Competitive Video, pulsante Aggiorna.
