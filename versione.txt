@@ -1,2 +1,2 @@
-2.33.1
-Setup corretto: ora si vede la schermata di installazione.
+2.33.2
+Setup: tasto Disinstalla tutto e reinstalla; dice quale passo non è andato.
