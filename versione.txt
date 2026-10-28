@@ -1,2 +1,2 @@
-2.35.1
-Setup corretto (prima poteva cancellare i file a meta). Tasti Disinstalla tutto e Disinstalla e reinstalla.
+2.36.0
+Equalizzazione sonorita (LEQ) del 7.1 messa nel posto giusto per Windows 11. Scritte di stato verdi (a posto) e rosse (da sistemare) in tutte le pagine.
