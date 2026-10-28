@@ -1,2 +1,2 @@
-2.33.0
-Nuova pagina Cavi e Windows: Controlla tutto, Ripara, Da zero, toglie Equalizer APO e Voicemeeter se danno fastidio. Setup nuovo con la grafica dell app. ECLIPSE EVOKER.
+2.33.1
+Setup corretto: ora si vede la schermata di installazione.
