@@ -1,2 +1,2 @@
-2.34.0
-La modalita cambia anche l uscita di Windows (7.1 -> Evoker 7.1, ATK/16 -> Evoker 16, ferma/chiusa -> 27G4). LEQ del 7.1 acceso davvero. Microfono predefinito giusto.
+2.35.0
+Niente scudo sull icona. Equalizzazione sonorita (LEQ) del 7.1 su Windows 11. Uscita di Windows che segue la modalita.
