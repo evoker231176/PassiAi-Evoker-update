@@ -1,2 +1,2 @@
-2.40.0
-Pagina IA: nuovo interruttore "IA nuova (prova)". Acceso usa la IA allenata con i tuoi suoni, spento la IA di prima. Si cambia anche mentre giochi.
+2.41.0
+Pagina IA: nuova modalità "Ducking passi" (spenta di base). Passo: volume su subito (1,5 ms). Niente passo: resto abbassato piano. Sparo/bomba: niente alzata e volume più basso. 3 cursori: Passi, Resto, Spari e bombe.
