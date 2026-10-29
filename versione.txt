@@ -1,2 +1,2 @@
-2.44.1
-Pagina IA passi: la scritta per il 7.1 Pro ora e giusta (l IA si accende in 7.1 Pro > Suono > Uscita) e "Cosa sente adesso" mostra anche l IA del 7.1 Pro.
+2.44.2
+Home: "Passi sentiti" funziona anche con il 7.1 Pro quando l IA e accesa.
