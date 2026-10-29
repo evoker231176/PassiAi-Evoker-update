@@ -1,4 +1,2 @@
-2.42.0
-Audio: protezione contro i numeri "denormali" nei filtri (possibile causa del gracchiare nel 7.1 Pro).
-Ducking passi: il passo sale in 4 ms con una curva più morbida (meno salti secchi).
-Tolto l interruttore "IA nuova (prova)": resta la IA di sempre.
+2.42.1
+7.1 Pro: tolte le scelte "IA spari (nostra)" e "IA spari 2 (nostra)". In "Spari e bombe" restano Soppressore ECLIPSE EVOKER, Motore r10, r10 Full Reduction e Nessuno.
