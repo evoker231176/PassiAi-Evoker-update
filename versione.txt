@@ -1,2 +1,2 @@
-2.38.0
-7.1 Pro: 3 profili nuovi dalle guide della comunita (C1, C2, C3). I profili di prima restano uguali.
+2.38.1
+7.1 Pro: i profili C1, C2, C3 ora seguono l ordine di Rara.
