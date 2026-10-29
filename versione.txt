@@ -1,2 +1,2 @@
-2.43.2
-I due interruttori "IA di sempre" e "IA nuova (allenata sulla mia partita)" ora ci sono anche nella pagina ATK e in Impostazioni. Cambi in una pagina e cambia anche nelle altre.
+2.44.0
+7.1 Pro: nuova sezione "IA dei passi" nel riquadro Uscita (pagina Suono). Spenta di base. Puoi scegliere "IA di sempre" o "IA nuova". L ordine di Rara non cambia: l IA alza i passi dopo la testa, 0 ms in piu.
