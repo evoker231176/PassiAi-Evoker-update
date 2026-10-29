@@ -1,2 +1,2 @@
-2.36.0
-Equalizzazione sonorita (LEQ) del 7.1 messa nel posto giusto per Windows 11. Scritte di stato verdi (a posto) e rosse (da sistemare) in tutte le pagine.
+2.37.0
+IA dei passi: alza solo i passi e non abbassa piu niente. Nessun passo piu basso di prima.
