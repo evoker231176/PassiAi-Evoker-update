@@ -1,2 +1,2 @@
-2.43.1
-Pagina IA: due interruttori chiari, "IA di sempre" e "IA nuova (allenata sulla mia partita)". Se ne accendi una, l altra si spegne da sola. Tutti e due spenti = IA spenta.
+2.43.2
+I due interruttori "IA di sempre" e "IA nuova (allenata sulla mia partita)" ora ci sono anche nella pagina ATK e in Impostazioni. Cambi in una pagina e cambia anche nelle altre.
