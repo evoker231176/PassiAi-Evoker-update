@@ -1,2 +1,2 @@
-2.44.2
-Home: "Passi sentiti" funziona anche con il 7.1 Pro quando l IA e accesa.
+2.45.0
+7.1 Pro: la catena si vede tutta (va a capo). Ogni blocco mostra CPU e picco (in rosso se troppo). Nuovo "Margine anti-gracchio" (riquadro Uscita, acceso): piu riserva per i picchi di RaraSuppression, circa 15 ms di ritardo in piu.
