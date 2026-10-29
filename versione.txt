@@ -1,2 +1,2 @@
-2.44.0
-7.1 Pro: nuova sezione "IA dei passi" nel riquadro Uscita (pagina Suono). Spenta di base. Puoi scegliere "IA di sempre" o "IA nuova". L ordine di Rara non cambia: l IA alza i passi dopo la testa, 0 ms in piu.
+2.44.1
+Pagina IA passi: la scritta per il 7.1 Pro ora e giusta (l IA si accende in 7.1 Pro > Suono > Uscita) e "Cosa sente adesso" mostra anche l IA del 7.1 Pro.
