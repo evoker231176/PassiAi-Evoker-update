@@ -1,2 +1,2 @@
-2.37.1
-IA dei passi: niente piu volume che va e viene, niente passi contati nel silenzio.
+2.37.2
+Corretto il suono che gracchia: l app ora gira con priorita alta.
