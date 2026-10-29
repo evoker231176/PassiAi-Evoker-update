@@ -1,2 +1,2 @@
-2.39.0
-7.1 Pro: si possono scegliere anche le 54 teste di HeSuVi (sotto le teste EAC).
+2.40.0
+Pagina IA: nuovo interruttore "IA nuova (prova)". Acceso usa la IA allenata con i tuoi suoni, spento la IA di prima. Si cambia anche mentre giochi.
