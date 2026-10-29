@@ -1,2 +1,2 @@
-2.43.0
-Pagina IA: nuovo interruttore "IA allenata sulla mia partita (prova)". Acceso = IA B allenata con la tua registrazione, spento = IA di sempre. Si cambia anche mentre giochi.
+2.43.1
+Pagina IA: due interruttori chiari, "IA di sempre" e "IA nuova (allenata sulla mia partita)". Se ne accendi una, l altra si spegne da sola. Tutti e due spenti = IA spenta.
