@@ -1,2 +1,2 @@
-2.42.1
-7.1 Pro: tolte le scelte "IA spari (nostra)" e "IA spari 2 (nostra)". In "Spari e bombe" restano Soppressore ECLIPSE EVOKER, Motore r10, r10 Full Reduction e Nessuno.
+2.43.0
+Pagina IA: nuovo interruttore "IA allenata sulla mia partita (prova)". Acceso = IA B allenata con la tua registrazione, spento = IA di sempre. Si cambia anche mentre giochi.
