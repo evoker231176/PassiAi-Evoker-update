@@ -1,2 +1,4 @@
-2.41.0
-Pagina IA: nuova modalità "Ducking passi" (spenta di base). Passo: volume su subito (1,5 ms). Niente passo: resto abbassato piano. Sparo/bomba: niente alzata e volume più basso. 3 cursori: Passi, Resto, Spari e bombe.
+2.42.0
+Audio: protezione contro i numeri "denormali" nei filtri (possibile causa del gracchiare nel 7.1 Pro).
+Ducking passi: il passo sale in 4 ms con una curva più morbida (meno salti secchi).
+Tolto l interruttore "IA nuova (prova)": resta la IA di sempre.
