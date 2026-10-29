@@ -1,2 +1,2 @@
-2.37.2
-Corretto il suono che gracchia: l app ora gira con priorita alta.
+2.38.0
+7.1 Pro: 3 profili nuovi dalle guide della comunita (C1, C2, C3). I profili di prima restano uguali.
