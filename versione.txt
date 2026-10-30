@@ -1,2 +1,2 @@
-2.45.1
-7.1 Pro: due profili nuovi, "G1 Gemini - Passi Warzone" e "G2 Gemini - Passi Warzone (volume pieno)". Ordine di Rara, cambia solo EQ e regolazioni. L originale non e toccato.
+2.46.0
+7.1 Pro: nella Catena ogni plugin mostra ingressi/uscite, copie, quanto cambia il suono (dB) e un avviso se restituisce silenzio. Nel riquadro Spari e bombe (Soppressore ECLIPSE) nuovi interruttori Steps (prova), Front e Restore, di base come Rara, con "Torna ai valori di Rara".
