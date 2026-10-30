@@ -1,2 +1,2 @@
-2.45.0
-7.1 Pro: la catena si vede tutta (va a capo). Ogni blocco mostra CPU e picco (in rosso se troppo). Nuovo "Margine anti-gracchio" (riquadro Uscita, acceso): piu riserva per i picchi di RaraSuppression, circa 15 ms di ritardo in piu.
+2.45.1
+7.1 Pro: due profili nuovi, "G1 Gemini - Passi Warzone" e "G2 Gemini - Passi Warzone (volume pieno)". Ordine di Rara, cambia solo EQ e regolazioni. L originale non e toccato.
