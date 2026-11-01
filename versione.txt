@@ -1,3 +1,3 @@
-2.47.0
-Nuovo interruttore "Spari riconosciuti dall'IA" (pagina IA, ATK e Impostazioni): spari e bombe li riconosce una IA allenata, invece delle regole sul volume. Spento all'inizio: accendilo per provarlo.
-La IA dei passi resta quella di prima.
+2.47.1
+7.1 HeSuVi: ora funzionano tutte le teste. Quelle a 7 canali (Atmos senza riverbero, DTS, Razer, GSX, Nahimic, OpenAL, SBX, Sonic, Waves e altre) davano "servono 14 canali" e il suono si fermava.
+Nuovo interruttore "Spari riconosciuti dall'IA" (dalla 2.47.0).
