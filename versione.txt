@@ -1,5 +1,4 @@
-2.48.0
-Due profili nuovi nel 7.1 Pro (Profili), senza toccare il tuo "Originale ECLIPSE EVOKER":
-- "N1 Nostra IA spari (al posto di ECLIPSE)": al posto di RaraSuppression mette la nostra IA degli spari 2. Il resto della catena resta come Rara.
-- "N2 ECLIPSE + motore spari insieme": tiene RaraSuppression e in piu aggiunge il motore r10 subito dopo (due soppressori di fila). Il resto come Rara.
-Sono per provare e confrontare: scegli il profilo da Profili nel 7.1 Pro.
+2.49.0
+Nuovo interruttore unico "Tutte le IA" (nelle pagine IA passi, ATK e Impostazioni).
+Spento: spegne in un colpo tutte le IA (quella dei passi e "Spari riconosciuti dall'IA"), dappertutto, e le toglie dal suono (non toccano piu i canali). Acceso: tornano a funzionare come prima.
+Quando e spento, gli altri interruttori delle IA restano grigi perche non contano.
