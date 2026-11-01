@@ -1,3 +1,5 @@
-2.47.1
-7.1 HeSuVi: ora funzionano tutte le teste. Quelle a 7 canali (Atmos senza riverbero, DTS, Razer, GSX, Nahimic, OpenAL, SBX, Sonic, Waves e altre) davano "servono 14 canali" e il suono si fermava.
-Nuovo interruttore "Spari riconosciuti dall'IA" (dalla 2.47.0).
+2.48.0
+Due profili nuovi nel 7.1 Pro (Profili), senza toccare il tuo "Originale ECLIPSE EVOKER":
+- "N1 Nostra IA spari (al posto di ECLIPSE)": al posto di RaraSuppression mette la nostra IA degli spari 2. Il resto della catena resta come Rara.
+- "N2 ECLIPSE + motore spari insieme": tiene RaraSuppression e in piu aggiunge il motore r10 subito dopo (due soppressori di fila). Il resto come Rara.
+Sono per provare e confrontare: scegli il profilo da Profili nel 7.1 Pro.
