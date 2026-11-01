@@ -1,6 +1,5 @@
-2.50.0
-Tre profili nuovi nel 7.1 Pro (Profili), col motore degli spari al posto del file grosso, ognuno con settaggi interni diversi (le manopole GunVol, Sens, Release, AI):
-- "S1 Motore spari forte": abbassa di piu gli spari.
-- "S2 Motore spari morbido": abbassa meno e torna su piano.
-- "S3 Motore spari veloce": torna su subito dopo lo sparo.
-Servono a trovare la regolazione che ti piace. Non modifico nessun file: cambiano solo le manopole. La IA dei passi la accendi come sempre.
+2.51.0
+Nuovo profilo "Passi MAX (provato)" nel 7.1 Pro (Profili).
+Non a caso: ho fatto le prove sulla tua registrazione. Ho cercato tra tante regolazioni quella che mette i passi piu avanti degli spari. Vince: motore spari forte (GunVol 0.05) + compressore Target basso (0.25), cosi gli spari restano giu e i passi deboli salgono.
+Misurato: +1.7 dB a favore dei passi rispetto alla catena di Rara.
+Tieni accesa la IA dei passi: e lei che alza di piu i momenti dei passi.
