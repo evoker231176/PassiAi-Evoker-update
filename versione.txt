@@ -1,4 +1,6 @@
-2.49.0
-Nuovo interruttore unico "Tutte le IA" (nelle pagine IA passi, ATK e Impostazioni).
-Spento: spegne in un colpo tutte le IA (quella dei passi e "Spari riconosciuti dall'IA"), dappertutto, e le toglie dal suono (non toccano piu i canali). Acceso: tornano a funzionare come prima.
-Quando e spento, gli altri interruttori delle IA restano grigi perche non contano.
+2.50.0
+Tre profili nuovi nel 7.1 Pro (Profili), col motore degli spari al posto del file grosso, ognuno con settaggi interni diversi (le manopole GunVol, Sens, Release, AI):
+- "S1 Motore spari forte": abbassa di piu gli spari.
+- "S2 Motore spari morbido": abbassa meno e torna su piano.
+- "S3 Motore spari veloce": torna su subito dopo lo sparo.
+Servono a trovare la regolazione che ti piace. Non modifico nessun file: cambiano solo le manopole. La IA dei passi la accendi come sempre.
