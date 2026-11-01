@@ -1,2 +1,3 @@
-2.46.0
-7.1 Pro: nella Catena ogni plugin mostra ingressi/uscite, copie, quanto cambia il suono (dB) e un avviso se restituisce silenzio. Nel riquadro Spari e bombe (Soppressore ECLIPSE) nuovi interruttori Steps (prova), Front e Restore, di base come Rara, con "Torna ai valori di Rara".
+2.47.0
+Nuovo interruttore "Spari riconosciuti dall'IA" (pagina IA, ATK e Impostazioni): spari e bombe li riconosce una IA allenata, invece delle regole sul volume. Spento all'inizio: accendilo per provarlo.
+La IA dei passi resta quella di prima.
