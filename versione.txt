@@ -1,4 +1,4 @@
-2.63.0
-Sistemata la casella "Abilita miglioramenti audio" sul cavo Evoker 16.
-Prima, se il valore mancava del tutto (dopo aver reinstallato Windows), l'app lo dava per acceso e non lo riscriveva mai.
-Adesso l'app vede che manca e lo riscrive come SYSTEM. Premi "Sistema di nuovo gli effetti dei cavi".
+2.64.0
+Rimessa la casella "Abilita miglioramenti audio" sul cavo Evoker 16.
+L'app prima toglieva apposta l'effetto che la fa comparire; adesso lo rimette, come sul cavo Evoker 7.1 e come sul microfono.
+Installa, premi "Sistema di nuovo gli effetti dei cavi" e riavvia il PC: la casella torna nella scheda Avanzate del cavo Evoker 16.
