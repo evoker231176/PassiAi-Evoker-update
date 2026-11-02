@@ -1,6 +1,5 @@
-2.53.0
-Altri tre profili nel 7.1 Pro, varianti di "Passi MAX" con GraphicEQ diverso (il tono dei passi cambia):
-- "Passi MAX - EQ dettaglio": piu snap/dettaglio sui 1-4 kHz.
-- "Passi MAX - EQ corpo": piu corpo/thump sui bassi-medi (80-400 Hz).
-- "Passi MAX - EQ pulito": naturale, taglia solo rumble e fruscio.
-Stessa base provata (motore spari forte + compressore Target basso). Provali e tieni accesa la IA dei passi.
+2.54.0
+Due profili nuovi SENZA la nostra IA (li usi con "Tutte le IA" spente): i passi li tira su solo la catena di plugin (compressore che alza i passi deboli + EQ spinto sulla banda dei passi), con gli spari abbassati dal motore.
+- "Passi senza IA - corpo": passi pieni (bassi-medi spinti).
+- "Passi senza IA - dettaglio": passi secchi (dettaglio 1-3 kHz spinto).
+Provati sul tuo audio. Ordine di Rara, cambiano solo le manopole.
