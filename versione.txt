@@ -1,5 +1,3 @@
-2.51.0
-Nuovo profilo "Passi MAX (provato)" nel 7.1 Pro (Profili).
-Non a caso: ho fatto le prove sulla tua registrazione. Ho cercato tra tante regolazioni quella che mette i passi piu avanti degli spari. Vince: motore spari forte (GunVol 0.05) + compressore Target basso (0.25), cosi gli spari restano giu e i passi deboli salgono.
-Misurato: +1.7 dB a favore dei passi rispetto alla catena di Rara.
-Tieni accesa la IA dei passi: e lei che alza di piu i momenti dei passi.
+2.52.0
+I profili pronti (compresi i nuovi: Passi MAX provato, N1, N2, S1, S2, S3) ora ci sono subito dopo l'installazione: si creano all'avvio dell'app, senza dover aprire la pagina Profili.
+Quelli che hai gia non si toccano.
