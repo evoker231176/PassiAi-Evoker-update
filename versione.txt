@@ -1,5 +1,5 @@
-2.56.0
-Nella pagina 7.1 Pro - Profili, sotto, ora c'e una riga "IA dei passi per questo profilo": ti dice se il profilo caricato va con la IA accesa o spenta, con l'interruttore li a portata di mano.
-- Profili "senza IA": ti dice di tenerla spenta.
-- Profili dei passi: ti dice di accenderla.
-E ti avvisa se "Tutte le IA" e spento.
+2.57.0
+IA automatica: quando carichi un profilo, la IA dei passi si accende o spegne DA SOLA, senza che tu debba ricordartelo.
+- Profili "senza IA" -> la IA si spegne da sola.
+- Profili Evoker dei passi -> la IA (e "Tutte le IA") si accende da sola.
+I tuoi profili vecchi non cambiano comportamento.
