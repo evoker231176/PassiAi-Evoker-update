@@ -1,5 +1,3 @@
-2.59.0
-Il "Profilo su misura" ora tara TUTTO, non solo l'EQ:
-- prova diverse regolazioni del motore spari (GunVol, AI) e del compressore (Target, Amount) facendole girare sulla tua registrazione, e tiene la combinazione con i passi piu avanti degli spari;
-- poi costruisce l'EQ su misura.
-Provato: trova i passi, sceglie i valori migliori e scrive il profilo "Evoker Su Misura". Ci mette qualche secondo in piu perche fa girare i plugin tante volte. Nessun contatto col gioco.
+2.60.0
+Nuovo: "Calibra la IA" (7.1 Pro - Profili). Registra una partita segnando i passi con F8 (almeno 20), poi premi Calibra: la IA accorda la sua sensibilita sul tuo audio per prendere piu passi tuoi con meno errori. Non cambia il cervello della IA, solo la soglia; e veloce.
+Il "cervello nuovo" (allenamento vero) resta un lavoro che faccio io: mi mandi le registrazioni e te lo spedisco con un aggiornamento.
