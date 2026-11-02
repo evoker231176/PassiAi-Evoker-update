@@ -1,3 +1,6 @@
-2.52.0
-I profili pronti (compresi i nuovi: Passi MAX provato, N1, N2, S1, S2, S3) ora ci sono subito dopo l'installazione: si creano all'avvio dell'app, senza dover aprire la pagina Profili.
-Quelli che hai gia non si toccano.
+2.53.0
+Altri tre profili nel 7.1 Pro, varianti di "Passi MAX" con GraphicEQ diverso (il tono dei passi cambia):
+- "Passi MAX - EQ dettaglio": piu snap/dettaglio sui 1-4 kHz.
+- "Passi MAX - EQ corpo": piu corpo/thump sui bassi-medi (80-400 Hz).
+- "Passi MAX - EQ pulito": naturale, taglia solo rumble e fruscio.
+Stessa base provata (motore spari forte + compressore Target basso). Provali e tieni accesa la IA dei passi.
