@@ -1,6 +1,5 @@
-2.55.0
-Ho rinominato i profili di stanotte con nomi "Evoker" e tolto i vecchi nomi (solo quelli fatti da me; i tuoi non si toccano). Stesso contenuto, cambia solo il nome:
-- Evoker Passi (il migliore, provato) + Evoker Passi Nitido / Pieno / Pulito
-- Evoker Passi Max (senza IA, pieno) e (senza IA, nitido)
-- Evoker Spari IA, Evoker Doppio Spari, Evoker Spari Forte / Morbido / Veloce
-Li trovi in 7.1 Pro - Profili.
+2.56.0
+Nella pagina 7.1 Pro - Profili, sotto, ora c'e una riga "IA dei passi per questo profilo": ti dice se il profilo caricato va con la IA accesa o spenta, con l'interruttore li a portata di mano.
+- Profili "senza IA": ti dice di tenerla spenta.
+- Profili dei passi: ti dice di accenderla.
+E ti avvisa se "Tutte le IA" e spento.
