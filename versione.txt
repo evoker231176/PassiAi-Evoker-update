@@ -1,5 +1,4 @@
-2.65.0
-Tolta la scheda sbagliata "Caratteristiche avanzate" dal cavo Evoker 16 (era un mio errore).
-Adesso il pulsante "Sistema di nuovo gli effetti dei cavi" scrive SEMPRE come SYSTEM il valore che accende i miglioramenti (Disable_SysFx=0): è l'interruttore che fa partire gli effetti sul cavo.
-Niente effetto in piu, niente scheda: solo la casella "Abilita miglioramenti audio".
-Nel file di controllo (ProgramData\PassiAI\fx_cavi_esito.txt) adesso scrivo se il valore e' finito davvero sul cavo.
+2.66.0
+Quando installi (o reinstalli "da zero"), l'app ora registra da sola gli effetti audio di Windows (SFX/MFX).
+Dopo aver reinstallato Windows quei due effetti a volte mancano, e senza di loro non appare "Abilita miglioramenti audio" sul cavo Evoker 16.
+Cosi' la casella c'e' sempre, senza doverci pensare.
