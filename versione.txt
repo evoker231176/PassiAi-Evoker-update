@@ -1,4 +1,5 @@
-2.58.0
-Nuovo: "Profilo su misura" (7.1 Pro - Profili, in fondo). Scegli una tua registrazione di Warzone: l'app trova i passi con la IA, misura il suono (dove stanno i passi contro spari e ambiente) e crea da sola un profilo "Evoker Su Misura" tarato per le tue cuffie e il tuo orecchio.
-Prova: su 5 minuti ha trovato oltre 1000 passi e costruito l'EQ giusto (taglia rumble e fruscio, tiene la banda dei passi).
-Registra prima qualche minuto (pulsante Registra), poi premi "Crea profilo su misura". Non tocca il gioco: nessun rischio.
+2.59.0
+Il "Profilo su misura" ora tara TUTTO, non solo l'EQ:
+- prova diverse regolazioni del motore spari (GunVol, AI) e del compressore (Target, Amount) facendole girare sulla tua registrazione, e tiene la combinazione con i passi piu avanti degli spari;
+- poi costruisce l'EQ su misura.
+Provato: trova i passi, sceglie i valori migliori e scrive il profilo "Evoker Su Misura". Ci mette qualche secondo in piu perche fa girare i plugin tante volte. Nessun contatto col gioco.
