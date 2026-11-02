@@ -1,5 +1,6 @@
-2.54.0
-Due profili nuovi SENZA la nostra IA (li usi con "Tutte le IA" spente): i passi li tira su solo la catena di plugin (compressore che alza i passi deboli + EQ spinto sulla banda dei passi), con gli spari abbassati dal motore.
-- "Passi senza IA - corpo": passi pieni (bassi-medi spinti).
-- "Passi senza IA - dettaglio": passi secchi (dettaglio 1-3 kHz spinto).
-Provati sul tuo audio. Ordine di Rara, cambiano solo le manopole.
+2.55.0
+Ho rinominato i profili di stanotte con nomi "Evoker" e tolto i vecchi nomi (solo quelli fatti da me; i tuoi non si toccano). Stesso contenuto, cambia solo il nome:
+- Evoker Passi (il migliore, provato) + Evoker Passi Nitido / Pieno / Pulito
+- Evoker Passi Max (senza IA, pieno) e (senza IA, nitido)
+- Evoker Spari IA, Evoker Doppio Spari, Evoker Spari Forte / Morbido / Veloce
+Li trovi in 7.1 Pro - Profili.
