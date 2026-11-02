@@ -1,3 +1,5 @@
-2.60.0
-Nuovo: "Calibra la IA" (7.1 Pro - Profili). Registra una partita segnando i passi con F8 (almeno 20), poi premi Calibra: la IA accorda la sua sensibilita sul tuo audio per prendere piu passi tuoi con meno errori. Non cambia il cervello della IA, solo la soglia; e veloce.
-Il "cervello nuovo" (allenamento vero) resta un lavoro che faccio io: mi mandi le registrazioni e te lo spedisco con un aggiornamento.
+2.61.0
+La calibrazione ora e nella pagina IA passi (non piu su 7.1 Pro) e calibra TUTTE E DUE le IA:
+- IA dei passi: sui passi che segni con F8;
+- IA degli spari e bombe: in automatico, seguendo i colpi forti (nessun segno in piu).
+Provato: la IA spari calibrata arriva a riconoscere il 97 per cento di spari e bombe accendendosi sui passi solo il 5 per cento. Premi "Calibra la IA" in IA passi.
