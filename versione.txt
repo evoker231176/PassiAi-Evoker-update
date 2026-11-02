@@ -1,5 +1,4 @@
-2.61.0
-La calibrazione ora e nella pagina IA passi (non piu su 7.1 Pro) e calibra TUTTE E DUE le IA:
-- IA dei passi: sui passi che segni con F8;
-- IA degli spari e bombe: in automatico, seguendo i colpi forti (nessun segno in piu).
-Provato: la IA spari calibrata arriva a riconoscere il 97 per cento di spari e bombe accendendosi sui passi solo il 5 per cento. Premi "Calibra la IA" in IA passi.
+2.62.0
+Nuovo pulsante "Salva gli effetti del cavo (per l'assistenza)" in Impostazioni → Dispositivi.
+Salva nei Documenti il file Evoker_effetti_cavo.txt con tutti gli effetti dei cavi Evoker 16 ed Evoker 7.1 letti dal registro di Windows.
+Serve per capire perché "Abilita miglioramenti audio" non appare e sistemarlo.
