@@ -1,3 +1,3 @@
-2.68.0
-Ora l'app registra da sola gli effetti audio di Windows (SFX/MFX) anche all'avvio, non solo durante l'installazione.
-Se mancano (capita dopo aver reinstallato Windows), li rimette subito: cosi' "Abilita miglioramenti audio" sul cavo Evoker 16 c'e' sempre, senza fare niente.
+2.69.0
+Aggiunto il pulsante "Registra" nella pagina IA passi, nella sezione "Calibra la IA sulla tua partita".
+Cosi' registri la partita (segnando i passi con F8) direttamente li', e poi premi Calibra. Prima il pulsante era solo in un'altra pagina.
