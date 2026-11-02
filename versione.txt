@@ -1,4 +1,3 @@
-2.67.0
-Pulizia dopo il controllo completo dell'app.
-Il tasto "Sistema di nuovo gli effetti dei cavi" torna veloce (scrive come SYSTEM solo quando serve davvero).
-Tolto un campo inutilizzato e sistemato un avviso del compilatore. Nessun cambio di funzionamento.
+2.68.0
+Ora l'app registra da sola gli effetti audio di Windows (SFX/MFX) anche all'avvio, non solo durante l'installazione.
+Se mancano (capita dopo aver reinstallato Windows), li rimette subito: cosi' "Abilita miglioramenti audio" sul cavo Evoker 16 c'e' sempre, senza fare niente.
