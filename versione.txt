@@ -1,18 +1,14 @@
-2.76.0
-Nuovo: "Direzione (davanti/dietro)" - serve a capire DA DOVE arrivano i passi.
+2.76.1
+Versione pulita e ricontrollata (il suono e' identico alla 2.76.0).
 
-In cuffia la cosa difficile e' davanti/dietro (sinistra/destra e' facile). Questo
-rinforza, sui canali del gioco PRIMA della testa, le frequenze che dicono al
-cervello "davanti" o "dietro" (bande di Blauert). Siccome lavoro sui canali, SO
-quale e' davanti e quale dietro: spingo i davanti verso le frequenze "davanti" e
-i dietro verso quelle "dietro". E' a bilancia, quindi NON cambia il volume.
+Nessuna fretta di aggiornare: la 2.76.0 che hai gia' va bene. Questa e' solo
+il controllo completo fatto dopo stasera:
+- Evoker Spatial e Direzione partono SPENTI su ogni modalita' e, da spenti,
+  non toccano il suono.
+- La catena del 7.1 Pro (Soppressore, compressori ECLIPSE, EQ, Ambience) e'
+  intatta, come sempre.
+- Tolto un residuo di prova dal codice.
 
-- Lo trovi in 16 canali, 7.1 e 7.1 Pro (sotto Evoker Spatial), ognuno autonomo,
-  con interruttore e 4 forze: Leggero / Medio / Pesante / Ultra.
-- Non tocca passi, lati, sub, preset, profili ne' l'ordine di Rara.
-
-Nota onesta: le frequenze "giuste" cambiano un po' da orecchio a orecchio, quindi
-prova le forze e tieni quella con cui distingui meglio davanti/dietro. La prova in
-partita stavolta serve davvero, perche' e' il tuo orecchio a decidere la forza.
-
-Si tiene tutto: impostazioni, preset, cavi, plugin.
+Promemoria del problema di stasera: era la spunta di Windows "Ascolta questo
+dispositivo" sul cavo, che copiava il suono grezzo nelle cuffie. Tolta quella,
+tutto a posto.
