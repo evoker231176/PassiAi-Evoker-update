@@ -1,14 +1,18 @@
-2.75.0
-Evoker Spatial ora si sente forte e chiaro quando lo accendi.
+2.76.0
+Nuovo: "Direzione (davanti/dietro)" - serve a capire DA DOVE arrivano i passi.
 
-Ho reso l'effetto piu' deciso (prima era troppo gentile). Misurato sui passi:
-- Leggero: lato piu' largo di 1,5 volte
-- Medio: il doppio
-- Pesante: 2,6 volte
-- Ultra: 3,3 volte
-Resta tutto il resto: la direzione dei bassi non si tocca, niente fruscio,
-e allarga i passi, non l'ambiente.
+In cuffia la cosa difficile e' davanti/dietro (sinistra/destra e' facile). Questo
+rinforza, sui canali del gioco PRIMA della testa, le frequenze che dicono al
+cervello "davanti" o "dietro" (bande di Blauert). Siccome lavoro sui canali, SO
+quale e' davanti e quale dietro: spingo i davanti verso le frequenze "davanti" e
+i dietro verso quelle "dietro". E' a bilancia, quindi NON cambia il volume.
 
-Lo trovi in 16 canali, 7.1 e 7.1 Pro. Ognuno autonomo, con interruttore e le 4
-forze Leggero / Medio / Pesante / Ultra. Si tiene tutto: impostazioni, preset,
-cavi, plugin.
+- Lo trovi in 16 canali, 7.1 e 7.1 Pro (sotto Evoker Spatial), ognuno autonomo,
+  con interruttore e 4 forze: Leggero / Medio / Pesante / Ultra.
+- Non tocca passi, lati, sub, preset, profili ne' l'ordine di Rara.
+
+Nota onesta: le frequenze "giuste" cambiano un po' da orecchio a orecchio, quindi
+prova le forze e tieni quella con cui distingui meglio davanti/dietro. La prova in
+partita stavolta serve davvero, perche' e' il tuo orecchio a decidere la forza.
+
+Si tiene tutto: impostazioni, preset, cavi, plugin.
