@@ -1,19 +1,16 @@
-2.77.0
-Nuovo: "Competitivo" - EQ dei passi per COD/Warzone, per sentirli prima e capire meglio da dove arrivano.
+2.78.0
+Nuovo: "Competitivo Pro" - come il Competitivo ma piu' forte sui passi.
 
-Lo trovi in 16 canali, 7.1 e 7.1 Pro (sotto Direzione), ognuno autonomo, con
-interruttore acceso/spento e 4 forze (Leggero / Medio / Pesante / Ultra).
+Il Competitivo normale resta com'e'. Questo e' uno IN PIU', col suo tasto, in
+16 / 7.1 / 7.1 Pro (sotto il Competitivo), autonomo, con 4 forze.
 
-Cosa fa quando lo accendi:
-- abbassa il rombo delle esplosioni che copre i passi,
-- alza lo "scatto" del passo (~3 kHz, la frequenza che da' la direzione) e il
-  tintinnio dell'equipaggiamento/ricariche (~5 kHz, tipico di Warzone),
-- un filo d'aria sugli acuti.
-Cosi' i passi spiccano di 5-11 dB su cio' che li maschera.
+La differenza: oltre all'EQ fisso (piu' deciso), ha un ESALTATORE DI PASSI
+dinamico. Quando sente la botta di un passo negli acuti, gli da' una spinta
+extra al volo (fino a +7 dB a Ultra) - solo sul passo, non sul resto. Cosi' i
+passi "saltano fuori" senza far brillare tutta la partita.
 
-Note:
-- Tienilo SOPRA l'EQ cuffie (non devi spegnerla): l'EQ cuffie corregge la cuffia,
-  il Competitivo evidenzia i passi.
-- Parti da Medio e regola la forza sul tuo orecchio. In Warzone usa il mix audio
-  senza EQ del gioco (es. Sucker Punch) e lascia fare all'app.
-- Non tocca passi, profili, Spatial, Direzione ne' la catena di Rara.
+Consigli:
+- Se il Competitivo normale ti sembrava poco, prova il Pro partendo da Medio.
+- Non accenderli tutti e due insieme: scegline uno (o il Competitivo, o il Pro).
+- Tienilo sopra l'EQ cuffie (non devi spegnerla).
+Non tocca Competitivo, Spatial, Direzione, profili ne' la catena di Rara.
