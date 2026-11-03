@@ -1,15 +1,13 @@
-2.73.0
-Novita: Evoker Spatial - il potenziatore di spazialita per i passi, una cosa che hai solo tu.
+2.74.0
+Evoker Spatial controllato a fondo con misure vere (non a orecchio) e corretto.
 
-Cosa fa: dopo la testa, l'EQ e l'IA, allarga e tira i PASSI fuori dalla testa,
-senza rovinare la direzione. Lavora solo sugli acuti e solo quando sente un passo
-(il transiente): cosi il passo "scatta" dalla sua parte. I bassi restano intatti,
-percio la direzione non si perde. In piu una riflessione corta porta il suono
-fuori dalla testa (meno "dentro le orecchie").
+Nella 2.73.0 l'effetto sui passi si accendeva troppo poco (il rilevatore era lento
+per le botte corte). Adesso:
+- Si accende subito sul passo (anche da 15-20 ms) e resta aperto per tutta la pestata.
+- Ignora il suono fermo: allarga solo le botte vere (passi, colpi), non l'ambiente.
+- La direzione dei bassi resta intatta al 100% (misurato su tutti i preset).
+- Niente fruscio o distorsione (controllato con segnale molto forte).
 
-- Lo trovi in 16 canali, 7.1 e 7.1 Pro. Ognuno e autonomo: se lo spegni su una
-  modalita NON si spegne sulle altre, e ognuna tiene il suo preset.
-- Interruttore acceso/spento + 4 forze: Leggero, Medio, Pesante, Ultra.
-- Parti tecniche derivate da ATK Stereo Spatial Enhancer di ArtIsWar (licenza MIT).
-
-Si tiene tutto: impostazioni, preset, cavi, plugin.
+Promemoria: lo trovi in 16 canali, 7.1 e 7.1 Pro. Ognuno autonomo, con interruttore
+e le 4 forze Leggero / Medio / Pesante / Ultra. Si tiene tutto: impostazioni, preset,
+cavi, plugin.
