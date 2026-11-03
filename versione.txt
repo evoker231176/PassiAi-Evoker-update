@@ -1,3 +1,4 @@
-2.69.0
-Aggiunto il pulsante "Registra" nella pagina IA passi, nella sezione "Calibra la IA sulla tua partita".
-Cosi' registri la partita (segnando i passi con F8) direttamente li', e poi premi Calibra. Prima il pulsante era solo in un'altra pagina.
+2.70.0
+"Crea profilo su misura" e "Calibra la IA" ora lavorano in secondo piano, senza bloccare l'app.
+Mentre analizzano la registrazione vedi un indicatore che si muove (trattini) e i secondi passati, cosi' sai che sta lavorando.
+Prima l'app sembrava ferma: in realta' stava analizzando ma bloccava la finestra.
