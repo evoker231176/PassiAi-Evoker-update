@@ -1,4 +1,3 @@
-2.70.0
-"Crea profilo su misura" e "Calibra la IA" ora lavorano in secondo piano, senza bloccare l'app.
-Mentre analizzano la registrazione vedi un indicatore che si muove (trattini) e i secondi passati, cosi' sai che sta lavorando.
-Prima l'app sembrava ferma: in realta' stava analizzando ma bloccava la finestra.
+2.71.0
+Corretto il profilo "Crea su misura": con percorsi lunghi la riga del compressore veniva tagliata e l'EQ (e l'Ambience Guard) sparivano dalla catena.
+Ora la catena esce completa: r10 -> compressore V8 -> EQ -> compressore V8 -> Ambience Guard. Rifai "Crea profilo su misura" per averla giusta.
