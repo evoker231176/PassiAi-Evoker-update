@@ -1,14 +1,19 @@
-2.76.1
-Versione pulita e ricontrollata (il suono e' identico alla 2.76.0).
+2.77.0
+Nuovo: "Competitivo" - EQ dei passi per COD/Warzone, per sentirli prima e capire meglio da dove arrivano.
 
-Nessuna fretta di aggiornare: la 2.76.0 che hai gia' va bene. Questa e' solo
-il controllo completo fatto dopo stasera:
-- Evoker Spatial e Direzione partono SPENTI su ogni modalita' e, da spenti,
-  non toccano il suono.
-- La catena del 7.1 Pro (Soppressore, compressori ECLIPSE, EQ, Ambience) e'
-  intatta, come sempre.
-- Tolto un residuo di prova dal codice.
+Lo trovi in 16 canali, 7.1 e 7.1 Pro (sotto Direzione), ognuno autonomo, con
+interruttore acceso/spento e 4 forze (Leggero / Medio / Pesante / Ultra).
 
-Promemoria del problema di stasera: era la spunta di Windows "Ascolta questo
-dispositivo" sul cavo, che copiava il suono grezzo nelle cuffie. Tolta quella,
-tutto a posto.
+Cosa fa quando lo accendi:
+- abbassa il rombo delle esplosioni che copre i passi,
+- alza lo "scatto" del passo (~3 kHz, la frequenza che da' la direzione) e il
+  tintinnio dell'equipaggiamento/ricariche (~5 kHz, tipico di Warzone),
+- un filo d'aria sugli acuti.
+Cosi' i passi spiccano di 5-11 dB su cio' che li maschera.
+
+Note:
+- Tienilo SOPRA l'EQ cuffie (non devi spegnerla): l'EQ cuffie corregge la cuffia,
+  il Competitivo evidenzia i passi.
+- Parti da Medio e regola la forza sul tuo orecchio. In Warzone usa il mix audio
+  senza EQ del gioco (es. Sucker Punch) e lascia fare all'app.
+- Non tocca passi, profili, Spatial, Direzione ne' la catena di Rara.
