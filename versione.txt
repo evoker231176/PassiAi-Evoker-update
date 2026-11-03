@@ -1,3 +1,2 @@
-2.71.0
-Corretto il profilo "Crea su misura": con percorsi lunghi la riga del compressore veniva tagliata e l'EQ (e l'Ambience Guard) sparivano dalla catena.
-Ora la catena esce completa: r10 -> compressore V8 -> EQ -> compressore V8 -> Ambience Guard. Rifai "Crea profilo su misura" per averla giusta.
+2.72.0
+Aggiunto il pulsante "Registra" anche nella pagina 7.1 Pro -> Profili (sotto "Profilo su misura"), cosi' registri e crei il profilo dallo stesso posto.
