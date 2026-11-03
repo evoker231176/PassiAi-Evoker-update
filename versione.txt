@@ -1,13 +1,14 @@
-2.74.0
-Evoker Spatial controllato a fondo con misure vere (non a orecchio) e corretto.
+2.75.0
+Evoker Spatial ora si sente forte e chiaro quando lo accendi.
 
-Nella 2.73.0 l'effetto sui passi si accendeva troppo poco (il rilevatore era lento
-per le botte corte). Adesso:
-- Si accende subito sul passo (anche da 15-20 ms) e resta aperto per tutta la pestata.
-- Ignora il suono fermo: allarga solo le botte vere (passi, colpi), non l'ambiente.
-- La direzione dei bassi resta intatta al 100% (misurato su tutti i preset).
-- Niente fruscio o distorsione (controllato con segnale molto forte).
+Ho reso l'effetto piu' deciso (prima era troppo gentile). Misurato sui passi:
+- Leggero: lato piu' largo di 1,5 volte
+- Medio: il doppio
+- Pesante: 2,6 volte
+- Ultra: 3,3 volte
+Resta tutto il resto: la direzione dei bassi non si tocca, niente fruscio,
+e allarga i passi, non l'ambiente.
 
-Promemoria: lo trovi in 16 canali, 7.1 e 7.1 Pro. Ognuno autonomo, con interruttore
-e le 4 forze Leggero / Medio / Pesante / Ultra. Si tiene tutto: impostazioni, preset,
+Lo trovi in 16 canali, 7.1 e 7.1 Pro. Ognuno autonomo, con interruttore e le 4
+forze Leggero / Medio / Pesante / Ultra. Si tiene tutto: impostazioni, preset,
 cavi, plugin.
