@@ -1,11 +1,8 @@
-2.85.0
-Controllo PC audio: sistemato e pulito.
+2.86.0
+Prova diagnostica per "Ascolta questo dispositivo" (come l'altra).
 
-Dallo screenshot si vede che Windows, su questo PC, NON lascia leggere alle app
-lo stato dell'audio spaziale (lo applica piu' in profondita'). Quindi non si puo'
-fare un verde/rosso affidabile: ho tolto la finestrella diagnostica e lasciato
-"Audio spaziale" come promemoria con il bottone "Apri l'audio di Windows" (un
-clic per metterlo su Disattivato).
-
-Il controllo importante - "Ascolta questo dispositivo", quello del suono grezzo -
-resta verde/rosso con il bottone che lo sistema. Quello funziona.
+In Dispositivi -> Controllo PC audio, sotto la riga "Ascolta questo dispositivo",
+c'e' un riquadro giallo "DIAGNOSTICA 'Ascolta'".
+Metti la spunta "Ascolta questo dispositivo" sul cavo (pannello Audio ->
+Registrazione -> cavo -> Proprieta' -> Ascolta), poi mandami lo SCREENSHOT di quel
+riquadro. Dentro vedo come il tuo Windows salva quell'interruttore e lo leggo giusto.
