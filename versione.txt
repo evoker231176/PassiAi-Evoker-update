@@ -1,8 +1,11 @@
-2.86.0
-Prova diagnostica per "Ascolta questo dispositivo" (come l'altra).
+2.87.0
+Controllo PC audio: sistemato e pulito, per davvero stavolta.
 
-In Dispositivi -> Controllo PC audio, sotto la riga "Ascolta questo dispositivo",
-c'e' un riquadro giallo "DIAGNOSTICA 'Ascolta'".
-Metti la spunta "Ascolta questo dispositivo" sul cavo (pannello Audio ->
-Registrazione -> cavo -> Proprieta' -> Ascolta), poi mandami lo SCREENSHOT di quel
-riquadro. Dentro vedo come il tuo Windows salva quell'interruttore e lo leggo giusto.
+Windows non lascia leggere alle app lo stato di queste due impostazioni, quindi
+niente verde/rosso finto. Ora tutte e due sono promemoria chiari con un bottone
+che ti porta DRITTO dove sistemarle:
+- "Ascolta questo dispositivo" -> bottone "Apri i dispositivi di registrazione"
+  (poi: cavo Evoker -> Proprieta' -> Ascolta -> togli la spunta).
+- "Audio spaziale" -> bottone "Apri l'audio di Windows" (poi: cuffie -> Audio
+  spaziale -> Disattivato).
+Tolta la finestrella diagnostica. Pagina pulita.
