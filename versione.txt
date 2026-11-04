@@ -1,11 +1,10 @@
-2.81.0
-Audio spaziale: correzione + rete di sicurezza.
+2.82.0
+Audio spaziale: trovato il vero motivo per cui il pallino non cambiava.
 
-Prima leggevo l'impostazione solo in un posto (HKLM); Windows puo' salvarla
-altrove (HKCU). Ora l'app la cerca in tutti e due -> il pallino dovrebbe
-cambiare quando accendi/spegni Windows Sonic.
+Windows salva quel dato in forma "binaria", e io lo leggevo come testo: per
+questo risultava sempre vuoto. Ora lo leggo nel modo giusto (testo o binario)
+e lo cerco in tutte le chiavi (anche quelle del tuo utente). Il pallino dovrebbe
+finalmente diventare rosso con Sonic acceso e verde con Sonic spento.
 
-Se ANCORA non cambia: in Dispositivi -> Controllo PC audio c'e' un nuovo bottone
-"Esporta audio spaziale (assistenza)". Accendi Windows Sonic, premi quel bottone,
-e mandami il file (Documenti\Evoker_audio_spaziale.txt): dentro c'e' il punto
-esatto dove il tuo Windows lo salva, cosi' lo sistemo con certezza.
+Se ANCORA non va: ripremi "Esporta audio spaziale (assistenza)" con Sonic acceso
+e mandami il file: adesso mostra anche i valori binari, cosi' vedo i byte esatti.
