@@ -1,10 +1,7 @@
-2.82.0
-Audio spaziale: trovato il vero motivo per cui il pallino non cambiava.
+2.83.0
+Audio spaziale: adesso lo leggo nel modo giusto.
 
-Windows salva quel dato in forma "binaria", e io lo leggevo come testo: per
-questo risultava sempre vuoto. Ora lo leggo nel modo giusto (testo o binario)
-e lo cerco in tutte le chiavi (anche quelle del tuo utente). Il pallino dovrebbe
-finalmente diventare rosso con Sonic acceso e verde con Sonic spento.
-
-Se ANCORA non va: ripremi "Esporta audio spaziale (assistenza)" con Sonic acceso
-e mandami il file: adesso mostra anche i valori binari, cosi' vedo i byte esatti.
+Basta cercare nel registro (dove Windows lo nasconde in modi diversi). Ora
+chiedo direttamente a Windows con la sua API ufficiale - la stessa con cui
+l'app legge gia' i nomi dei dispositivi. Quindi il pallino deve finalmente
+reagire: rosso con Windows Sonic acceso sulle cuffie, verde con spento.
