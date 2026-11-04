@@ -1,12 +1,11 @@
-2.80.0
-Audio spaziale di Windows: ora e' un controllo VERO (verde/rosso), non piu' grigio.
+2.81.0
+Audio spaziale: correzione + rete di sicurezza.
 
-Nella pagina Dispositivi -> "Controllo PC audio":
-- pallino VERDE = audio spaziale spento (a posto)
-- pallino ROSSO = acceso (fa doppione con l'app) + bottone "Spegnilo" che lo
-  toglie da solo (reversibile: lo riaccendi da Windows quando vuoi).
-Compare anche un avviso rosso in cima quando e' acceso.
+Prima leggevo l'impostazione solo in un posto (HKLM); Windows puo' salvarla
+altrove (HKCU). Ora l'app la cerca in tutti e due -> il pallino dovrebbe
+cambiare quando accendi/spegni Windows Sonic.
 
-Lo legge sul dispositivo dove l'app manda il suono (le tue cuffie). Se vuoi
-verificare: accendi l'audio spaziale in Windows -> il pallino diventa rosso;
-spegnilo -> torna verde.
+Se ANCORA non cambia: in Dispositivi -> Controllo PC audio c'e' un nuovo bottone
+"Esporta audio spaziale (assistenza)". Accendi Windows Sonic, premi quel bottone,
+e mandami il file (Documenti\Evoker_audio_spaziale.txt): dentro c'e' il punto
+esatto dove il tuo Windows lo salva, cosi' lo sistemo con certezza.
