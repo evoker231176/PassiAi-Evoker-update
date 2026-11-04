@@ -1,15 +1,12 @@
-2.79.0
-Nuovo: "Controllo PC audio" - controlla le due impostazioni di Windows che
-facevano sembrare rotta l'app.
+2.80.0
+Audio spaziale di Windows: ora e' un controllo VERO (verde/rosso), non piu' grigio.
 
-1) "Ascolta questo dispositivo" (il casino del suono grezzo di quella notte):
-   ora l'app se ne accorge da sola. Se e' acceso, in cima vedi un avviso rosso,
-   e in Dispositivi c'e' un bottone "Togli la spunta" che lo sistema. Tocca solo
-   i cavi Evoker, mai il tuo microfono.
-2) "Audio spaziale di Windows": un bottone apre le impostazioni audio di Windows,
-   cosi' lo metti su Disattivato (se no fa doppione con l'app).
+Nella pagina Dispositivi -> "Controllo PC audio":
+- pallino VERDE = audio spaziale spento (a posto)
+- pallino ROSSO = acceso (fa doppione con l'app) + bottone "Spegnilo" che lo
+  toglie da solo (reversibile: lo riaccendi da Windows quando vuoi).
+Compare anche un avviso rosso in cima quando e' acceso.
 
-Il resto (registrare gli effetti/APO, Loudness, dispositivo predefinito, modalita'
-esclusiva e formato) l'app lo faceva gia' da sola.
-
-Lo trovi nella pagina Dispositivi, in fondo: "Controllo PC audio".
+Lo legge sul dispositivo dove l'app manda il suono (le tue cuffie). Se vuoi
+verificare: accendi l'audio spaziale in Windows -> il pallino diventa rosso;
+spegnilo -> torna verde.
