@@ -1,7 +1,8 @@
-2.83.0
-Audio spaziale: adesso lo leggo nel modo giusto.
+2.84.0
+Prova diagnostica per l'audio spaziale (una volta sola).
 
-Basta cercare nel registro (dove Windows lo nasconde in modi diversi). Ora
-chiedo direttamente a Windows con la sua API ufficiale - la stessa con cui
-l'app legge gia' i nomi dei dispositivi. Quindi il pallino deve finalmente
-reagire: rosso con Windows Sonic acceso sulle cuffie, verde con spento.
+In Dispositivi -> Controllo PC audio, in fondo, c'e' un riquadro giallo
+"DIAGNOSTICA". Accendi Windows Sonic sulle cuffie e mandami lo SCREENSHOT di quel
+riquadro. Dentro vedo cosa Windows espone per le tue cuffie e trovo il codice
+esatto dell'audio spaziale, cosi' il pallino verde/rosso funzionera' davvero.
+Poi tolgo il riquadro.
