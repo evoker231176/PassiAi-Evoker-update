@@ -1,8 +1,11 @@
-2.84.0
-Prova diagnostica per l'audio spaziale (una volta sola).
+2.85.0
+Controllo PC audio: sistemato e pulito.
 
-In Dispositivi -> Controllo PC audio, in fondo, c'e' un riquadro giallo
-"DIAGNOSTICA". Accendi Windows Sonic sulle cuffie e mandami lo SCREENSHOT di quel
-riquadro. Dentro vedo cosa Windows espone per le tue cuffie e trovo il codice
-esatto dell'audio spaziale, cosi' il pallino verde/rosso funzionera' davvero.
-Poi tolgo il riquadro.
+Dallo screenshot si vede che Windows, su questo PC, NON lascia leggere alle app
+lo stato dell'audio spaziale (lo applica piu' in profondita'). Quindi non si puo'
+fare un verde/rosso affidabile: ho tolto la finestrella diagnostica e lasciato
+"Audio spaziale" come promemoria con il bottone "Apri l'audio di Windows" (un
+clic per metterlo su Disattivato).
+
+Il controllo importante - "Ascolta questo dispositivo", quello del suono grezzo -
+resta verde/rosso con il bottone che lo sistema. Quello funziona.
