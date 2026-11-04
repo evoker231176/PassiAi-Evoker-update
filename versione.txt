@@ -1,16 +1,15 @@
-2.78.0
-Nuovo: "Competitivo Pro" - come il Competitivo ma piu' forte sui passi.
+2.79.0
+Nuovo: "Controllo PC audio" - controlla le due impostazioni di Windows che
+facevano sembrare rotta l'app.
 
-Il Competitivo normale resta com'e'. Questo e' uno IN PIU', col suo tasto, in
-16 / 7.1 / 7.1 Pro (sotto il Competitivo), autonomo, con 4 forze.
+1) "Ascolta questo dispositivo" (il casino del suono grezzo di quella notte):
+   ora l'app se ne accorge da sola. Se e' acceso, in cima vedi un avviso rosso,
+   e in Dispositivi c'e' un bottone "Togli la spunta" che lo sistema. Tocca solo
+   i cavi Evoker, mai il tuo microfono.
+2) "Audio spaziale di Windows": un bottone apre le impostazioni audio di Windows,
+   cosi' lo metti su Disattivato (se no fa doppione con l'app).
 
-La differenza: oltre all'EQ fisso (piu' deciso), ha un ESALTATORE DI PASSI
-dinamico. Quando sente la botta di un passo negli acuti, gli da' una spinta
-extra al volo (fino a +7 dB a Ultra) - solo sul passo, non sul resto. Cosi' i
-passi "saltano fuori" senza far brillare tutta la partita.
+Il resto (registrare gli effetti/APO, Loudness, dispositivo predefinito, modalita'
+esclusiva e formato) l'app lo faceva gia' da sola.
 
-Consigli:
-- Se il Competitivo normale ti sembrava poco, prova il Pro partendo da Medio.
-- Non accenderli tutti e due insieme: scegline uno (o il Competitivo, o il Pro).
-- Tienilo sopra l'EQ cuffie (non devi spegnerla).
-Non tocca Competitivo, Spatial, Direzione, profili ne' la catena di Rara.
+Lo trovi nella pagina Dispositivi, in fondo: "Controllo PC audio".
