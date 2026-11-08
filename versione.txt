@@ -1,11 +1,6 @@
-2.89.0
-Profilo nuovo nel 7.1 Pro (ECLIPSE EVOKER), senza toccare i tuoi:
-
-- "Evoker Passi Warzone (come i pro)"
-
-EQ rifatto come le guide e i pro di Warzone: bassi tagliati forte (il config
-li alzava), passi 1-4 kHz tirati su, 4-6 kHz per il "gear rattle", un filo
-d'aria a 8 kHz e taglio sopra 10 kHz per togliere il "ring" delle granate.
-Catena di Eclipse identica, ordine di Rara: cambia solo l'EQ. Cosi i bassi
-calano e i passi vengono su, come e costruito il gioco (passi in alto, bassi
-sotto spari ed esplosioni).
+2.90.0
+Sistemato il profilo "Evoker Passi Warzone (come i pro)": prima veniva
+"tutto forte". Ora i passi sono alzati piu piano (punta +3 invece di +5),
+i basso-medi un filo sotto, e il volume finale e piu basso di 4 dB. Cosi senti
+i passi senza che tutto il resto urli. Si aggiorna da solo (se non l'hai
+salvato tu con un altro nome). Bassi sempre tagliati.
