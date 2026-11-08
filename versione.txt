@@ -1,11 +1,11 @@
-2.87.0
-Controllo PC audio: sistemato e pulito, per davvero stavolta.
+2.88.0
+Due profili nuovi nel 7.1 Pro (ECLIPSE EVOKER), senza toccare i tuoi:
 
-Windows non lascia leggere alle app lo stato di queste due impostazioni, quindi
-niente verde/rosso finto. Ora tutte e due sono promemoria chiari con un bottone
-che ti porta DRITTO dove sistemarle:
-- "Ascolta questo dispositivo" -> bottone "Apri i dispositivi di registrazione"
-  (poi: cavo Evoker -> Proprieta' -> Ascolta -> togli la spunta).
-- "Audio spaziale" -> bottone "Apri l'audio di Windows" (poi: cuffie -> Audio
-  spaziale -> Disattivato).
-Tolta la finestrella diagnostica. Pagina pulita.
+- "Evoker Spari Zittiti (meno bassi)"
+- "Evoker Spari Zittiti (bassi asciutti)"
+
+Usano il r10_fullmute (quello che zittisce di piu gli spari) messo PER PRIMO
+nella catena - come dice la ricerca: chi toglie un suono forte va prima dei
+compressori, cosi i passi non calano subito dopo lo sparo. Il resto e identico
+al config. In piu hanno un po' di bassi tolti con l'anti-rimbombo (il secondo
+li toglie di piu). Niente profilo vecchio toccato.
