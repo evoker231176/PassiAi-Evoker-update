@@ -1,6 +1,6 @@
-2.90.0
-Sistemato il profilo "Evoker Passi Warzone (come i pro)": prima veniva
-"tutto forte". Ora i passi sono alzati piu piano (punta +3 invece di +5),
-i basso-medi un filo sotto, e il volume finale e piu basso di 4 dB. Cosi senti
-i passi senza che tutto il resto urli. Si aggiorna da solo (se non l'hai
-salvato tu con un altro nome). Bassi sempre tagliati.
+2.91.0
+Sistemato "Evoker Passi Warzone (come i pro)". Il problema "tutto forte e
+meno passi" era colpa dei compressori che livellavano tutto troppo in alto.
+Ora lavorano piu piano (come i profili "Passi MAX"): il volume generale scende
+e i passi tornano a spiccare perche tengono la loro botta. Passi anche un filo
+piu su nell'EQ, bassi sempre tagliati. Si aggiorna da solo.
