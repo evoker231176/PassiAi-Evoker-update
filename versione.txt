@@ -1,11 +1,11 @@
-2.88.0
-Due profili nuovi nel 7.1 Pro (ECLIPSE EVOKER), senza toccare i tuoi:
+2.89.0
+Profilo nuovo nel 7.1 Pro (ECLIPSE EVOKER), senza toccare i tuoi:
 
-- "Evoker Spari Zittiti (meno bassi)"
-- "Evoker Spari Zittiti (bassi asciutti)"
+- "Evoker Passi Warzone (come i pro)"
 
-Usano il r10_fullmute (quello che zittisce di piu gli spari) messo PER PRIMO
-nella catena - come dice la ricerca: chi toglie un suono forte va prima dei
-compressori, cosi i passi non calano subito dopo lo sparo. Il resto e identico
-al config. In piu hanno un po' di bassi tolti con l'anti-rimbombo (il secondo
-li toglie di piu). Niente profilo vecchio toccato.
+EQ rifatto come le guide e i pro di Warzone: bassi tagliati forte (il config
+li alzava), passi 1-4 kHz tirati su, 4-6 kHz per il "gear rattle", un filo
+d'aria a 8 kHz e taglio sopra 10 kHz per togliere il "ring" delle granate.
+Catena di Eclipse identica, ordine di Rara: cambia solo l'EQ. Cosi i bassi
+calano e i passi vengono su, come e costruito il gioco (passi in alto, bassi
+sotto spari ed esplosioni).
