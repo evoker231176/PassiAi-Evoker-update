@@ -1,9 +1,10 @@
-2.97.0
-Nella pagina 7.1 (8 canali) ora puoi aggiungere TUTTO da solo:
+2.98.0
+Ora anche in ATK puoi aggiungere un preset da solo.
 
-- "+ Aggiungi testa HRIR..." (nella card Testa) - file .wav
-- "+ Aggiungi PRE..." (nella card 1 - PRE) - file .txt
-- "+ Aggiungi POST..." (nella card Uscita, sotto POST) - file .txt
+In ATK -> scheda "Avanzate", card "Cartella dei preset", c'e un pulsante nuovo:
+"+ Aggiungi un preset ATK...". Scegli un file (BO7_..._16ch_*.txt), l'app lo
+copia al posto giusto e ricarica la lista. Prima potevi solo indicare una
+cartella intera; ora aggiungi anche un singolo preset.
 
-Scegli il file, l'app lo copia al posto giusto, lo mette in lista e lo
-seleziona. Cosi ti costruisci i preset del 7.1 senza aspettare un aggiornamento.
+Cosi, tra 7.1 e ATK, ti aggiungi teste, PRE, POST e preset ATK senza aspettare
+un aggiornamento.
