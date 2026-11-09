@@ -1,7 +1,9 @@
-2.96.0
-Nella pagina 7.1 (8 canali) ora puoi aggiungere una TESTA (HRIR) da solo.
+2.97.0
+Nella pagina 7.1 (8 canali) ora puoi aggiungere TUTTO da solo:
 
-Nella card "2 - Testa (HRIR)" c'e un pulsante nuovo: "+ Aggiungi testa HRIR...".
-Scegli un file .wav (una testa, dello stesso tipo di quelle di HeSuVi), e l'app
-la copia al posto giusto, la mette nella lista e la seleziona. Cosi ti aggiungi
-le teste che vuoi senza aspettare un aggiornamento.
+- "+ Aggiungi testa HRIR..." (nella card Testa) - file .wav
+- "+ Aggiungi PRE..." (nella card 1 - PRE) - file .txt
+- "+ Aggiungi POST..." (nella card Uscita, sotto POST) - file .txt
+
+Scegli il file, l'app lo copia al posto giusto, lo mette in lista e lo
+seleziona. Cosi ti costruisci i preset del 7.1 senza aspettare un aggiornamento.
