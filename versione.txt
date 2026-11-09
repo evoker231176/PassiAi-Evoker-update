@@ -1,15 +1,12 @@
-2.94.0
-Quattro alternative STUDIATE nel 7.1 Pro (ognuna un metodo audio diverso,
-dalla ricerca sui passi di Warzone), senza toccare i tuoi:
+2.95.0
+Ora puoi farti i profili DA SOLO, senza aspettare me.
 
-- "Evoker Lab 3 (Loudness come Treyarch)" - due compressori che ALZANO i suoni
-  deboli, come il mix Treyarch del gioco. Passi fortissimi, meno dinamica.
-- "Evoker Lab 4 (Snap chirurgico 2900)" - un picco STRETTO a 2900 Hz, proprio
-  sul transiente del passo. Preciso, pulito.
-- "Evoker Lab 5 (Smaschera, niente comp)" - nessun compressore: taglia i bassi
-  e il "fango" degli spari (315-630 Hz), cosi i passi escono da soli. Tiene
-  tutta la dinamica (direzione piu netta).
-- "Evoker Lab 6 (Crunch massimo 4-6k)" - spinge la zona del "crunch" della
-  superficie (ghiaia/metallo/legno).
+Nel 7.1 Pro -> scheda "Profili" c'e un tasto nuovo: "Importa config.txt".
+Scegli un file config (quelli di Equalizer APO / Rara), e l'app:
+- tiene solo le righe della catena (plugin, GraphicEQ, filtri, preamp)
+- butta via Device, Include e HeSuVi (roba che non serve all'app)
+- capisce da solo quale suppressore spari c'e
+- te lo salva come profilo tuo, pronto da caricare.
 
-Partono con la testa CMSS Gioco. Provale e dimmi quale metodo senti meglio.
+Ricorda: hai gia' "Salva come...", "Duplica" e "Rinomina" per crearti e
+modificarti i profili come vuoi.
