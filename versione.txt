@@ -1,10 +1,8 @@
-2.98.0
-Ora anche in ATK puoi aggiungere un preset da solo.
+2.99.0
+ATK a prova di futuro.
 
-In ATK -> scheda "Avanzate", card "Cartella dei preset", c'e un pulsante nuovo:
-"+ Aggiungi un preset ATK...". Scegli un file (BO7_..._16ch_*.txt), l'app lo
-copia al posto giusto e ricarica la lista. Prima potevi solo indicare una
-cartella intera; ora aggiungi anche un singolo preset.
-
-Cosi, tra 7.1 e ATK, ti aggiungi teste, PRE, POST e preset ATK senza aspettare
-un aggiornamento.
+Prima l'app cercava il motore ATK col nome esatto della versione
+(atk_spatial_engine_bravo_v2_0_0.dll). Ora cerca QUALSIASI
+atk_spatial_engine_*.dll e prende il piu' recente. Cosi, quando ArtTune fa una
+versione nuova (nome diverso), l'app la trova DA SOLA, senza aspettare un mio
+aggiornamento del codice. Quello che funziona oggi resta uguale.
