@@ -1,9 +1,11 @@
-3.1.0
-Sistemate le Caccia: le prime si sentivano troppo piano (passi inclusi), le ho
-tolte e rifatte piu forti.
+3.2.0
+Tre profili nuovi PULITI (le Caccia 2 restano). Il "casino" era troppi effetti
+insieme: questi ne hanno pochissimi.
 
-Nuove: "Evoker Caccia 2 (RaraSuppression front)", "(r10 spari)", "(r10 fullmute)".
-Cambiato il dosaggio: volume di recupero +4, tetto sulle bombe piu gentile
-(-10 invece di -16), passi spinti di piu nell'EQ (+5) e meno tagli sugli alti.
-Cosi i passi si sentono FORTE, e spari/bombe/arma restano comunque giu.
-Le vecchie Caccia vengono tolte da sole.
+- "Evoker Pulito 1 (solo EQ)" - nessun compressore, solo l'EQ dei passi. Il piu pulito.
+- "Evoker Pulito 2 (EQ + 1 compressore)" - un solo compressore leggero, per un filo di spinta.
+- "Evoker Pulito 3 (smaschera)" - niente compressore: taglia i bassi e il "fango"
+  degli spari, i passi escono da soli. Tiene la dinamica (direzione netta).
+
+Niente arma/tetto/spinta, niente volume gonfiato. Testa CMSS. Provali: dovrebbe
+sentirsi molto piu pulito.
