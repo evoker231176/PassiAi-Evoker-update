@@ -1,8 +1,14 @@
-2.99.0
-ATK a prova di futuro.
+3.0.0
+Tre profili nuovi "Caccia" nel 7.1 Pro: massimo passi + spari e bombe giu +
+la tua arma giu. Senza toccare i tuoi.
 
-Prima l'app cercava il motore ATK col nome esatto della versione
-(atk_spatial_engine_bravo_v2_0_0.dll). Ora cerca QUALSIASI
-atk_spatial_engine_*.dll e prende il piu' recente. Cosi, quando ArtTune fa una
-versione nuova (nome diverso), l'app la trova DA SOLA, senza aspettare un mio
-aggiornamento del codice. Quello che funziona oggi resta uguale.
+- "Evoker Caccia (RaraSuppression front)"
+- "Evoker Caccia (r10 spari)"
+- "Evoker Caccia (r10 fullmute)"
+
+Dalla ricerca sull'audio competitivo: la tua arma e' un suono "centrale", cosi
+il RaraSuppression front + un compressore sulla tua arma la abbassano; un tetto
+(limiter) tiene giu bombe ed esplosioni; l'EQ taglia il "piercing" stridente
+degli spari sopra 8-10 kHz e spinge i passi (1-4 kHz + crunch); una spinta
+alza ancora i passi. I tre si differenziano solo per il suppressore, cosi provi
+quale ti silenzia meglio gli spari tenendo su i passi. Partono con testa CMSS.
