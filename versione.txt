@@ -1,12 +1,7 @@
-2.95.0
-Ora puoi farti i profili DA SOLO, senza aspettare me.
+2.96.0
+Nella pagina 7.1 (8 canali) ora puoi aggiungere una TESTA (HRIR) da solo.
 
-Nel 7.1 Pro -> scheda "Profili" c'e un tasto nuovo: "Importa config.txt".
-Scegli un file config (quelli di Equalizer APO / Rara), e l'app:
-- tiene solo le righe della catena (plugin, GraphicEQ, filtri, preamp)
-- butta via Device, Include e HeSuVi (roba che non serve all'app)
-- capisce da solo quale suppressore spari c'e
-- te lo salva come profilo tuo, pronto da caricare.
-
-Ricorda: hai gia' "Salva come...", "Duplica" e "Rinomina" per crearti e
-modificarti i profili come vuoi.
+Nella card "2 - Testa (HRIR)" c'e un pulsante nuovo: "+ Aggiungi testa HRIR...".
+Scegli un file .wav (una testa, dello stesso tipo di quelle di HeSuVi), e l'app
+la copia al posto giusto, la mette nella lista e la seleziona. Cosi ti aggiungi
+le teste che vuoi senza aspettare un aggiornamento.
