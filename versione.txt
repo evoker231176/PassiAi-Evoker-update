@@ -1,14 +1,9 @@
-3.0.0
-Tre profili nuovi "Caccia" nel 7.1 Pro: massimo passi + spari e bombe giu +
-la tua arma giu. Senza toccare i tuoi.
+3.1.0
+Sistemate le Caccia: le prime si sentivano troppo piano (passi inclusi), le ho
+tolte e rifatte piu forti.
 
-- "Evoker Caccia (RaraSuppression front)"
-- "Evoker Caccia (r10 spari)"
-- "Evoker Caccia (r10 fullmute)"
-
-Dalla ricerca sull'audio competitivo: la tua arma e' un suono "centrale", cosi
-il RaraSuppression front + un compressore sulla tua arma la abbassano; un tetto
-(limiter) tiene giu bombe ed esplosioni; l'EQ taglia il "piercing" stridente
-degli spari sopra 8-10 kHz e spinge i passi (1-4 kHz + crunch); una spinta
-alza ancora i passi. I tre si differenziano solo per il suppressore, cosi provi
-quale ti silenzia meglio gli spari tenendo su i passi. Partono con testa CMSS.
+Nuove: "Evoker Caccia 2 (RaraSuppression front)", "(r10 spari)", "(r10 fullmute)".
+Cambiato il dosaggio: volume di recupero +4, tetto sulle bombe piu gentile
+(-10 invece di -16), passi spinti di piu nell'EQ (+5) e meno tagli sugli alti.
+Cosi i passi si sentono FORTE, e spari/bombe/arma restano comunque giu.
+Le vecchie Caccia vengono tolte da sole.
