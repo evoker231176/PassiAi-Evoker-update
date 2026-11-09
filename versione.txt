@@ -1,6 +1,11 @@
-2.91.0
-Sistemato "Evoker Passi Warzone (come i pro)". Il problema "tutto forte e
-meno passi" era colpa dei compressori che livellavano tutto troppo in alto.
-Ora lavorano piu piano (come i profili "Passi MAX"): il volume generale scende
-e i passi tornano a spiccare perche tengono la loro botta. Passi anche un filo
-piu su nell'EQ, bassi sempre tagliati. Si aggiorna da solo.
+2.92.0
+Profilo nuovo nel 7.1 Pro (ECLIPSE EVOKER), senza toccare i tuoi:
+
+- "Evoker Mio 2"
+
+Fatto dopo la ricerca a fondo su come e costruito l'audio del gioco: i passi
+stanno in DUE zone, non una. 1-4 kHz e' il dettaglio, 4-8 kHz e' il "crunch"
+della superficie (ghiaia, metallo, legno) che ti fa capire su cosa cammina il
+nemico. Questo profilo alza tutte e due le zone, taglia i bassi, lascia un filo
+di peso al passo, e tiene i compressori piu bassi (0.25) cosi non viene tutto
+forte e i passi spiccano. Ordine di Rara.
