@@ -1,11 +1,14 @@
-3.2.0
-Tre profili nuovi PULITI (le Caccia 2 restano). Il "casino" era troppi effetti
-insieme: questi ne hanno pochissimi.
+3.3.0
+Trovato l'errore: la testa CMSS (che avevo messo) e' la PEGGIORE per capire se
+un suono e' davanti o dietro. Misurato nero su bianco.
 
-- "Evoker Pulito 1 (solo EQ)" - nessun compressore, solo l'EQ dei passi. Il piu pulito.
-- "Evoker Pulito 2 (EQ + 1 compressore)" - un solo compressore leggero, per un filo di spinta.
-- "Evoker Pulito 3 (smaschera)" - niente compressore: taglia i bassi e il "fango"
-  degli spari, i passi escono da soli. Tiene la dinamica (direzione netta).
+Due profili nuovi fatti per la DIREZIONE (sentire dietro, porte, finestre):
+- "Evoker Direzione" (testa EAC Direzione)
+- "Evoker Direzione Forte" (testa EAC Direzione Forte, la migliore nei test)
 
-Niente arma/tetto/spinta, niente volume gonfiato. Testa CMSS. Provali: dovrebbe
-sentirsi molto piu pulito.
+Cambiato tutto l'approccio: testa giusta per il davanti/dietro, NIENTE
+soppressore (prima mangiava i colpi secchi tipo vetri e porte), alti tenuti su
+(il vetro e le porte stanno negli alti), e dietro/lati alzati.
+
+Dopo averli messi: accendi anche "Direzione (davanti/dietro)" e "Evoker Spatial"
+nel 7.1 Pro, aiutano a sentire dietro.
