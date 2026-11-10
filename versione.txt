@@ -1,9 +1,7 @@
-3.5.0
-Aggiunto "Evoker Misurato 2 (piu basso)" (il primo Misurato resta).
+3.6.0
+Aggiunto "Evoker Misurato 2 con RaraSuppression".
 
-Il primo era troppo alto: passi ok ma il resto forte. Questo e' tarato su
-TUTTE E DUE le tue registrazioni ed e' piu basso: niente compressore (era lui a
-tirare su "il resto"), volume normale, e spinge solo la "zona d'oro" 200-2000 Hz
-dove i tuoi passi vincono sempre. Gli alti li tiene bassi perche nelle
-sparatorie il 4-14 kHz e' il "piercing" stridente degli spari. Bassi/bombe
-tagliati, dietro e lati alzati, niente soppressore, testa EAC Direzione Forte.
+E' identico al Misurato 2 ma con davanti il RaraSuppression (Front) di Rara,
+quello tarato bene. Serve per confrontare: con lui gli spari dovrebbero
+scendere (meno casino) - tu senti se ti mangia i vetri/porte oppure no.
+Provalo contro "Misurato 2 (piu basso)" e dimmi quale e' meglio.
