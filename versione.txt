@@ -1,10 +1,10 @@
-3.7.0
-Due profili nuovi per abbassare lo SPARO senza alzare il resto:
-
-- "Evoker Spari Giu (fullmute)" - col soppressore che quasi muta lo sparo
-- "Evoker Spari Giu (RaraSupp + fullmute)" - RaraSuppression E fullmute insieme
-
-In tutti e due: oltre al soppressore, un TETTO (limitatore) che tappa i picchi
-dello sparo SENZA tirare su i suoni deboli (niente compressore, era quello che
-alzava "il resto"), piu l'EQ misurato sui tuoi dati e la testa EAC Direzione
-Forte. Prova i due e dimmi quale ti abbassa meglio lo sparo tenendo i passi.
+3.8.0
+Nuovo profilo "Evoker Rara Tarato".
+Ordine giusto (dalla ricerca): RaraSuppression -> V8 -> EQ -> V8 -> AmbGuard -> Tetto -> testa.
+Qui regolo io le manopole di Rara (quelle che si vedono nei cursori):
+- V8 Target basso (0.22): NON alza il fondo, cosi non si sente "tutto forte".
+- RaraSuppression Steps 1: abbassa gli spari ma salva i passi.
+- AmbGuard su: finestre, porte e nemici da dietro piu presenti.
+- EQ: bassi/bombe giu, passi su, ALTI tenuti (il vetro sta li).
+- Tetto -12: tappa i picchi dello sparo senza alzare i deboli.
+Testa EAC Direzione Forte. Gli altri profili NON si toccano.
