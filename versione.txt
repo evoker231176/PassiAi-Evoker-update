@@ -1,14 +1,11 @@
-3.3.0
-Trovato l'errore: la testa CMSS (che avevo messo) e' la PEGGIORE per capire se
-un suono e' davanti o dietro. Misurato nero su bianco.
+3.4.0
+Profilo nuovo tarato sulla TUA partita vera (analizzata la registrazione).
 
-Due profili nuovi fatti per la DIREZIONE (sentire dietro, porte, finestre):
-- "Evoker Direzione" (testa EAC Direzione)
-- "Evoker Direzione Forte" (testa EAC Direzione Forte, la migliore nei test)
+- "Evoker Misurato (dalla tua partita)"
 
-Cambiato tutto l'approccio: testa giusta per il davanti/dietro, NIENTE
-soppressore (prima mangiava i colpi secchi tipo vetri e porte), alti tenuti su
-(il vetro e le porte stanno negli alti), e dietro/lati alzati.
-
-Dopo averli messi: accendi anche "Direzione (davanti/dietro)" e "Evoker Spatial"
-nel 7.1 Pro, aiutano a sentire dietro.
+Dai numeri della tua partita: bombe ed esplosioni stanno quasi tutte nei bassi
+sotto 80 Hz -> li taglio forte (via quasi meta' del casino); i tuoi passi hanno
+peso tra 100 e 500 Hz -> li TENGO (prima li tagliavo per sbaglio); il "dietro"
+nella tua registrazione e' quasi muto -> alzo dietro e lati. Niente soppressore
+(cosi vetri e porte si sentono), testa EAC Direzione Forte per capire da dove
+arriva. Tarato sui tuoi dati, non a caso.
