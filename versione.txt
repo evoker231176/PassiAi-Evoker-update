@@ -1,6 +1,9 @@
-3.10.0
-Nuovo profilo "Evoker Passi Isolati Antivento".
-I passi restano come "Passi Isolati" (che ti piacevano), ma tolgo il VENTO.
-- Il vento e' rumore continuo: aggiunto il riduttore di fruscio (abbassa il fisso, lascia i colpi dei passi).
-- Tagliata la zona dove soffia il vento (160-250 Hz) senza toccare il corpo dei passi (315 Hz in su).
-Tieni anche "Passi Isolati" per confronto. Gli altri profili NON si toccano.
+3.11.0
+Nuovo profilo "Evoker Direzione Pura" (per capire DA DOVE arriva).
+La direzione (dietro, finestre, sopra/sotto) sta negli ALTI 5-16 kHz.
+- Qui gli alti li TENGO tutti, anzi presenza 6-10k su (vetri, attacco, dietro).
+- Tolgo solo il rombo delle bombe (sub) che maschera.
+- NIENTE soppressore (mangiava i vetri/eventi) e niente spinta stretta (appiattiva).
+- Solo EQ leggero + tetto gentile. Testa EAC Direzione Forte. Dietro/lati su.
+Nota: isolare e sentire la direzione sono opposti. Questo e' il profilo "direzione".
+Gli altri profili NON si toccano.
