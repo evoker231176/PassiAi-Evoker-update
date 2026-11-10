@@ -1,8 +1,6 @@
-3.9.0
-Nuovo profilo "Evoker Passi Isolati" (per togliere il casino).
-Obiettivo: solo i passi, il resto fuori.
-- NIENTE AmbGuard e NIENTE doppio compressore (erano loro a tirare su il fondo).
-- EQ a passa-banda: taglia forte le bombe/rumble sotto e il hiss/crack degli spari sopra, lascia solo la banda dei passi (200 Hz - 4 kHz).
-- Soppressore: spari giu, passi salvi (Steps 1).
-- Spinta passi + Tetto che tappa i picchi dello sparo.
-Testa EAC Direzione Forte. Gli altri profili NON si toccano.
+3.10.0
+Nuovo profilo "Evoker Passi Isolati Antivento".
+I passi restano come "Passi Isolati" (che ti piacevano), ma tolgo il VENTO.
+- Il vento e' rumore continuo: aggiunto il riduttore di fruscio (abbassa il fisso, lascia i colpi dei passi).
+- Tagliata la zona dove soffia il vento (160-250 Hz) senza toccare il corpo dei passi (315 Hz in su).
+Tieni anche "Passi Isolati" per confronto. Gli altri profili NON si toccano.
