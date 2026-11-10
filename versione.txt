@@ -1,11 +1,9 @@
-3.4.0
-Profilo nuovo tarato sulla TUA partita vera (analizzata la registrazione).
+3.5.0
+Aggiunto "Evoker Misurato 2 (piu basso)" (il primo Misurato resta).
 
-- "Evoker Misurato (dalla tua partita)"
-
-Dai numeri della tua partita: bombe ed esplosioni stanno quasi tutte nei bassi
-sotto 80 Hz -> li taglio forte (via quasi meta' del casino); i tuoi passi hanno
-peso tra 100 e 500 Hz -> li TENGO (prima li tagliavo per sbaglio); il "dietro"
-nella tua registrazione e' quasi muto -> alzo dietro e lati. Niente soppressore
-(cosi vetri e porte si sentono), testa EAC Direzione Forte per capire da dove
-arriva. Tarato sui tuoi dati, non a caso.
+Il primo era troppo alto: passi ok ma il resto forte. Questo e' tarato su
+TUTTE E DUE le tue registrazioni ed e' piu basso: niente compressore (era lui a
+tirare su "il resto"), volume normale, e spinge solo la "zona d'oro" 200-2000 Hz
+dove i tuoi passi vincono sempre. Gli alti li tiene bassi perche nelle
+sparatorie il 4-14 kHz e' il "piercing" stridente degli spari. Bassi/bombe
+tagliati, dietro e lati alzati, niente soppressore, testa EAC Direzione Forte.
