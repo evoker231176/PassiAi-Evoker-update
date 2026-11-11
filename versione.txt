@@ -1,9 +1,5 @@
-3.11.0
-Nuovo profilo "Evoker Direzione Pura" (per capire DA DOVE arriva).
-La direzione (dietro, finestre, sopra/sotto) sta negli ALTI 5-16 kHz.
-- Qui gli alti li TENGO tutti, anzi presenza 6-10k su (vetri, attacco, dietro).
-- Tolgo solo il rombo delle bombe (sub) che maschera.
-- NIENTE soppressore (mangiava i vetri/eventi) e niente spinta stretta (appiattiva).
-- Solo EQ leggero + tetto gentile. Testa EAC Direzione Forte. Dietro/lati su.
-Nota: isolare e sentire la direzione sono opposti. Questo e' il profilo "direzione".
-Gli altri profili NON si toccano.
+3.12.0
+Nuovo profilo "Eclipse Evoker meno bassi".
+E' la catena ORIGINALE di Rara, identica (Suppression -> V8 -> EQ -> V8 -> AmbGuard -> testa).
+Cambiato SOLO l'EQ nei bassi: da 20 a 100 Hz tolti 4 dB. Da 125 Hz in su tutto uguale a Rara.
+Nient'altro toccato. L'Originale e gli altri profili NON si toccano.
