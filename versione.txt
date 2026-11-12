@@ -1,7 +1,6 @@
-3.16.0
-Tanta roba nuova:
-- Profilo "Evoker Competitive 2": il Competitive completo, col plugin Focus vero (RaraFocusAmbienceGuardV1).
-- Profili "Evoker Spectre" e "Evoker Focus" (usano i plugin nuovi; numeri miei di partenza).
-- PAGINA 16 CANALI (SPERIMENTALE): nella pagina "16 canali SPARTA", scheda Suono, c'e' "Motore Rara 16". Lo accendi e usa i plugin Rara16 (shots, ninja, compressore, EQ, ambience, renderer, peak): il renderer di Rara fa la cuffia al posto di SPARTA. Da PROVARE: se non si sente, rimetti su spento.
-Per avere i plugin nuovi (Spectre, Focus, Rara16) devi reinstallare col SETUP NUOVO 3.16.0 (te lo mando a parte). Con solo l'aggiornamento automatico i profili ci sono ma i DLL nuovi no.
-Gli altri profili NON si toccano.
+3.17.0
+La pagina 16 canali Rara ora e' una PAGINA A SE' (non piu' dentro SPARTA).
+La trovi nel menu Home, voce "Rara 16". Premi "Attiva Rara 16": usa i 7 plugin Rara16 col renderer che fa la cuffia. Dentro regoli passi (ninja), spari, ambience.
+E' sperimentale: se non si sente o suona male, premi "Spegni Rara 16".
+Ricorda: per avere i plugin nuovi (Spectre, Focus, Rara16) devi reinstallare col SETUP NUOVO (te lo rimando).
+Gli altri profili e le altre pagine NON si toccano.
