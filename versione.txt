@@ -1,8 +1,6 @@
-3.14.0
-Nuovo profilo "Evoker Competitive" - i numeri AUTENTICI del Competitive di Rara.
-Presi dall'app di Rara (non inventati):
-- Soppressione (Gun 1, Steps 0, Front 1, Restore 0)
-- Compressore V8 -> EQ Competitive -> Compressore V8 -> AmbGuard
-- Testa EAC Direzione Forte (cambiala in Atmos quando carichi atmos-.wav)
-E' il tuo Campaign rifatto preciso dentro l'app. Il taglio bassi e il PeakGuard di Rara li fa il tetto dell'app.
+3.15.0
+Nuovo profilo "Evoker Campaign" - numeri autentici di Rara.
+Piu morbido di Eclipse: un solo compressore (Amount 0.3, Target 0.277778), AmbGuard, EQ Campaign gentile. Nel Campaign normale il soppressore e' spento, come fa Rara.
+Testa EAC Direzione Forte (cambiala in Atmos quando carichi atmos-.wav).
+In arrivo: la pagina 16 canali (Rara16).
 Gli altri profili NON si toccano.
