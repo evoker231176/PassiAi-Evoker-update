@@ -1,8 +1,7 @@
-3.33.0
-Pagina Rara 16 pulita, coi PULSANTI dei preset di Rara.
-Nella pagina 16 -> Suono adesso ci sono 4 pulsanti: Spectre, Competitive, Eclipse, Ghost.
-Clicchi e si attiva subito il preset, gia' settato esatto come Rara.
-La catena e' la stessa (numeri veri di Rara); cambia solo l'EQ cuffia:
-- Spectre: senza EQ cuffia
-- Competitive / Eclipse: EQ cuffia dolce
-- Ghost: EQ cuffia forte
+3.34.0
+Quattro profili 8 canali (7.1 Pro) nuovi, precisi ai config di Rara: Ghost, Spectre, Competitive, Eclipse.
+- Ghost: V8 + Ambience, poi EQ bassi + MJUCjr (soppressore spento).
+- Spectre: Suppression Gun 1 + V8 + EQ Spectre + spinta posteriori, PeakGuard dopo la testa (2o compressore e ambience spenti).
+- Competitive: V8 + Ambience, poi EQ Competitive dopo la testa.
+- Eclipse: come eclipse-fixed MA coi due Ambience Guard ACCESI.
+Tutti con testa HeSuVi Atmos. Non tocca i profili vecchi (Evoker ...). Li trovi nella pagina Profili.
