@@ -1,5 +1,5 @@
-3.25.0
-Evoker Competitive 4: ora usa la testa Dolby Atmos di HeSuVi, esattamente come fa Rara.
-Prima usava una testa EAC di sostituzione: tolta. Adesso il percorso e' identico a Rara:
-Suppression -> V8 -> EQ -> V8 -> AmbienceGuard -> testa Dolby Atmos -> FocusGuard -> PeakGuard di Rara.
-Gli altri profili non sono stati toccati.
+3.26.0
+Rara 16 canali: ora l'app controlla anche la FIRMA dei 7 plugin, non solo che ci siano.
+Nella pagina Rara 16 -> Avanzate per ogni plugin vedi "firma OK" (originale di Rara),
+"firma sbagliata" (file diverso/rovinato) o "manca". Come gia' fa il 7.1 Pro.
+Non cambia il suono: e' solo un controllo di sicurezza.
