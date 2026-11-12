@@ -1,5 +1,5 @@
-3.27.0
-Nuovo profilo "Eclipse Evoker": copia fedele del config eclipse-fixed di Rara (Eclipse 2.0.7).
-Prima della testa: Suppression -> V8 -> EQ -> V8 (ambience spenti, come nel file di Rara).
-Testa HeSuVi Dolby Atmos. Dopo la testa: EQ anti-rimbombo -> Preamp +1 -> PeakGuard -> Preamp -1.
-Lo trovi nella pagina Profili. Non tocca gli altri profili.
+3.28.0
+Nuovo profilo "Evoker Competitive 5": copia fedele del config spoglio di Rara.
+Un solo compressore V8 prima della testa, testa HeSuVi Dolby Atmos,
+EQ del Competitive DOPO la testa. Niente soppressore, niente ambience, niente preamp.
+E' il piu' leggero. Lo trovi nella pagina Profili. Non tocca gli altri profili.
