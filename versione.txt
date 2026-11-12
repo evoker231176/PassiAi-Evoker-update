@@ -1,5 +1,7 @@
-3.21.0
-Due cose:
-1) Pagina Rara 16 completa come il 7.1 Pro: ora mostra la CPU della catena, il ritardo, il picco in uscita, e per OGNI plugin quanto lavora (CPU %) e il suo picco (scheda Catena).
-2) Nuovo profilo "Evoker Competitive 3": il Competitive COMPLETO con tutti i plugin di Rara, incluso il RaraFocusPeakGuard finale. I due compressori sono prima e dopo l'EQ, come li mette Rara.
+3.22.0
+Nuovo profilo "Evoker Competitive 4": come lo mette Rara DAVVERO.
+- Prima della testa: Suppression -> V8 -> EQ -> V8 -> AmbGuard (i due compressori come Rara).
+- DOPO la testa (sulla cuffia, al posto giusto): FocusGuard -> PeakGuard di Rara.
+- NIENTE Tetto dell'app: il limitatore finale e' il PeakGuard di Rara, dopo la testa, esatto come fa Rara.
+(Novita' tecnica: i profili ora possono avere una sezione [post] per i plugin che vanno dopo la testa.)
 Basta aggiornare, i plugin ci sono gia'.
