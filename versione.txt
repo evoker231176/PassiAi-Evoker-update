@@ -1,5 +1,8 @@
-3.28.0
-Nuovo profilo "Evoker Competitive 5": copia fedele del config spoglio di Rara.
-Un solo compressore V8 prima della testa, testa HeSuVi Dolby Atmos,
-EQ del Competitive DOPO la testa. Niente soppressore, niente ambience, niente preamp.
-E' il piu' leggero. Lo trovi nella pagina Profili. Non tocca gli altri profili.
+3.29.0
+Tre profili nuovi + testa Atmos sistemata.
+- Fix testa: ora "Dolby Atmos" di HeSuVi si carica anche se il file si chiama atmos-.wav (col trattino).
+  Cosi' Competitive 4, Eclipse Evoker, Competitive 5 e i nuovi usano l'Atmos vero.
+- Evoker Spectre (8 canali): copia fedele del config spectre-fixed di Rara, con la spinta posteriori +2 dB.
+- Everick: il piu' neutro (solo compressore + testa, -6 dB).
+- Evoker Silenzio: col MJUCjr della Klanghelm (bassi gonfi). Serve il MJUCjr in C:\Program Files\Steinberg\VSTPlugins.
+Li trovi nella pagina Profili. Non tocca gli altri profili.
