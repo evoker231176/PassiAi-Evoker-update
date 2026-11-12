@@ -1,3 +1,7 @@
-3.23.0
-Correzione: nei profili col pezzo "dopo la testa" (come Competitive 4), le righe 1 e 2 della catena mostravano "NON caricato" per sbaglio.
-Era solo la SCRITTA: i plugin lavoravano gia' (l'audio era giusto). Ora le statistiche del pezzo dopo la testa non sovrascrivono piu' le prime due righe, e tutti i plugin si vedono "al lavoro".
+3.24.0
+Ora i plugin "dopo la testa" si VEDONO nella catena.
+In Competitive 4 (e in ogni profilo con la sezione dopo la testa):
+- Nei blocchi in alto compaiono dopo "HRIR": ... -> HRIR -> FocusGuard -> PeakGuard -> Cuffie.
+- Sotto la lista dei plugin c'e' un riquadro "Dopo la testa (sulla cuffia)" con FocusGuard e PeakGuard, ognuno con CPU e picco come gli altri.
+Cosi' vedi TUTTA la catena, anche la parte dopo la testa.
+Dopo l'aggiornamento, ri-seleziona Competitive 4 una volta per farli comparire.
