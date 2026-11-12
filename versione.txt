@@ -1,5 +1,7 @@
-3.30.0
-Evoker Silenzio: ora il MJUCjr sta DENTRO l'app.
-L'app porta il MJUCjr nella sua cartella (lo copia da Steinberg se non ce l'ha gia'),
-cosi' il profilo funziona anche se un giorno togli Steinberg.
-Il profilo ora punta alla copia dell'app, non piu' alla cartella Steinberg.
+3.31.0
+Pagina Rara 16: ora la catena e' FEDELE al config "sixteen" di Rara, coi numeri veri.
+- Compressori Amount 1 e 0.35 (prima avevo messo 0.5), con i Role, Norm e RefSum di Rara.
+- Renderer Master 0.454, filtro -2 dB a 160 Hz.
+- Aggiunta la correzione cuffia vera: EQ da 40 campane sui canali 1-2, poi PeakGuard e -6 dB.
+- Motore: ora capisce i canali a numero (Channel: 1 2), serviva per l'EQ cuffia.
+Il 16 resta sperimentale. Non tocca i profili del 7.1.
