@@ -1,7 +1,5 @@
-3.24.0
-Ora i plugin "dopo la testa" si VEDONO nella catena.
-In Competitive 4 (e in ogni profilo con la sezione dopo la testa):
-- Nei blocchi in alto compaiono dopo "HRIR": ... -> HRIR -> FocusGuard -> PeakGuard -> Cuffie.
-- Sotto la lista dei plugin c'e' un riquadro "Dopo la testa (sulla cuffia)" con FocusGuard e PeakGuard, ognuno con CPU e picco come gli altri.
-Cosi' vedi TUTTA la catena, anche la parte dopo la testa.
-Dopo l'aggiornamento, ri-seleziona Competitive 4 una volta per farli comparire.
+3.25.0
+Evoker Competitive 4: ora usa la testa Dolby Atmos di HeSuVi, esattamente come fa Rara.
+Prima usava una testa EAC di sostituzione: tolta. Adesso il percorso e' identico a Rara:
+Suppression -> V8 -> EQ -> V8 -> AmbienceGuard -> testa Dolby Atmos -> FocusGuard -> PeakGuard di Rara.
+Gli altri profili non sono stati toccati.
