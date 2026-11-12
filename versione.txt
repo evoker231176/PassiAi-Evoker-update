@@ -1,5 +1,6 @@
-3.12.0
-Nuovo profilo "Eclipse Evoker meno bassi".
-E' la catena ORIGINALE di Rara, identica (Suppression -> V8 -> EQ -> V8 -> AmbGuard -> testa).
-Cambiato SOLO l'EQ nei bassi: da 20 a 100 Hz tolti 4 dB. Da 125 Hz in su tutto uguale a Rara.
-Nient'altro toccato. L'Originale e gli altri profili NON si toccano.
+3.13.0
+Supporto ai plugin nuovi di Rara + profilo "Evoker Spectre".
+- Aggiornati gli hash: l'app ora riconosce come GIUSTI i tuoi file nuovi (RaraSuppression 1.0.9 e l'AmbGuardV20 nuovo/Spectre), senza avvisi "diverso". Accetta sia la versione nuova sia la vecchia.
+- Siccome Rara ha tenuto gli stessi NOMI dei file, i tuoi DLL nuovi l'app gia' li carica da sola.
+- Nuovo profilo "Evoker Spectre": rifa' il tuo Campaign (Suppression + V8 + EQ coi bassi tagliati e gli alti interi per la direzione + tetto). Testa EAC Direzione Forte (cambiala in Atmos quando carichi atmos-.wav).
+Gli altri profili NON si toccano.
