@@ -1,7 +1,5 @@
-3.20.0
-La pagina Rara 16 ora e' ricca come il 7.1 Pro:
-- Scheda Suono: due colonne (Passi e spari con volumi | Uscita con Volume finale e Ambience).
-- Scheda Catena: i blocchi con le frecce (come il 7.1 Pro) + la lista degli 8 plugin uno per uno, con gli interruttori.
-- Scheda Profili: cosa accendere.
-- Scheda Avanzate: TABELLA che mostra se ogni plugin c'e' e se lavora (come "File di Rara" del 7.1 Pro), con lo stato della catena quando e' attiva.
+3.21.0
+Due cose:
+1) Pagina Rara 16 completa come il 7.1 Pro: ora mostra la CPU della catena, il ritardo, il picco in uscita, e per OGNI plugin quanto lavora (CPU %) e il suo picco (scheda Catena).
+2) Nuovo profilo "Evoker Competitive 3": il Competitive COMPLETO con tutti i plugin di Rara, incluso il RaraFocusPeakGuard finale. I due compressori sono prima e dopo l'EQ, come li mette Rara.
 Basta aggiornare, i plugin ci sono gia'.
