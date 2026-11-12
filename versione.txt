@@ -1,6 +1,8 @@
-3.13.0
-Supporto ai plugin nuovi di Rara + profilo "Evoker Spectre".
-- Aggiornati gli hash: l'app ora riconosce come GIUSTI i tuoi file nuovi (RaraSuppression 1.0.9 e l'AmbGuardV20 nuovo/Spectre), senza avvisi "diverso". Accetta sia la versione nuova sia la vecchia.
-- Siccome Rara ha tenuto gli stessi NOMI dei file, i tuoi DLL nuovi l'app gia' li carica da sola.
-- Nuovo profilo "Evoker Spectre": rifa' il tuo Campaign (Suppression + V8 + EQ coi bassi tagliati e gli alti interi per la direzione + tetto). Testa EAC Direzione Forte (cambiala in Atmos quando carichi atmos-.wav).
+3.14.0
+Nuovo profilo "Evoker Competitive" - i numeri AUTENTICI del Competitive di Rara.
+Presi dall'app di Rara (non inventati):
+- Soppressione (Gun 1, Steps 0, Front 1, Restore 0)
+- Compressore V8 -> EQ Competitive -> Compressore V8 -> AmbGuard
+- Testa EAC Direzione Forte (cambiala in Atmos quando carichi atmos-.wav)
+E' il tuo Campaign rifatto preciso dentro l'app. Il taglio bassi e il PeakGuard di Rara li fa il tetto dell'app.
 Gli altri profili NON si toccano.
