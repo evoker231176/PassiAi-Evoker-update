@@ -1,5 +1,8 @@
-3.32.0
-Rara 16: nuovo interruttore "EQ cuffia" (acceso/spento).
-- Acceso: correzione testa di Rara (EQ 40 campane) dopo il renderer.
-- Spento: suono diretto dal renderer, come il config col Ninja acceso senza correzione.
-Cosi' con gli interruttori (Ninja + EQ cuffia) hai tutte e due le versioni del config sixteen.
+3.33.0
+Pagina Rara 16 pulita, coi PULSANTI dei preset di Rara.
+Nella pagina 16 -> Suono adesso ci sono 4 pulsanti: Spectre, Competitive, Eclipse, Ghost.
+Clicchi e si attiva subito il preset, gia' settato esatto come Rara.
+La catena e' la stessa (numeri veri di Rara); cambia solo l'EQ cuffia:
+- Spectre: senza EQ cuffia
+- Competitive / Eclipse: EQ cuffia dolce
+- Ghost: EQ cuffia forte
