@@ -1,5 +1,7 @@
-3.18.0
-Due cose sul disinstalla:
-- Non fa piu' scattare l'antivirus: il disinstallatore non parte piu' dalla cartella Temp (quella faceva insospettire Defender) e non e' piu' nascosto. Ora parte da una cartella tua normale, a finestra aperta.
-- Quando disinstalli adesso ti CHIEDE: SI = tolgo l'app ma tengo le tue impostazioni e il backup; NO = tolgo TUTTO (anche impostazioni e backup); ANNULLA = niente.
-Gli altri profili e le pagine NON si toccano.
+3.19.0
+La pagina Rara 16 ora e' IDENTICA alle altre:
+- barra in alto con stato (ACCESO/SPENTO) e pulsante ATTIVA/DISATTIVA, come il 7.1 Pro;
+- schede Suono / Catena / Profili / Avanzate;
+- nella scheda Catena vedi TUTTI e 8 i passaggi (spari, passi, compressore, EQ, compressore, ambience, renderer, peak).
+- Nella Panoramica c'e' la carta "Rara 16" con la sua icona, accanto alle altre.
+I plugin ci sono gia' se hai installato il setup: basta aggiornare, niente reinstallo.
