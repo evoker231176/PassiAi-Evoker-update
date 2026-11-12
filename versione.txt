@@ -1,7 +1,3 @@
-3.22.0
-Nuovo profilo "Evoker Competitive 4": come lo mette Rara DAVVERO.
-- Prima della testa: Suppression -> V8 -> EQ -> V8 -> AmbGuard (i due compressori come Rara).
-- DOPO la testa (sulla cuffia, al posto giusto): FocusGuard -> PeakGuard di Rara.
-- NIENTE Tetto dell'app: il limitatore finale e' il PeakGuard di Rara, dopo la testa, esatto come fa Rara.
-(Novita' tecnica: i profili ora possono avere una sezione [post] per i plugin che vanno dopo la testa.)
-Basta aggiornare, i plugin ci sono gia'.
+3.23.0
+Correzione: nei profili col pezzo "dopo la testa" (come Competitive 4), le righe 1 e 2 della catena mostravano "NON caricato" per sbaglio.
+Era solo la SCRITTA: i plugin lavoravano gia' (l'audio era giusto). Ora le statistiche del pezzo dopo la testa non sovrascrivono piu' le prime due righe, e tutti i plugin si vedono "al lavoro".
