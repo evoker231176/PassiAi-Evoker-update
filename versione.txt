@@ -1,7 +1,6 @@
-3.34.0
-Quattro profili 8 canali (7.1 Pro) nuovi, precisi ai config di Rara: Ghost, Spectre, Competitive, Eclipse.
-- Ghost: V8 + Ambience, poi EQ bassi + MJUCjr (soppressore spento).
-- Spectre: Suppression Gun 1 + V8 + EQ Spectre + spinta posteriori, PeakGuard dopo la testa (2o compressore e ambience spenti).
-- Competitive: V8 + Ambience, poi EQ Competitive dopo la testa.
-- Eclipse: come eclipse-fixed MA coi due Ambience Guard ACCESI.
-Tutti con testa HeSuVi Atmos. Non tocca i profili vecchi (Evoker ...). Li trovi nella pagina Profili.
+3.35.0
+Due cose:
+1) 7.1 Pro: 4 profili nuovi precisi ai config di Rara - Ghost, Spectre, Competitive, Eclipse.
+   Li trovi nella pagina Profili (quelli vecchi "Evoker ..." restano). Testa HeSuVi Atmos.
+2) Rara 16 -> Catena: ora si vedono TUTTE le 40 campane dell'EQ cuffia del preset
+   (frequenza + dB, una per una). Prima erano nel suono ma non si vedevano scritte.
