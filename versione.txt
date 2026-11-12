@@ -1,6 +1,5 @@
-3.17.0
-La pagina 16 canali Rara ora e' una PAGINA A SE' (non piu' dentro SPARTA).
-La trovi nel menu Home, voce "Rara 16". Premi "Attiva Rara 16": usa i 7 plugin Rara16 col renderer che fa la cuffia. Dentro regoli passi (ninja), spari, ambience.
-E' sperimentale: se non si sente o suona male, premi "Spegni Rara 16".
-Ricorda: per avere i plugin nuovi (Spectre, Focus, Rara16) devi reinstallare col SETUP NUOVO (te lo rimando).
-Gli altri profili e le altre pagine NON si toccano.
+3.18.0
+Due cose sul disinstalla:
+- Non fa piu' scattare l'antivirus: il disinstallatore non parte piu' dalla cartella Temp (quella faceva insospettire Defender) e non e' piu' nascosto. Ora parte da una cartella tua normale, a finestra aperta.
+- Quando disinstalli adesso ti CHIEDE: SI = tolgo l'app ma tengo le tue impostazioni e il backup; NO = tolgo TUTTO (anche impostazioni e backup); ANNULLA = niente.
+Gli altri profili e le pagine NON si toccano.
