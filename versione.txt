@@ -1,6 +1,7 @@
-3.15.0
-Nuovo profilo "Evoker Campaign" - numeri autentici di Rara.
-Piu morbido di Eclipse: un solo compressore (Amount 0.3, Target 0.277778), AmbGuard, EQ Campaign gentile. Nel Campaign normale il soppressore e' spento, come fa Rara.
-Testa EAC Direzione Forte (cambiala in Atmos quando carichi atmos-.wav).
-In arrivo: la pagina 16 canali (Rara16).
+3.16.0
+Tanta roba nuova:
+- Profilo "Evoker Competitive 2": il Competitive completo, col plugin Focus vero (RaraFocusAmbienceGuardV1).
+- Profili "Evoker Spectre" e "Evoker Focus" (usano i plugin nuovi; numeri miei di partenza).
+- PAGINA 16 CANALI (SPERIMENTALE): nella pagina "16 canali SPARTA", scheda Suono, c'e' "Motore Rara 16". Lo accendi e usa i plugin Rara16 (shots, ninja, compressore, EQ, ambience, renderer, peak): il renderer di Rara fa la cuffia al posto di SPARTA. Da PROVARE: se non si sente, rimetti su spento.
+Per avere i plugin nuovi (Spectre, Focus, Rara16) devi reinstallare col SETUP NUOVO 3.16.0 (te lo mando a parte). Con solo l'aggiornamento automatico i profili ci sono ma i DLL nuovi no.
 Gli altri profili NON si toccano.
