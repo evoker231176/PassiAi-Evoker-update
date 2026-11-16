@@ -1,17 +1,16 @@
-3.40.0
-Nuova pagina "Evoker 16" - 16 canali tutti nostri.
+3.41.0
+Nuovo motore ATK "Charlie" + 60 preset MW4 (ArtTune), insieme a Bravo.
 
-Nel menu Home, accanto a "Rara 16", c'e' "Evoker 16". E' un motore a parte:
-i 16 canali passano dalla catena Spettre (gli stessi plugin 1.0.2 di Rara,
-senza il renderer), poi la TUA testa SOFA fa la cuffia con la convoluzione
-veloce SIMD, come il 7.1 Pro.
+Ora i due motori ATK convivono: ogni preset usa la sua DLL.
+I preset vecchi (Bravo) restano uguali; i nuovi preset Charlie usano il
+motore Charlie. L'app sceglie la DLL giusta leggendo ogni preset, non piu'
+solo "la piu' recente". Se cambi preset tra Bravo e Charlie mentre suona,
+si riavvia da solo per caricare il motore giusto.
 
-- Non tocca per niente il 16 di Rara (file catena suo, stato suo).
-- Evoker 16 e Rara 16 non si accendono insieme (stesso cavo a 16): se accendi
-  uno, l'altro si spegne da solo.
-- Nella pagina scegli la testa (13 teste gia' pronte: SADIE KU100, Neumann
-  KU100, FABIAN, Bruel & Kjaer e altre), il volume e il tetto picchi.
-- Le teste stanno nella cartella teste_e16 (le mette l'installer).
+I 60 preset nuovi (stile MW4, 6 tune x 2 teste x 5 livelli arma):
+- Classic LE / Classic LE+ / Classic LE Raw / Classic LE Raw+
+- Theater Clear / Theater Clear+
+- ognuno nelle teste KU100 e KEMAR, con arma Poco/Medio/Tanto/Massimo/Originale
+  (Originale = ExtraHi, il meno lavoro sull'arma).
 
-Nota: la testa SOFA fa partire il suono con un blocco in piu' (~5 ms),
-inevitabile perche' la convoluzione lavora a blocchi (come nel 7.1 Pro).
+Li trovi in "Dentro i preset": scegli lo stile (col nome della testa) e il livello arma.
