@@ -1,16 +1,10 @@
-3.41.0
-Nuovo motore ATK "Charlie" + 60 preset MW4 (ArtTune), insieme a Bravo.
+3.42.0
+La DLL ATK ora si sceglie per FAMIGLIA (Bravo/Charlie), qualsiasi versione.
 
-Ora i due motori ATK convivono: ogni preset usa la sua DLL.
-I preset vecchi (Bravo) restano uguali; i nuovi preset Charlie usano il
-motore Charlie. L'app sceglie la DLL giusta leggendo ogni preset, non piu'
-solo "la piu' recente". Se cambi preset tra Bravo e Charlie mentre suona,
-si riavvia da solo per caricare il motore giusto.
+Prima l'app cercava il nome esatto della DLL (es. ..._charlie_v1_1_0.dll).
+Ora guarda solo la famiglia scritta nel preset - "bravo" o "charlie" - e prende
+la versione piu' recente di quella famiglia che trovi installata.
 
-I 60 preset nuovi (stile MW4, 6 tune x 2 teste x 5 livelli arma):
-- Classic LE / Classic LE+ / Classic LE Raw / Classic LE Raw+
-- Theater Clear / Theater Clear+
-- ognuno nelle teste KU100 e KEMAR, con arma Poco/Medio/Tanto/Massimo/Originale
-  (Originale = ExtraHi, il meno lavoro sull'arma).
-
-Li trovi in "Dentro i preset": scegli lo stile (col nome della testa) e il livello arma.
+Cosi, se un domani ArtTune aggiorna solo Charlie (es. v1_2_0), i preset Charlie
+passano da soli alla versione nuova, senza dover rifare niente. Uguale per Bravo.
+Se quella famiglia non c'e' proprio, l'app ripiega sulla DLL ATK piu' recente.
