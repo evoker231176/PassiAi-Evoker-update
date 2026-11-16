@@ -1,6 +1,6 @@
-3.35.0
-Due cose:
-1) 7.1 Pro: 4 profili nuovi precisi ai config di Rara - Ghost, Spectre, Competitive, Eclipse.
-   Li trovi nella pagina Profili (quelli vecchi "Evoker ..." restano). Testa HeSuVi Atmos.
-2) Rara 16 -> Catena: ora si vedono TUTTE le 40 campane dell'EQ cuffia del preset
-   (frequenza + dB, una per una). Prima erano nel suono ma non si vedevano scritte.
+3.36.0
+Rara 16: preset nuovo "Phantom" (config 1.0.2) + plugin 1.0.2.
+- Nuovo pulsante "Phantom": niente EQ cuffia, volume finale +1.5 dB (piu' forte).
+- Aggiornati i 3 plugin 1.0.2 di Rara (Ninja, BaseEq, Ambience): le firme ora danno OK sia per 1.0.1 che 1.0.2.
+- L'app porta da sola i 3 plugin 1.0.2 dalla cartella Rara, se non li ha gia' (copia di riserva).
+Per avere i file 1.0.2 sul PC serve reinstallare dall'installer nuovo; l'aggiornamento cambia solo l'exe.
