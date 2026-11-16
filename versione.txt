@@ -1,6 +1,6 @@
-3.38.0
-Sincronia cavo-cuffie piu' liscia (Fase 2).
-Prima, se la riserva cresceva, l'app buttava 1 campione ogni 100 (a strappo).
-Adesso legge dalla riserva a una velocita' appena aggiustata, con interpolazione:
-tiene la riserva in pari SENZA buttare campioni -> piu' liscio, zero micro-scatti nelle sessioni lunghe.
-Resta il taglio di sicurezza solo se la riserva esplode. Da provare: dimmi se senti differenze.
+3.39.0
+Opzione "Uscita esclusiva (prova)" - Fase 3. SPENTA di base.
+In 7.1 Pro -> Avanzate c'e' un nuovo interruttore: prende le cuffie in modo esclusivo
+per la latenza piu' bassa. Se la cuffia non la supporta o fa scatti, l'app torna da sola
+a condivisa (e tu la spegni). Spenta = tutto come adesso, nessun cambiamento.
+E' una PROVA: accendila, prova in gioco, e se non ti convince spegnila.
