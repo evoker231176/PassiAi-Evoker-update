@@ -1,10 +1,6 @@
-3.42.0
-La DLL ATK ora si sceglie per FAMIGLIA (Bravo/Charlie), qualsiasi versione.
+3.43.0
+Evoker 16 ora anche tra le icone grandi della Home.
 
-Prima l'app cercava il nome esatto della DLL (es. ..._charlie_v1_1_0.dll).
-Ora guarda solo la famiglia scritta nel preset - "bravo" o "charlie" - e prende
-la versione piu' recente di quella famiglia che trovi installata.
-
-Cosi, se un domani ArtTune aggiorna solo Charlie (es. v1_2_0), i preset Charlie
-passano da soli alla versione nuova, senza dover rifare niente. Uguale per Bravo.
-Se quella famiglia non c'e' proprio, l'app ripiega sulla DLL ATK piu' recente.
+Prima Evoker 16 stava solo nella riga dei tab in alto; ora c'e' anche come
+riquadro grande nella Home, accanto a Rara 16 (la fila passa da 7 a 8 icone).
+Nessun'altra pagina e' cambiata.
