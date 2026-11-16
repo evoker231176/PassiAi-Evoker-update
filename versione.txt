@@ -1,6 +1,6 @@
-3.37.0
-Motore piu' leggero e piu' stabile (il suono NON cambia).
-- Convoluzione della testa ora con SIMD (SSE3): meno CPU, soprattutto con teste lunghe o piu' canali.
-  Verificato: l'uscita e' identica a prima, bit per bit. Cambia solo quanto lavora, non come suona.
-- Memoria della testa bloccata in RAM (VirtualLock): meno micro-scatti quando il PC e' sotto carico.
-Non tocca profili, plugin, pagine. Fase 1 di 3.
+3.38.0
+Sincronia cavo-cuffie piu' liscia (Fase 2).
+Prima, se la riserva cresceva, l'app buttava 1 campione ogni 100 (a strappo).
+Adesso legge dalla riserva a una velocita' appena aggiustata, con interpolazione:
+tiene la riserva in pari SENZA buttare campioni -> piu' liscio, zero micro-scatti nelle sessioni lunghe.
+Resta il taglio di sicurezza solo se la riserva esplode. Da provare: dimmi se senti differenze.
