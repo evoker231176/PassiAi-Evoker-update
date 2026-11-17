@@ -1,7 +1,3 @@
-3.47.0
-Pagina Evoker 16: sistemati due difetti grafici.
-
-- Sotto il titolo non compare piu' "(null)": ora c'e' il sottotitolo giusto
-  ("16 canali tuoi: catena Spettre + la tua testa SOFA").
-- La catena dei plugin (scheda "Catena") ora e' ben leggibile: riquadri
-  colorati con testo chiaro, la testa SOFA evidenziata in verde acqua.
+3.48.0
+- ATK: nella riga verde adesso c'e' scritto il motore del preset scelto ("motore: Charlie" o "motore: Bravo"), cosi vedi sempre quale motore e' attivo.
+- Evoker 16: la catena dei plugin ora si vede bene (riquadri chiari) e va a capo da sola: non viene piu' tagliata "LA TUA TESTA SOFA".
