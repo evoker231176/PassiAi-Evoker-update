@@ -1,3 +1,4 @@
-3.48.0
-- ATK: nella riga verde adesso c'e' scritto il motore del preset scelto ("motore: Charlie" o "motore: Bravo"), cosi vedi sempre quale motore e' attivo.
-- Evoker 16: la catena dei plugin ora si vede bene (riquadri chiari) e va a capo da sola: non viene piu' tagliata "LA TUA TESTA SOFA".
+3.49.0
+- Evoker 16 adesso suona IDENTICO a Rara 16: stessa catena col Renderer e il PeakGuard. Non si sente piu' piano.
+- La cuffia la fa il Renderer di Rara (come in Rara 16). Non serve piu' scegliere una testa SOFA: tolta la scheda "Teste".
+- Evoker 16 resta un file a parte (evoker16_app.txt): non tocca il 16 di Rara.
