@@ -1,10 +1,7 @@
-3.46.0
-Risolto: l'app non si apriva se c'era un preset difettoso sul PC.
+3.47.0
+Pagina Evoker 16: sistemati due difetti grafici.
 
-Un singolo file preset rovinato (un .txt con "16ch" nel nome, vecchio o
-corrotto) mandava in errore di memoria tutta la lettura dei preset e l'app
-si chiudeva prima di aprire la finestra.
-
-Ora la lettura e' protetta file per file: un preset difettoso viene saltato
-e l'app continua con gli altri. In piu' una rete di sicurezza sull'avvio e un
-registro (C:\ProgramData\PassiAI\saltati.txt) che segna quale file e' stato saltato.
+- Sotto il titolo non compare piu' "(null)": ora c'e' il sottotitolo giusto
+  ("16 canali tuoi: catena Spettre + la tua testa SOFA").
+- La catena dei plugin (scheda "Catena") ora e' ben leggibile: riquadri
+  colorati con testo chiaro, la testa SOFA evidenziata in verde acqua.
