@@ -1,11 +1,10 @@
-3.44.0
-Risolto: l'app non si apriva (restava bloccata all'avvio).
+3.46.0
+Risolto: l'app non si apriva se c'era un preset difettoso sul PC.
 
-Causa: la scelta della DLL ATK per famiglia (bravo/charlie) frugava a fondo
-tutte le cartelle VST ogni volta, senza fermarsi e senza memoria, gia'
-all'avvio prima di aprire la finestra. Su PC con tante cartelle di plugin la
-ricerca si impallava e la finestra non appariva.
+Un singolo file preset rovinato (un .txt con "16ch" nel nome, vecchio o
+corrotto) mandava in errore di memoria tutta la lettura dei preset e l'app
+si chiudeva prima di aprire la finestra.
 
-Correzione: ora si ferma alla prima cartella che ha la DLL giusta (da dove la
-mette l'installer) e tiene il risultato in cache: la ricerca si fa una volta
-sola e subito, come la vecchia AtkPath. Nessun'altra cosa cambiata.
+Ora la lettura e' protetta file per file: un preset difettoso viene saltato
+e l'app continua con gli altri. In piu' una rete di sicurezza sull'avvio e un
+registro (C:\ProgramData\PassiAI\saltati.txt) che segna quale file e' stato saltato.
