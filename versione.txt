@@ -1,6 +1,11 @@
-3.43.0
-Evoker 16 ora anche tra le icone grandi della Home.
+3.44.0
+Risolto: l'app non si apriva (restava bloccata all'avvio).
 
-Prima Evoker 16 stava solo nella riga dei tab in alto; ora c'e' anche come
-riquadro grande nella Home, accanto a Rara 16 (la fila passa da 7 a 8 icone).
-Nessun'altra pagina e' cambiata.
+Causa: la scelta della DLL ATK per famiglia (bravo/charlie) frugava a fondo
+tutte le cartelle VST ogni volta, senza fermarsi e senza memoria, gia'
+all'avvio prima di aprire la finestra. Su PC con tante cartelle di plugin la
+ricerca si impallava e la finestra non appariva.
+
+Correzione: ora si ferma alla prima cartella che ha la DLL giusta (da dove la
+mette l'installer) e tiene il risultato in cache: la ricerca si fa una volta
+sola e subito, come la vecchia AtkPath. Nessun'altra cosa cambiata.
