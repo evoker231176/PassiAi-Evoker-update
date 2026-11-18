@@ -1,5 +1,3 @@
-3.63.0
-- Il 7.1 Pro adesso si ATTIVA anche se un plugin della catena manca: lo salta e parte lo stesso con tutti gli altri. Prima, se mancava anche un solo plugin (es. un ReaPlugs del [post]), non partiva niente. Sotto la barra appare una scritta gialla con i plugin saltati: il suono c'e', e se vuoi quei plugin li installi (ReaPlugs dal setup) o togli quel passaggio dalla catena.
-- Cerco i plugin in piu' cartelle (anche ReaPlugs e le cartelle a 32 bit), cosi' ne trova di piu' senza errori.
-- "Channel", "Device", "Include" nella catena non dicono piu' "NON caricato" (non sono plugin: dicono solo su quali canali lavorano i plugin dopo di loro). Adesso c'e' scritto cosa sono.
-- 7.1 Pro: anche lo schema "La catena" in alto ora e' verde (plugin c'e') / rosso (plugin manca).
+3.64.0
+- Rara 16 ed Evoker 16 si sentono piu' forti: la catena di Rara finisce apposta a -6 dB (headroom, cosi' gli spari non gracchiano). Adesso il "Volume finale" di base e' +6 dB, che riporta il livello giusto in cuffia SENZA toccare i plugin di Rara. Se avevi gia' messo tu un valore, resta il tuo: alza lo slider "Volume finale" in Rara 16 / Evoker 16 (Suono) fino a dove ti piace.
+- Messaggio di stop veritiero: quando fermi l'audio, l'app nomina Equalizer APO e Voicemeeter SOLO se ce li hai davvero. Se non li usi, dice solo "Audio fermato".
