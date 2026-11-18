@@ -1,3 +1,2 @@
-3.58.0
-- CORRETTO il crash: una struttura interna (preset) era disallineata perche sys.o non veniva ricompilato. Adesso build.sh lo rifa sempre.
-- Se la 3.56/3.57 ti crashava appena cliccavi, questa lo risolve.
+3.59.0
+- Anche la scheda "Tutti i preset" dell ATK ora e separata per gioco: BLACK OPS 7 e MW4, non piu mischiati.
