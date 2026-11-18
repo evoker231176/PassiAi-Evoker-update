@@ -1,3 +1,4 @@
-3.51.0
-- Anche Evoker 16 ora ha "I tuoi config": scegli un config dal file e l'app monta la catena com'e' scritta (gli stessi 7 config del 16).
-- "Interno" su Evoker 16 = identico a Rara 16, come prima.
+3.52.0
+- 7.1 Pro: adesso ci sono anche i tuoi 3 config a 8 canali (Spectre 8, eclipse 8, sloudness+coolness 8) come profili. Li trovi nei Profili del 7.1 Pro.
+- Il config viene montato com'e' scritto, spezzato nel punto giusto: prima della testa HeSuVi la catena, dopo la testa i plugin finali (Focus, PeakGuard, ReaPlugs).
+- La testa HeSuVi la scegli tu: nel 7.1 Pro, sezione "Testa (HRIR)" + le 54 teste HeSuVi. Scegli quella che vuoi, il resto del config resta com'e'.
