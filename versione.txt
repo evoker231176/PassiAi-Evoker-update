@@ -1,4 +1,4 @@
-3.49.0
-- Evoker 16 adesso suona IDENTICO a Rara 16: stessa catena col Renderer e il PeakGuard. Non si sente piu' piano.
-- La cuffia la fa il Renderer di Rara (come in Rara 16). Non serve piu' scegliere una testa SOFA: tolta la scheda "Teste".
-- Evoker 16 resta un file a parte (evoker16_app.txt): non tocca il 16 di Rara.
+3.50.0
+- NUOVO: su Rara 16 puoi scegliere i tuoi config dai file. Metti un .txt nella cartella config16 e l'app monta la catena ESATTAMENTE com'e' scritta nel config (DLL, plugin, ordine) - non la scrivo piu' io a mano.
+- Gia' dentro 7 config a 16 canali: sloudness+coolness, Spectre, eclipse, ghost acoustic, phantom eq, quality, quantum audio. Li trovi in Rara 16 -> "I tuoi config".
+- Il lettore dei config ora capisce tutto il formato Equalizer APO: If/Else, Include (HeSuVi), e trova i DLL per nome anche se il percorso del config non combacia col tuo PC.
