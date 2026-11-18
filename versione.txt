@@ -1,3 +1,4 @@
-3.53.0
-- Tolte le pagine che non servono: 7.1 SPARTA, 16 SPARTA e Radar (spariscono dal menu in alto e dalle icone in Home).
-- Il "16 canali" col cavo resta per Rara 16 ed Evoker 16: non cambia niente in Windows.
+3.54.0
+- Rara 16: i plugin della catena ora si accendono/spengono dai pulsanti (Passi/Ninja, Abbassa spari, Ambience) e vale anche sui tuoi config.
+- Slider "Forza passi" (Ninja): 100% = come il config, lo alzi o abbassi come vuoi.
+- Non cambia l'ordine e non riscrive i tuoi file: lavora su una copia.
