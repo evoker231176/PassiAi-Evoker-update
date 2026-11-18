@@ -1,2 +1,4 @@
-3.65.0
-- Catene verde/rosso sistemate per davvero: prima i blocchi "neutri" (EQ cuffia, Filtro, -6 dB, e anche reaeq/reaxcomp nel 7.1 Pro) uscivano del colore del tema - che nel tuo tema rosso sembrava "rosso/rotto" anche se funzionavano. Adesso: VERDE = funziona, ROSSO = solo un plugin che manca davvero, GRIGIO = inizio/fine (cavo, cuffie). Vale su 7.1 Pro, Rara 16 ed Evoker 16. Quindi l'EQ cuffia di Rara 16 e il Filtro/-6 dB di Evoker 16 ora sono verdi: funzionano, non erano rotti.
+3.66.0
+- Rara 16: il volume si alza SOLO col "Volume finale" (guadagno pulito), senza NESSUN limitatore o tetto aggiunto: il suono resta IDENTICO a Rara, solo piu' forte. (In una prova avevo messo un tetto di sicurezza: l'ho tolto, non era di Rara.)
+- Chi aveva Rara 16 / Evoker 16 col volume basso di prima: lo porto a +6 dB una volta sola (la catena di Rara finisce a -6 dB per headroom). Puoi sempre cambiarlo tu con lo slider "Volume finale".
+- Rara 16: in alto adesso c'e' scritto "Config" col nome del config che hai scelto davvero (es. "quantum audio"), non piu' "Competitive" fisso.
