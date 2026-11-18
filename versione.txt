@@ -1,3 +1,6 @@
-3.61.0
-- Pagina IA dei passi piu' semplice e chiara: sezioni in ordine (1 Dove lavora, 2 Come deve sentire, 3 Interruttori), con scritto a cosa serve ogni cosa. I modi pronti (Bilanciato/Pro/Aggressivo), la sensibilita' e "quanto alza i passi" stanno subito in vista; il ducking e "abbassa anche il resto" sono sotto "Regolazioni avanzate" (nascosti finche' non ti servono). Niente e' stato tolto: tutto quello di prima c'e' ancora. Le pagine Regolazioni e Profili non sono state toccate.
-- Slider forza dei plugin (Abbassa spari, Ambience, Passi): adesso lo slider appare SOLO se quel plugin, nel config attivo, ha davvero un parametro da regolare. Se il config non ce l'ha, lo slider non si mostra (cosi' non muovi una cosa che non fa niente). Se c'e', lo slider funziona e abbassa/alza davvero.
+3.62.0
+- IA dei passi: adesso scegli TU dove farla lavorare. In "Dove lavora" ci sono due levette separate: "Attiva su ATK (16 canali)" e "Attiva sul 7.1 Pro". Le accendi come vuoi (una, l'altra, tutte e due). Prima era sempre accesa su ATK.
+- Catene verde/rosso: ogni plugin della catena diventa VERDE se il file c'e' (funziona) e ROSSO se manca. Vale su 7.1 Pro, Rara 16 ed Evoker 16. Cosi' si vede a colpo d'occhio se qualcosa non va.
+- 7.1 Pro: quando un config scrive il plugin solo col nome (senza cartella), adesso l'app lo cerca nelle cartelle giuste e lo trova. Niente piu' "Manca il plugin" sbagliato quando il file c'e' davvero.
+- Tolto il radar: il cerchio che restava sullo schermo non appare piu'.
+- Tolta la scritta "SPARTA": i 16 canali ora si chiamano "Rara 16" o "Evoker 16" (anche nella barra in basso).
