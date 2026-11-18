@@ -1,2 +1,8 @@
-3.59.0
-- Anche la scheda "Tutti i preset" dell ATK ora e separata per gioco: BLACK OPS 7 e MW4, non piu mischiati.
+3.60.0
+- ATK: tolto il doppione degli stili dalla scheda "Suono" (lo stile si sceglie in "Tutti i preset"). Ora in "Suono" resta solo "Il tuo sparo" e "Uscita".
+- ATK: tolta la roba della IA da "Uscita" (la scritta e lo slider dei passi): la IA dei passi si accende e si regola solo nella sua pagina.
+- 7.1 Pro: tolte le teste EAC (Default, Direzione, Direzione Forte): restano solo le teste di HeSuVi. Chi aveva una testa EAC passa da solo a una testa HeSuVi.
+- 7.1 Pro: tolta la scritta della IA dalla scheda "Uscita".
+- Rara 16: tolta la card "Preset di Rara": resta solo "I tuoi config" (piu la Catena interna di base).
+- Rara 16 ed Evoker 16: adesso ogni plugin (Passi/Ninja, Abbassa spari/Silent Shots, Ambience) si accende, si spegne e si regola con lo slider della forza (100% = come il config). Prima solo i passi avevano lo slider.
+- Impostazioni: tolto SPARTA dalla riga dei plugin controllati (restano ATK ed ECLIPSE EVOKER).
