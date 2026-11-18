@@ -1,4 +1,2 @@
-3.66.0
-- Rara 16: il volume si alza SOLO col "Volume finale" (guadagno pulito), senza NESSUN limitatore o tetto aggiunto: il suono resta IDENTICO a Rara, solo piu' forte. (In una prova avevo messo un tetto di sicurezza: l'ho tolto, non era di Rara.)
-- Chi aveva Rara 16 / Evoker 16 col volume basso di prima: lo porto a +6 dB una volta sola (la catena di Rara finisce a -6 dB per headroom). Puoi sempre cambiarlo tu con lo slider "Volume finale".
-- Rara 16: in alto adesso c'e' scritto "Config" col nome del config che hai scelto davvero (es. "quantum audio"), non piu' "Competitive" fisso.
+3.67.0
+- ATK: in alto adesso c'e' la finestrella "Preset" col nome dello stile scelto, uguale al box "Config" di Rara 16. Cosi' vedi sempre quale preset e' attivo.
