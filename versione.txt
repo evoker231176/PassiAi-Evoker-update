@@ -1,2 +1,4 @@
-3.67.0
-- ATK: in alto adesso c'e' la finestrella "Preset" col nome dello stile scelto, uguale al box "Config" di Rara 16. Cosi' vedi sempre quale preset e' attivo.
+3.68.0
+- Panoramica: tolto il riquadro RADAR in basso (il radar non c'e' piu'). Gli altri quattro riquadri (Ritardo, Gioco, Cuffie, Passi sentiti) ora sono piu' larghi.
+- Panoramica: tolta la scritta "SPARTA" dall'intestazione: quando usi i 16 canali ora c'e' scritto "Rara 16" o "Evoker 16".
+- "Passi sentiti": la nota "conta su ATK e 7.1 Pro" ora e' grigia (prima era del colore del tema, che nel rosso sembrava un errore). I passi si contano solo su ATK e 7.1 Pro perche' la IA dei passi lavora li'.
