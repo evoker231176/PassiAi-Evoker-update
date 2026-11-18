@@ -1,3 +1,2 @@
-3.56.0
-- ATK: i preset adesso sono separati per gioco - BLACK OPS 7 da una parte, MW4 dall'altra. Non piu' mischiati.
-- Il gioco lo capisce da solo: Charlie = MW4, Bravo = Black Ops 7 (e dal nome del file MW4_/BO7_).
+3.57.0
+- Tolto SPARTA dalle scritte dell installer (le pagine SPARTA non ci sono piu).
