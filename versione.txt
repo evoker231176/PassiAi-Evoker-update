@@ -1,4 +1,3 @@
-3.68.0
-- Panoramica: tolto il riquadro RADAR in basso (il radar non c'e' piu'). Gli altri quattro riquadri (Ritardo, Gioco, Cuffie, Passi sentiti) ora sono piu' larghi.
-- Panoramica: tolta la scritta "SPARTA" dall'intestazione: quando usi i 16 canali ora c'e' scritto "Rara 16" o "Evoker 16".
-- "Passi sentiti": la nota "conta su ATK e 7.1 Pro" ora e' grigia (prima era del colore del tema, che nel rosso sembrava un errore). I passi si contano solo su ATK e 7.1 Pro perche' la IA dei passi lavora li'.
+3.69.0
+- Rara 16 ed Evoker 16: adesso lo slider per abbassare gli spari C'E' e FUNZIONA. Prima cercavo il parametro sbagliato: in Rara il cursore "GUNSHOT VOLUME" del Silent Shots e' il parametro "Gun", e ora e' quello che muovo. Piu' basso = spari piu' giu' (come in Rara). Vale anche per i passi (Ninja, parametro "Volume").
+- Rara 16: la scheda con gli interruttori dei plugin si chiamava "Profili" (nome sbagliato): ora si chiama "Plugin". Li' trovi Abbassa spari, Passi, Ambience con i loro cursori.
