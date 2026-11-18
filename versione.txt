@@ -1,8 +1,3 @@
-3.60.0
-- ATK: tolto il doppione degli stili dalla scheda "Suono" (lo stile si sceglie in "Tutti i preset"). Ora in "Suono" resta solo "Il tuo sparo" e "Uscita".
-- ATK: tolta la roba della IA da "Uscita" (la scritta e lo slider dei passi): la IA dei passi si accende e si regola solo nella sua pagina.
-- 7.1 Pro: tolte le teste EAC (Default, Direzione, Direzione Forte): restano solo le teste di HeSuVi. Chi aveva una testa EAC passa da solo a una testa HeSuVi.
-- 7.1 Pro: tolta la scritta della IA dalla scheda "Uscita".
-- Rara 16: tolta la card "Preset di Rara": resta solo "I tuoi config" (piu la Catena interna di base).
-- Rara 16 ed Evoker 16: adesso ogni plugin (Passi/Ninja, Abbassa spari/Silent Shots, Ambience) si accende, si spegne e si regola con lo slider della forza (100% = come il config). Prima solo i passi avevano lo slider.
-- Impostazioni: tolto SPARTA dalla riga dei plugin controllati (restano ATK ed ECLIPSE EVOKER).
+3.61.0
+- Pagina IA dei passi piu' semplice e chiara: sezioni in ordine (1 Dove lavora, 2 Come deve sentire, 3 Interruttori), con scritto a cosa serve ogni cosa. I modi pronti (Bilanciato/Pro/Aggressivo), la sensibilita' e "quanto alza i passi" stanno subito in vista; il ducking e "abbassa anche il resto" sono sotto "Regolazioni avanzate" (nascosti finche' non ti servono). Niente e' stato tolto: tutto quello di prima c'e' ancora. Le pagine Regolazioni e Profili non sono state toccate.
+- Slider forza dei plugin (Abbassa spari, Ambience, Passi): adesso lo slider appare SOLO se quel plugin, nel config attivo, ha davvero un parametro da regolare. Se il config non ce l'ha, lo slider non si mostra (cosi' non muovi una cosa che non fa niente). Se c'e', lo slider funziona e abbassa/alza davvero.
