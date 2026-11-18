@@ -1,3 +1,2 @@
-3.64.0
-- Rara 16 ed Evoker 16 si sentono piu' forti: la catena di Rara finisce apposta a -6 dB (headroom, cosi' gli spari non gracchiano). Adesso il "Volume finale" di base e' +6 dB, che riporta il livello giusto in cuffia SENZA toccare i plugin di Rara. Se avevi gia' messo tu un valore, resta il tuo: alza lo slider "Volume finale" in Rara 16 / Evoker 16 (Suono) fino a dove ti piace.
-- Messaggio di stop veritiero: quando fermi l'audio, l'app nomina Equalizer APO e Voicemeeter SOLO se ce li hai davvero. Se non li usi, dice solo "Audio fermato".
+3.65.0
+- Catene verde/rosso sistemate per davvero: prima i blocchi "neutri" (EQ cuffia, Filtro, -6 dB, e anche reaeq/reaxcomp nel 7.1 Pro) uscivano del colore del tema - che nel tuo tema rosso sembrava "rosso/rotto" anche se funzionavano. Adesso: VERDE = funziona, ROSSO = solo un plugin che manca davvero, GRIGIO = inizio/fine (cavo, cuffie). Vale su 7.1 Pro, Rara 16 ed Evoker 16. Quindi l'EQ cuffia di Rara 16 e il Filtro/-6 dB di Evoker 16 ora sono verdi: funzionano, non erano rotti.
