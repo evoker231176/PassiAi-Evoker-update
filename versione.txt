@@ -1,6 +1,5 @@
-3.62.0
-- IA dei passi: adesso scegli TU dove farla lavorare. In "Dove lavora" ci sono due levette separate: "Attiva su ATK (16 canali)" e "Attiva sul 7.1 Pro". Le accendi come vuoi (una, l'altra, tutte e due). Prima era sempre accesa su ATK.
-- Catene verde/rosso: ogni plugin della catena diventa VERDE se il file c'e' (funziona) e ROSSO se manca. Vale su 7.1 Pro, Rara 16 ed Evoker 16. Cosi' si vede a colpo d'occhio se qualcosa non va.
-- 7.1 Pro: quando un config scrive il plugin solo col nome (senza cartella), adesso l'app lo cerca nelle cartelle giuste e lo trova. Niente piu' "Manca il plugin" sbagliato quando il file c'e' davvero.
-- Tolto il radar: il cerchio che restava sullo schermo non appare piu'.
-- Tolta la scritta "SPARTA": i 16 canali ora si chiamano "Rara 16" o "Evoker 16" (anche nella barra in basso).
+3.63.0
+- Il 7.1 Pro adesso si ATTIVA anche se un plugin della catena manca: lo salta e parte lo stesso con tutti gli altri. Prima, se mancava anche un solo plugin (es. un ReaPlugs del [post]), non partiva niente. Sotto la barra appare una scritta gialla con i plugin saltati: il suono c'e', e se vuoi quei plugin li installi (ReaPlugs dal setup) o togli quel passaggio dalla catena.
+- Cerco i plugin in piu' cartelle (anche ReaPlugs e le cartelle a 32 bit), cosi' ne trova di piu' senza errori.
+- "Channel", "Device", "Include" nella catena non dicono piu' "NON caricato" (non sono plugin: dicono solo su quali canali lavorano i plugin dopo di loro). Adesso c'e' scritto cosa sono.
+- 7.1 Pro: anche lo schema "La catena" in alto ora e' verde (plugin c'e') / rosso (plugin manca).
