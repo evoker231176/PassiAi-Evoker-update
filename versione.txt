@@ -1,4 +1,3 @@
-3.55.0
-- La IA dei passi adesso sta in UNA pagina sola (pagina "IA dei passi"): tutti i comandi sono li.
-- Tolti gli interruttori della IA dalle altre pagine (ATK, 7.1 Pro, Impostazioni, Profili).
-- Nella pagina IA c'e' anche l'interruttore "Attiva anche sul 7.1 Pro". La IA lavora come prima su ATK e 7.1 Pro (non e' stata messa dove non c'era).
+3.56.0
+- ATK: i preset adesso sono separati per gioco - BLACK OPS 7 da una parte, MW4 dall'altra. Non piu' mischiati.
+- Il gioco lo capisce da solo: Charlie = MW4, Bravo = Black Ops 7 (e dal nome del file MW4_/BO7_).
