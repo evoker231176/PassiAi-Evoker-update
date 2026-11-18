@@ -1,4 +1,4 @@
-3.54.0
-- Rara 16: i plugin della catena ora si accendono/spengono dai pulsanti (Passi/Ninja, Abbassa spari, Ambience) e vale anche sui tuoi config.
-- Slider "Forza passi" (Ninja): 100% = come il config, lo alzi o abbassi come vuoi.
-- Non cambia l'ordine e non riscrive i tuoi file: lavora su una copia.
+3.55.0
+- La IA dei passi adesso sta in UNA pagina sola (pagina "IA dei passi"): tutti i comandi sono li.
+- Tolti gli interruttori della IA dalle altre pagine (ATK, 7.1 Pro, Impostazioni, Profili).
+- Nella pagina IA c'e' anche l'interruttore "Attiva anche sul 7.1 Pro". La IA lavora come prima su ATK e 7.1 Pro (non e' stata messa dove non c'era).
