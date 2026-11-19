@@ -1,5 +1,6 @@
-3.71.0
-- IA dei passi MOLTO PIU' GRANDE (circa 4 volte: 32-48-64-96 canali, ~147 mila numeri invece di 37 mila) e allenata sulle TUE partite. Piu' capace di distinguere i passi dal vento (il tuo problema di sempre). In validazione prende circa 85 passi su 100 con pochissimi falsi.
-- Resta a 0 ms di ritardo (guarda solo il passato) e pesa pochissimo in piu' sul PC.
-- Una sola "IA dei passi" nella pagina (la grande, allenata su di te). La IA degli spari resta.
+3.72.0
+- IA dei passi RIALLENATA con le tue DUE partite nuove (quasi 12 minuti ciascuna, 16 canali).
+- Adesso impara anche dai passi che TU NON HAI SENTITO (i marchi F7, tipo quello che ti e' arrivato da dietro): nel test li prende tutti e 12 su 12. Serve proprio a farti sentire i passi bassi e da dietro.
+- Stessa IA grande di prima (32-48-64-96, ~147 mila numeri), solo piu' "allenata": in validazione prende circa 80-86 passi su 100 con precisione 90%.
+- Sempre 0 ms di ritardo (guarda solo il passato) e pesa uguale sul PC.
 - Se vuoi prenderne di piu' alza la Sensibilita'; se spara troppo abbassala.
