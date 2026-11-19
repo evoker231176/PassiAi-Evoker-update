@@ -1,6 +1,6 @@
-3.72.0
-- IA dei passi RIALLENATA con le tue DUE partite nuove (quasi 12 minuti ciascuna, 16 canali).
-- Adesso impara anche dai passi che TU NON HAI SENTITO (i marchi F7, tipo quello che ti e' arrivato da dietro): nel test li prende tutti e 12 su 12. Serve proprio a farti sentire i passi bassi e da dietro.
-- Stessa IA grande di prima (32-48-64-96, ~147 mila numeri), solo piu' "allenata": in validazione prende circa 80-86 passi su 100 con precisione 90%.
-- Sempre 0 ms di ritardo (guarda solo il passato) e pesa uguale sul PC.
-- Se vuoi prenderne di piu' alza la Sensibilita'; se spara troppo abbassala.
+3.73.0
+- ADESSO PUOI ALLENARE LA IA DEI PASSI DA SOLO, SUL TUO PC.
+- L'app legge il "cervello" della IA da un file esterno (Documenti\PassiAI Evoker\passi_ia.bin). Se non c'e', usa quello di fabbrica come sempre (identica a prima).
+- Quando alleni la IA col programma "Allenatore" sul PC, lei scrive quel file e l'app lo usa in automatico al riavvio. Niente da reinstallare.
+- Nella pagina "IA dei passi" compare la scritta "cervello allenato DA TE" quando stai usando la tua IA personale.
+- Per tornare a quella di fabbrica basta cancellare il file passi_ia.bin.
