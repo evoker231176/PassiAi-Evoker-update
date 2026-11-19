@@ -1,5 +1,5 @@
-3.76.0
-- Rara 16 / Evoker 16: adesso l'app cerca le DIPENDENZE di un plugin DENTRO la sua cartella.
-- Serve per il Renderer di Rara (la direzione/cuffia): lui ha bisogno del file "RaraAtmos16LocalLab.dll" accanto a sé. Senza, Windows non lo apriva e l'app lo saltava (passi/direzione spariti). Ora, se il file c'e' accanto, il Renderer parte.
-- Se un plugin non si carica, l'avviso ora dice anche il MOTIVO (es. "manca un file che gli serve accanto").
-IMPORTANTE: metti il file "RaraAtmos16LocalLab.dll" nella stessa cartella del Rara16Renderer.dll (es. C:\Program Files\VSTPlugins\VSTPlugins\rara16). Se non ce l'hai lì, cercalo sul PC e copialo accanto al Renderer.
+3.77.0
+- Aggiunto il config "evoker" in Rara 16 ed Evoker 16: e' la copia IDENTICA (riga per riga) del tuo config "sixteen" di Rara.
+- Lo trovi nella pagina Rara 16 (o Evoker 16) -> sezione "I tuoi config" -> pulsante "evoker".
+- Catena fedele: SilentShots -> Ninja -> Compressore -> BaseEq -> Compressore -> Filtro 160 Hz -> Renderer -> azzera 3-16 -> [canali 1-2] PeakGuard -> Preamp +1.5 dB (con l'Else -1000 dB come il tuo).
+- Nota: il suono della catena parte solo se il Renderer riesce a caricarsi (gli serve il suo file compagno RaraAtmos16LocalLab.dll accanto). Il config in se' e' identico al tuo.
