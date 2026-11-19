@@ -1,5 +1,5 @@
-3.75.0
-- SOLO Rara 16 ed Evoker 16: se manca un plugin, ora l'app TE LO DICE (cartello rosso), non lo salta più in silenzio.
-- Prima, se mancava un plugin di Rara (es. "alza i passi" Ninja o la "direzione" Renderer), la catena partiva lo stesso SENZA quel plugin e non diceva niente: passi bassi e poca direzione, senza spiegazione. Era un mio errore: ora lo vedi subito.
-- Nella pagina Rara 16 / Evoker 16 compare: "ATTENZIONE: mancano dei plugin, saltati: ..." e nella scheda Catena quello che manca resta ROSSO.
-- Se vedi il cartello: reinstalla quei plugin di Rara (dal setup) o controlla la cartella. Se NON vedi nessun cartello ma i passi restano bassi, è il config: scrivimi.
+3.76.0
+- Rara 16 / Evoker 16: adesso l'app cerca le DIPENDENZE di un plugin DENTRO la sua cartella.
+- Serve per il Renderer di Rara (la direzione/cuffia): lui ha bisogno del file "RaraAtmos16LocalLab.dll" accanto a sé. Senza, Windows non lo apriva e l'app lo saltava (passi/direzione spariti). Ora, se il file c'e' accanto, il Renderer parte.
+- Se un plugin non si carica, l'avviso ora dice anche il MOTIVO (es. "manca un file che gli serve accanto").
+IMPORTANTE: metti il file "RaraAtmos16LocalLab.dll" nella stessa cartella del Rara16Renderer.dll (es. C:\Program Files\VSTPlugins\VSTPlugins\rara16). Se non ce l'hai lì, cercalo sul PC e copialo accanto al Renderer.
