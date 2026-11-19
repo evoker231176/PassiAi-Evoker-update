@@ -1,6 +1,6 @@
-3.73.0
-- ADESSO PUOI ALLENARE LA IA DEI PASSI DA SOLO, SUL TUO PC.
-- L'app legge il "cervello" della IA da un file esterno (Documenti\PassiAI Evoker\passi_ia.bin). Se non c'e', usa quello di fabbrica come sempre (identica a prima).
-- Quando alleni la IA col programma "Allenatore" sul PC, lei scrive quel file e l'app lo usa in automatico al riavvio. Niente da reinstallare.
-- Nella pagina "IA dei passi" compare la scritta "cervello allenato DA TE" quando stai usando la tua IA personale.
-- Per tornare a quella di fabbrica basta cancellare il file passi_ia.bin.
+3.74.0
+- La IA dei passi ora lavora anche sul 7.1 NORMALE e sul 7.1 HeSuVi (prima solo su ATK e 7.1 Pro).
+- Si accende con l'interruttore "Attiva sul 7.1 (normale, Pro, HeSuVi)" nella pagina IA dei passi, sezione "Dove lavora".
+- Di base resta SPENTA sul 7.1: la accendi tu quando vuoi. Con l'interruttore spento il 7.1 suona identico a prima.
+- Usa lo stesso cervello che hai allenato tu (il tuo passi_ia.bin resta: l'aggiornamento non lo tocca).
+- Nota: la IA ascolta il suono del gioco PRIMA della testa, quindi riconosce i passi uguale con qualsiasi testa (HeSuVi, ECLIPSE, Dolby/DTS/Sonic). Cambia solo come li senti.
