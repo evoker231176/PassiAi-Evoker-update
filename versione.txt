@@ -1,5 +1,4 @@
-3.77.0
-- Aggiunto il config "evoker" in Rara 16 ed Evoker 16: e' la copia IDENTICA (riga per riga) del tuo config "sixteen" di Rara.
-- Lo trovi nella pagina Rara 16 (o Evoker 16) -> sezione "I tuoi config" -> pulsante "evoker".
-- Catena fedele: SilentShots -> Ninja -> Compressore -> BaseEq -> Compressore -> Filtro 160 Hz -> Renderer -> azzera 3-16 -> [canali 1-2] PeakGuard -> Preamp +1.5 dB (con l'Else -1000 dB come il tuo).
-- Nota: il suono della catena parte solo se il Renderer riesce a caricarsi (gli serve il suo file compagno RaraAtmos16LocalLab.dll accanto). Il config in se' e' identico al tuo.
+3.78.0
+- Rara 16 ed Evoker 16: la lista "I plugin, uno per uno" e lo schema "La catena" ora mostrano ESATTAMENTE i plugin del config caricato (non piu' una lista fissa).
+- Se nel config un plugin non c'e' (es. Ambience nel config "evoker"), non lo mostra piu'. Se un plugin e' spento nel config (Enabled 0), lo mostra "spento", non "fisso ON".
+- Cosi' quello che vedi a video = quello che c'e' davvero nel config, al 100%.
