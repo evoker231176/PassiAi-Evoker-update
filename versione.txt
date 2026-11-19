@@ -1,6 +1,5 @@
-3.74.0
-- La IA dei passi ora lavora anche sul 7.1 NORMALE e sul 7.1 HeSuVi (prima solo su ATK e 7.1 Pro).
-- Si accende con l'interruttore "Attiva sul 7.1 (normale, Pro, HeSuVi)" nella pagina IA dei passi, sezione "Dove lavora".
-- Di base resta SPENTA sul 7.1: la accendi tu quando vuoi. Con l'interruttore spento il 7.1 suona identico a prima.
-- Usa lo stesso cervello che hai allenato tu (il tuo passi_ia.bin resta: l'aggiornamento non lo tocca).
-- Nota: la IA ascolta il suono del gioco PRIMA della testa, quindi riconosce i passi uguale con qualsiasi testa (HeSuVi, ECLIPSE, Dolby/DTS/Sonic). Cambia solo come li senti.
+3.75.0
+- SOLO Rara 16 ed Evoker 16: se manca un plugin, ora l'app TE LO DICE (cartello rosso), non lo salta più in silenzio.
+- Prima, se mancava un plugin di Rara (es. "alza i passi" Ninja o la "direzione" Renderer), la catena partiva lo stesso SENZA quel plugin e non diceva niente: passi bassi e poca direzione, senza spiegazione. Era un mio errore: ora lo vedi subito.
+- Nella pagina Rara 16 / Evoker 16 compare: "ATTENZIONE: mancano dei plugin, saltati: ..." e nella scheda Catena quello che manca resta ROSSO.
+- Se vedi il cartello: reinstalla quei plugin di Rara (dal setup) o controlla la cartella. Se NON vedi nessun cartello ma i passi restano bassi, è il config: scrivimi.
