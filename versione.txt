@@ -1,3 +1,5 @@
-3.69.0
-- Rara 16 ed Evoker 16: adesso lo slider per abbassare gli spari C'E' e FUNZIONA. Prima cercavo il parametro sbagliato: in Rara il cursore "GUNSHOT VOLUME" del Silent Shots e' il parametro "Gun", e ora e' quello che muovo. Piu' basso = spari piu' giu' (come in Rara). Vale anche per i passi (Ninja, parametro "Volume").
-- Rara 16: la scheda con gli interruttori dei plugin si chiamava "Profili" (nome sbagliato): ora si chiama "Plugin". Li' trovi Abbassa spari, Passi, Ambience con i loro cursori.
+3.70.0
+- IA dei passi NUOVA, allenata sulle TUE partite. Prima era addestrata su suoni generici e sul tuo gioco prendeva circa 1 passo su 4 (14-31%). Ora e' stata allenata sui tuoi 23 minuti di gioco veri + 180 campioni di passi per superficie, con i tuoi segni F8 allineati al passo vero (erano in ritardo di 0,2 s). Risultato: prende circa 3 passi su 4 e spara molto meno a vuoto (non "pompa" piu' l'audio).
+- Stessa macchina di prima (stessa dimensione, 0 ms di ritardo): cambia quello che ha imparato, non il peso sul PC.
+- Nella pagina IA passi adesso c'e' UNA sola "IA dei passi" (tolte "IA di sempre" e "IA nuova"). La IA degli spari resta.
+- Se vuoi prenderne di piu', alza la Sensibilita'; se ti sembra che spari troppo, abbassala.
