@@ -1,5 +1,5 @@
-3.70.0
-- IA dei passi NUOVA, allenata sulle TUE partite. Prima era addestrata su suoni generici e sul tuo gioco prendeva circa 1 passo su 4 (14-31%). Ora e' stata allenata sui tuoi 23 minuti di gioco veri + 180 campioni di passi per superficie, con i tuoi segni F8 allineati al passo vero (erano in ritardo di 0,2 s). Risultato: prende circa 3 passi su 4 e spara molto meno a vuoto (non "pompa" piu' l'audio).
-- Stessa macchina di prima (stessa dimensione, 0 ms di ritardo): cambia quello che ha imparato, non il peso sul PC.
-- Nella pagina IA passi adesso c'e' UNA sola "IA dei passi" (tolte "IA di sempre" e "IA nuova"). La IA degli spari resta.
-- Se vuoi prenderne di piu', alza la Sensibilita'; se ti sembra che spari troppo, abbassala.
+3.71.0
+- IA dei passi MOLTO PIU' GRANDE (circa 4 volte: 32-48-64-96 canali, ~147 mila numeri invece di 37 mila) e allenata sulle TUE partite. Piu' capace di distinguere i passi dal vento (il tuo problema di sempre). In validazione prende circa 85 passi su 100 con pochissimi falsi.
+- Resta a 0 ms di ritardo (guarda solo il passato) e pesa pochissimo in piu' sul PC.
+- Una sola "IA dei passi" nella pagina (la grande, allenata su di te). La IA degli spari resta.
+- Se vuoi prenderne di piu' alza la Sensibilita'; se spara troppo abbassala.
