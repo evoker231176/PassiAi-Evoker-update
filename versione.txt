@@ -1,9 +1,5 @@
-3.92.0
-Dark 16: tolti il compressore e l'ambience di Rara (bloccati fuori da
-Equalizer APO, restavano a 0.0) e messi i NOSTRI al loro posto:
- - Dark Compressor: abbassa davvero i suoni forti (sparo, arma).
- - Dark Ambience: tiene giu' l'ambiente/i suoni lontani.
-Hanno gli STESSI parametri di quelli di Rara, quindi i tuoi config li guidano
-uguale. Nella catena ora si chiamano "Dark Compressor" e "Dark Ambience".
-Prova: spara in partita e guarda la colonna "Abbassa" su Dark Compressor:
-adesso deve diventare VERDE (numero negativo), non piu' 0.0.
+3.93.0
+Dark 16 / scheda Avanzate: ora elenca giusto. Compressore e ambience non
+sono piu' tra i plugin "di Rara": sono tra i NOSTRI (viola) insieme al
+renderer. A Rara restano solo i ritocchi che usiamo davvero (spari, passi,
+EQ base, tetto picchi). Solo come scrive la lista: il suono non cambia.
