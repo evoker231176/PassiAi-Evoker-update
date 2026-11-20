@@ -1,2 +1,5 @@
-3.83.0
-Dark 16: ora le campane (EQ cuffia) mostrano quelle del CONFIG scelto davvero, non piu' sempre "Competitive". Cambi config -> cambiano le campane. Lette dal config caricato.
+3.84.0
+Dark 16: le campane (EQ cuffia) adesso restano anche quando premi ATTIVA.
+Prima sparivano: due pagine vecchie e nascoste (Evoker 16 e il vecchio Dark16)
+continuavano a girare dietro le quinte e cancellavano le campane del config.
+Ora sono tolte del tutto: non girano piu'. Resta solo Dark 16 (il nostro renderer).
