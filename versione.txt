@@ -1,5 +1,6 @@
-3.86.0
-Dark 16: ora il motore manda ai plugin il segnale VST "inizia a lavorare"
-(start process). I compressori di Rara restavano fermi senza questo segnale.
-Prova: attiva Dark 16, spara in partita e guarda la colonna "Abbassa":
-i Compressori dovrebbero passare da 0.0 dB a un numero verde (negativo).
+3.87.0
+Dark 16 / scheda Catena: nuova colonna "Canali in/out".
+Mostra gli ingressi/uscite veri di ogni plugin. Se un compressore ha
+piu' ingressi che uscite (segnato "sc!") vuol dire che ha un ingresso di
+ascolto (sidechain) che resta muto: ecco perche' non comprime.
+Serve a capire il problema dei compressori, nero su bianco.
