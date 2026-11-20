@@ -1,2 +1,2 @@
-3.82.0
-Dark 16 - scheda Avanzate: il nostro renderer ora e' in VIOLA fisso (non piu' arancione del tema) e senza il simbolo che il font non disegnava. Dice solo "nostro". Il resto uguale.
+3.83.0
+Dark 16: ora le campane (EQ cuffia) mostrano quelle del CONFIG scelto davvero, non piu' sempre "Competitive". Cambi config -> cambiano le campane. Lette dal config caricato.
