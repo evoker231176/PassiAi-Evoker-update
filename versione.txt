@@ -1,4 +1,6 @@
-3.78.0
-- Rara 16 ed Evoker 16: la lista "I plugin, uno per uno" e lo schema "La catena" ora mostrano ESATTAMENTE i plugin del config caricato (non piu' una lista fissa).
-- Se nel config un plugin non c'e' (es. Ambience nel config "evoker"), non lo mostra piu'. Se un plugin e' spento nel config (Enabled 0), lo mostra "spento", non "fisso ON".
-- Cosi' quello che vedi a video = quello che c'e' davvero nel config, al 100%.
+3.79.0
+Nuova pagina "Dark 16": i 16 canali con il NOSTRO renderer per la cuffia (testa SADIE KU100), al posto di quello di Rara.
+- Stessa catena della config "sixteen" (spari, compressori, EQ base, filtro 160, peak), ma la cuffia la fa il renderer nostro, incorporato nell'app.
+- Il renderer sta dentro l'app: per la direzione non serve il renderer di Rara ne nessuna chiave.
+- Dark 16 e' accanto a Rara 16 ed Evoker 16 (carta sulla Home + linguetta + pagina). Usano lo stesso cavo: uno solo alla volta.
+- Rara 16 ed Evoker 16 NON sono stati toccati.
