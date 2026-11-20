@@ -1,5 +1,5 @@
-3.85.0
-Dark 16: nella scheda Catena, ogni plugin ora mostra la colonna "Abbassa" =
-quanti dB toglie davvero mentre suoni. Spara in partita e guarda i compressori:
-VERDE = stanno abbassando. GIALLO 0.0 dB = non stanno toccando niente.
-Cosi' vediamo nero su bianco se i compressori lavorano.
+3.86.0
+Dark 16: ora il motore manda ai plugin il segnale VST "inizia a lavorare"
+(start process). I compressori di Rara restavano fermi senza questo segnale.
+Prova: attiva Dark 16, spara in partita e guarda la colonna "Abbassa":
+i Compressori dovrebbero passare da 0.0 dB a un numero verde (negativo).
