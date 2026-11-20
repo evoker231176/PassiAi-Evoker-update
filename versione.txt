@@ -1,2 +1,2 @@
-3.81.0
-Dark 16 - scheda Avanzate: ora mostra il NOSTRO renderer (Dark16Render.dll, testa SADIE KU100) al posto di Rara16Renderer. I 6 plugin di Rara restano per i ritocchi; la direzione (cuffia) la fa il nostro renderer, non quello di Rara.
+3.82.0
+Dark 16 - scheda Avanzate: il nostro renderer ora e' in VIOLA fisso (non piu' arancione del tema) e senza il simbolo che il font non disegnava. Dice solo "nostro". Il resto uguale.
