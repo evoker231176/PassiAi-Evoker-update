@@ -1,6 +1,8 @@
-3.90.0
-Dark 16: TROVATO perche' i compressori non lavoravano. I compressori di Rara
-funzionano SOLO se l'host si chiama "Equalizer APO". Ora il nostro motore si
-presenta cosi' quando il plugin lo chiede. I compressori dovrebbero svegliarsi.
-Prova: spara in partita e guarda la colonna "Abbassa" sui Compressori:
-da 0.0 (giallo) dovrebbero passare a un numero verde (negativo).
+3.91.0
+Dark 16: corretta la spia del cavo. Prima diceva "cavo Evoker 7.1" (sbagliato,
+resto di quando si chiamava Rara 16). Ora controlla e mostra il cavo giusto
+"Evoker 16" (16 canali) e toglie la spia LEQ (che e' roba del 7.1).
+Nota: l'audio vero viene dal cavo scelto in Dispositivi -> Cavo del gioco
+(deve essere "Evoker 16"); questa era solo l'etichetta della spia.
+
+Include anche 3.90.0: i compressori di Rara si attivano (host "Equalizer APO").
