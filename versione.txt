@@ -1,5 +1,5 @@
-3.88.0
-Dark 16: la colonna "Abbassa" ora misura il PICCO (quanto taglia lo sparo),
-non piu' l'energia totale. Un compressore/livellatore puo' tenere l'energia
-uguale pur comprimendo: per questo prima segnava 0.0. Ora vedi se taglia
-davvero il picco piu' forte. Spara in partita e guarda i Compressori.
+3.89.0
+Dark 16: nuova colonna "Settaggi accettati" = quanti parametri del config
+il plugin ha davvero accettato (nome trovato). Se un compressore mostra
+0 su tanti (rosso), vuol dire che i settaggi NON gli arrivano e resta
+spento/trasparente: ecco perche' non comprime. Prova decisiva.
