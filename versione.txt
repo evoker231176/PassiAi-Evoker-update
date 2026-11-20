@@ -1,5 +1,6 @@
-3.89.0
-Dark 16: nuova colonna "Settaggi accettati" = quanti parametri del config
-il plugin ha davvero accettato (nome trovato). Se un compressore mostra
-0 su tanti (rosso), vuol dire che i settaggi NON gli arrivano e resta
-spento/trasparente: ecco perche' non comprime. Prova decisiva.
+3.90.0
+Dark 16: TROVATO perche' i compressori non lavoravano. I compressori di Rara
+funzionano SOLO se l'host si chiama "Equalizer APO". Ora il nostro motore si
+presenta cosi' quando il plugin lo chiede. I compressori dovrebbero svegliarsi.
+Prova: spara in partita e guarda la colonna "Abbassa" sui Compressori:
+da 0.0 (giallo) dovrebbero passare a un numero verde (negativo).
