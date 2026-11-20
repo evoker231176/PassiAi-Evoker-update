@@ -1,6 +1,6 @@
-3.79.0
-Nuova pagina "Dark 16": i 16 canali con il NOSTRO renderer per la cuffia (testa SADIE KU100), al posto di quello di Rara.
-- Stessa catena della config "sixteen" (spari, compressori, EQ base, filtro 160, peak), ma la cuffia la fa il renderer nostro, incorporato nell'app.
-- Il renderer sta dentro l'app: per la direzione non serve il renderer di Rara ne nessuna chiave.
-- Dark 16 e' accanto a Rara 16 ed Evoker 16 (carta sulla Home + linguetta + pagina). Usano lo stesso cavo: uno solo alla volta.
-- Rara 16 ed Evoker 16 NON sono stati toccati.
+3.80.0
+Pulizia generale + Dark 16 come unica modalita' a 16 canali col nostro renderer.
+- Dark 16: scegli un config (evoker, Spectre, eclipse, ghost acoustic, ...) e la catena gira ESATTAMENTE com'e' scritta nel config, ma col NOSTRO renderer al posto di quello di Rara. Il renderer parte solo se il config lo richiama; se il config non ha il renderer, resta com'e'.
+- Dark 16 funziona anche senza SPARTA installato.
+- Tolte dal menu: KEMAR, 7.1 SPARTA, 16 SPARTA, Radar, Rara 16, Evoker 16.
+- Restano: ATK, 7.1, 7.1 Pro, 7.1 HeSuVi, Dark 16 (piu' IA passi, Preset, EQ cuffie, Dispositivi, Impostazioni).
