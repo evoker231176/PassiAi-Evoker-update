@@ -1,8 +1,4 @@
-3.98.0
-- Dark Ambience ora lavora davvero: tolto un filtro interno sbagliato che lo
-  teneva fermo a 0. Adesso risponde e si muove (guardia sull'ambiente).
-- Dark 16: sistemato il numero sballato sull'ultima riga (Peak mostrava 1/2):
-  ora ogni riga legge le misure dello stadio giusto, anche coi 40 filtri EQ
-  in mezzo.
-- Le nostre DLL ora si aggiornano confrontando i byte (prima, se restavano
-  della stessa dimensione, non venivano riscritte).
+3.99.0
+Dark 16: corretta la tabella dei plugin (nella 3.98 Picco/Abbassa/Settaggi
+erano finiti tutti a "-"). Ora ogni riga legge lo stadio giusto del motore,
+anche con i 40 filtri EQ in mezzo. Tornano i numeri veri, Peak compreso.
