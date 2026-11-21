@@ -1,5 +1,6 @@
-3.101.0
-Dark 16: il "Volume finale" ora si RICORDA per ogni preset. Imposti il
-volume di Spectre, di eclipse, ecc. una volta ciascuno, e quando torni su
-quel preset ritrovi il suo volume da solo - non devi piu' riabbassarlo
-ogni volta che cambi preset. Il titolo mostra di quale preset e' il volume.
+3.102.0
+Nuovo config "Passi Forti" nel Dark 16 (si installa da solo con questo
+aggiornamento, non tocca i tuoi config). Catena come Spectre + un EQ dei
+passi: bassi leggermente giu', suono caldo/ovattato, e spinta forte sulla
+banda dei passi (1-4 kHz, scale e superfici dure) cosi' i passi spiccano.
+Lo trovi nella lista dei config di Dark 16.
