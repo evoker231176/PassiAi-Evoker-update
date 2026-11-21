@@ -1,7 +1,5 @@
-3.100.0
-- Dark Ambience ora si MUOVE: abbassata la soglia, aggancia l'ambiente
-  sostenuto (prima era troppo alta e restava a 0). Gentile: abbassa
-  l'ambiente senza schiacciare i passi (transienti).
-- Renderer: ora mostra 2/2 (accetta "Arm" e lo ignora) e il suo numero e'
-  scritto come "volume" (azzurro), non "Abbassa": il renderer non comprime,
-  quel numero e' solo il suo volume d'uscita.
+3.101.0
+Dark 16: il "Volume finale" ora si RICORDA per ogni preset. Imposti il
+volume di Spectre, di eclipse, ecc. una volta ciascuno, e quando torni su
+quel preset ritrovi il suo volume da solo - non devi piu' riabbassarlo
+ogni volta che cambi preset. Il titolo mostra di quale preset e' il volume.
