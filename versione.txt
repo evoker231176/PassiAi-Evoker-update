@@ -1,6 +1,5 @@
-3.102.0
-Nuovo config "Passi Forti" nel Dark 16 (si installa da solo con questo
-aggiornamento, non tocca i tuoi config). Catena come Spectre + un EQ dei
-passi: bassi leggermente giu', suono caldo/ovattato, e spinta forte sulla
-banda dei passi (1-4 kHz, scale e superfici dure) cosi' i passi spiccano.
-Lo trovi nella lista dei config di Dark 16.
+3.103.0
+"Passi Forti" ora piu' ovattato: acuti abbassati di piu' (taglio a 5500 Hz,
+-6 dB) per un suono piu' caldo/chiuso, tenendo i passi forti.
+Nota: "Passi Forti" si aggiorna da solo a ogni avvio (lo stiamo ancora
+tarando), cosi' hai sempre l'ultima versione. Gli altri config non si toccano.
