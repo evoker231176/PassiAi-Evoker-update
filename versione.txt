@@ -1,5 +1,5 @@
-3.95.0
-7.1 Pro: stessa tabella del Dark 16 in cima alla Catena - ogni plugin con
-CPU, Picco, "Abbassa" (quanti dB taglia il picco) e "Settaggi accettati".
-Cosi' vedi nero su bianco se i plugin e le dll del 7.1 Pro lavorano,
-esattamente come su Dark 16. Attiva il 7.1 Pro, spara e guarda i numeri.
+3.96.0
+Dark 16: l'interruttore on/off di Spari e Passi ora usa "Arm" (che quei
+plugin hanno davvero) invece di "Bypass" (che NON hanno). Due cose:
+ - l'on/off adesso li spegne/accende per davvero;
+ - sparisce il parametro giallo saltato: Spari diventa 2/2 e Passi 3/3 verdi.
