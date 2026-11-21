@@ -1,5 +1,5 @@
-3.93.0
-Dark 16 / scheda Avanzate: ora elenca giusto. Compressore e ambience non
-sono piu' tra i plugin "di Rara": sono tra i NOSTRI (viola) insieme al
-renderer. A Rara restano solo i ritocchi che usiamo davvero (spari, passi,
-EQ base, tetto picchi). Solo come scrive la lista: il suono non cambia.
+3.95.0
+7.1 Pro: stessa tabella del Dark 16 in cima alla Catena - ogni plugin con
+CPU, Picco, "Abbassa" (quanti dB taglia il picco) e "Settaggi accettati".
+Cosi' vedi nero su bianco se i plugin e le dll del 7.1 Pro lavorano,
+esattamente come su Dark 16. Attiva il 7.1 Pro, spara e guarda i numeri.
