@@ -1,5 +1,4 @@
-3.96.0
-Dark 16: l'interruttore on/off di Spari e Passi ora usa "Arm" (che quei
-plugin hanno davvero) invece di "Bypass" (che NON hanno). Due cose:
- - l'on/off adesso li spegne/accende per davvero;
- - sparisce il parametro giallo saltato: Spari diventa 2/2 e Passi 3/3 verdi.
+3.97.0
+Dark 16 e 7.1 Pro: la colonna "Abbassa" ora e' DAL VIVO - si muove in tempo
+reale con la partita (scende quando il plugin taglia lo sparo, risale verso 0
+nel silenzio) invece di restare appesa al picco. Cosi' la vedi ballare in gioco.
