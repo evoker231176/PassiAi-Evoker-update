@@ -1,7 +1,6 @@
-3.105.0
-Dark Loudness: corretto un baco di calibrazione (leggeva il livello diviso
-per 16 canali anche quando dopo il renderer ce ne sono 2) - ora livella
-giusto e tira su i passi come deve. Nella tabella la riga "Loudness" ora
-dice "tira su i passi" invece di 0.0: e' un BOOSTER (alza i deboli), quindi
-la colonna "Abbassa" (che misura i cali di picco) non lo puo' mostrare.
-Giudica a orecchio: i passi devono sentirsi piu' forti.
+3.106.0
+Dark Loudness rifatto: ora NON alza piu' tutto. Alza SOLO i suoni deboli
+(i passi, sotto una soglia) e i suoni FORTI (spari) NON li tocca. Nel test:
+passi +14 dB, sparo +0.7 dB (praticamente fermo).
+In piu' c'e' la MANOPOLA: scheda Plugin -> "Spinta passi (Loudness)" (0-100%),
+cosi' decidi tu quanto tirare su (0 = spento). Solo sul config "Passi Forti".
