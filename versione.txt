@@ -1,4 +1,7 @@
-3.99.0
-Dark 16: corretta la tabella dei plugin (nella 3.98 Picco/Abbassa/Settaggi
-erano finiti tutti a "-"). Ora ogni riga legge lo stadio giusto del motore,
-anche con i 40 filtri EQ in mezzo. Tornano i numeri veri, Peak compreso.
+3.100.0
+- Dark Ambience ora si MUOVE: abbassata la soglia, aggancia l'ambiente
+  sostenuto (prima era troppo alta e restava a 0). Gentile: abbassa
+  l'ambiente senza schiacciare i passi (transienti).
+- Renderer: ora mostra 2/2 (accetta "Arm" e lo ignora) e il suo numero e'
+  scritto come "volume" (azzurro), non "Abbassa": il renderer non comprime,
+  quel numero e' solo il suo volume d'uscita.
