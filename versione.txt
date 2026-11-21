@@ -1,5 +1,6 @@
-3.103.0
-"Passi Forti" ora piu' ovattato: acuti abbassati di piu' (taglio a 5500 Hz,
--6 dB) per un suono piu' caldo/chiuso, tenendo i passi forti.
-Nota: "Passi Forti" si aggiorna da solo a ogni avvio (lo stiamo ancora
-tarando), cosi' hai sempre l'ultima versione. Gli altri config non si toccano.
+3.104.0
+Nuovo: "Dark Loudness", il nostro livellatore di loudness (professionale),
+attivo nel config "Passi Forti". E' il "suono da mod": tira SU i suoni deboli
+(i passi, fino a ~+15 dB) e tiene GIU' i forti, cosi' i passi si sentono
+forti e in faccia. Con gate (niente fruscio) e limite morbido anti-clip.
+Prova "Passi Forti" in partita: i passi devono venire fuori decisi.
