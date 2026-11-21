@@ -1,6 +1,7 @@
-3.104.0
-Nuovo: "Dark Loudness", il nostro livellatore di loudness (professionale),
-attivo nel config "Passi Forti". E' il "suono da mod": tira SU i suoni deboli
-(i passi, fino a ~+15 dB) e tiene GIU' i forti, cosi' i passi si sentono
-forti e in faccia. Con gate (niente fruscio) e limite morbido anti-clip.
-Prova "Passi Forti" in partita: i passi devono venire fuori decisi.
+3.105.0
+Dark Loudness: corretto un baco di calibrazione (leggeva il livello diviso
+per 16 canali anche quando dopo il renderer ce ne sono 2) - ora livella
+giusto e tira su i passi come deve. Nella tabella la riga "Loudness" ora
+dice "tira su i passi" invece di 0.0: e' un BOOSTER (alza i deboli), quindi
+la colonna "Abbassa" (che misura i cali di picco) non lo puo' mostrare.
+Giudica a orecchio: i passi devono sentirsi piu' forti.
