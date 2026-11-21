@@ -1,4 +1,8 @@
-3.97.0
-Dark 16 e 7.1 Pro: la colonna "Abbassa" ora e' DAL VIVO - si muove in tempo
-reale con la partita (scende quando il plugin taglia lo sparo, risale verso 0
-nel silenzio) invece di restare appesa al picco. Cosi' la vedi ballare in gioco.
+3.98.0
+- Dark Ambience ora lavora davvero: tolto un filtro interno sbagliato che lo
+  teneva fermo a 0. Adesso risponde e si muove (guardia sull'ambiente).
+- Dark 16: sistemato il numero sballato sull'ultima riga (Peak mostrava 1/2):
+  ora ogni riga legge le misure dello stadio giusto, anche coi 40 filtri EQ
+  in mezzo.
+- Le nostre DLL ora si aggiornano confrontando i byte (prima, se restavano
+  della stessa dimensione, non venivano riscritte).
