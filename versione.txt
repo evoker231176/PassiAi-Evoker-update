@@ -1,5 +1,7 @@
-3.112.1
-Passi Mod - EQ piu' PULITO possibile.
-- L'EQ ora fa mosse PICCOLE: solo il tono sordo/caldo, niente gobbe aggressive che
-  sporcano. Il lavoro vero lo fanno i plugin (passi su, spari giu', ambiente giu',
-  passi lontani). Risultato: audio piu' pulito e naturale, passo sordo quanto basta.
+3.112.2
+Passi Mod - via gli "scoppietti" (passi finti).
+- Erano colpa del Dark Loudness: gate netto + guadagno troppo scattante -> alzava
+  di colpo i ticchettii deboli facendoli sembrare passi.
+- Ora: gate MORBIDO (il boost entra piano), attacco piu' calmo, guadagno piu' liscio
+  (30 ms) e gate un filo piu' alto -> alza i passi lontani SENZA pop ne' casino.
+Se senti ancora che "schiaccia" troppo, dimmelo: ammorbidisco anche i compressori.
