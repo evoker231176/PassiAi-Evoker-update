@@ -1,6 +1,9 @@
-3.109.2
-Dark Ninja - misuratore DAL VIVO.
-- Nella tabella Catena la riga Dark Ninja ora mostra "su +X.X dB" che SI MUOVE
-  mentre cammini: sono i dB che sta alzando ai passi in quel momento.
-- Il motore adesso misura anche il guadagno in SU (il boost), non solo i tagli.
-- Niente toccato sugli altri plugin: le loro misure restano identiche.
+3.110.0
+Nuovo config "Passi Mod" - il suono da mod (Passi Forti NON e' stato toccato).
+- Passi grossi e "marchiati" in primo piano: Dark Ninja gia' su (55%) + EQ con piu'
+  corpo e passo scolpito.
+- Tono caldo/ovattato: alti chiusi sopra ~4800 Hz.
+- Spari giu': Dark Shots gia' acceso (100%).
+- Ambiente giu': Ambience piu' deciso.
+- Gli slider partono gia' da questi valori: lo scegli da "Config" -> "Passi Mod".
+Provalo e dimmi cosa aggiustare (piu'/meno corpo, piu'/meno spari giu', ecc.).
