@@ -1,6 +1,8 @@
-3.108.3
-Dark Ninja - ora vedi SEMPRE la percentuale.
-- Lo slider parte dal valore scritto NEL config (es. 0.4%): quello e' il valore
-  del config (NON zero). La percentuale c'e' sempre, anche nella tabella Catena.
-- Il config decide: cambi config -> il Dark Ninja parte dal valore di quel config.
-- Lo alzi tu quanto vuoi, e resta ricordato per quel config.
+3.109.0
+Dark Shots - il NOSTRO plugin che abbassa gli spari (al posto del SilentShots di Rara).
+- Quello di Rara aveva il "cervello" in un file esterno NON spedito: restava spento
+  (abbassa 0.0 dB) e aggiungeva ~11 ms di ritardo a vuoto. Tolto.
+- Dark Shots abbassa gli spari SUL SERIO: quando arriva un colpo forte lo tira giu'
+  (fino a -18 dB), e i PASSI, piu' deboli, non li tocca. ZERO ritardo.
+- Slider "Abbassa spari" 0-100% con percentuale e dB; parte dal valore del config,
+  ricordato per ogni config. Nella tabella Catena vedi l'abbassamento dal vivo.
