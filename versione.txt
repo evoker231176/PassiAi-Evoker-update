@@ -1,9 +1,7 @@
-3.110.0
-Nuovo config "Passi Mod" - il suono da mod (Passi Forti NON e' stato toccato).
-- Passi grossi e "marchiati" in primo piano: Dark Ninja gia' su (55%) + EQ con piu'
-  corpo e passo scolpito.
-- Tono caldo/ovattato: alti chiusi sopra ~4800 Hz.
-- Spari giu': Dark Shots gia' acceso (100%).
-- Ambiente giu': Ambience piu' deciso.
-- Gli slider partono gia' da questi valori: lo scegli da "Config" -> "Passi Mod".
-Provalo e dimmi cosa aggiustare (piu'/meno corpo, piu'/meno spari giu', ecc.).
+3.111.0
+Passi Mod - EQ a 40 campane (tono rifatto).
+- Prima era troppo ovattato e i passi non spiccavano. Ora 40 campane fitte
+  scolpiscono la banda dei passi (2-3 kHz su +8), con corpo e meno roll in alto:
+  passi CRUDI, forti, in primo piano.
+- Spari giu' (Dark Shots) e ambiente giu' restano.
+Provalo e dimmi: passi abbastanza forti? Troppo aspri o troppo scuri? Lo sposto.
