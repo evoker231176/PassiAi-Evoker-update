@@ -1,5 +1,5 @@
-3.107.0
-Dark Loudness spostato PRIMA del renderer (sui 16 canali del gioco), come
-l'alza-passi di Rara: adesso tira su i passi nel mix del gioco e poi il
-renderer li spazializza giusti - invece di agire sul suono gia' finito.
-Posizione corretta per far venire su i passi.
+3.108.0
+Dark Ninja - il NOSTRO plugin che alza i passi (al posto del Ninja di Rara).
+- Alza SOLO la banda dei passi. NON tocca gli spari: a quelli pensano gia' il Compressore e Silent Shots.
+- Lo slider "Alza i passi" ora va da 0% (fermo, come Rara) a 100%, e ti scrive la percentuale e i dB (es. 45%  +8 dB), cosi' vedi di quanto lo alzi.
+- Parte fermo: i tuoi config NON cambiano finche' non alzi tu lo slider.
