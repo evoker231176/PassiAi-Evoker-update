@@ -1,8 +1,5 @@
-3.109.0
-Dark Shots - il NOSTRO plugin che abbassa gli spari (al posto del SilentShots di Rara).
-- Quello di Rara aveva il "cervello" in un file esterno NON spedito: restava spento
-  (abbassa 0.0 dB) e aggiungeva ~11 ms di ritardo a vuoto. Tolto.
-- Dark Shots abbassa gli spari SUL SERIO: quando arriva un colpo forte lo tira giu'
-  (fino a -18 dB), e i PASSI, piu' deboli, non li tocca. ZERO ritardo.
-- Slider "Abbassa spari" 0-100% con percentuale e dB; parte dal valore del config,
-  ricordato per ogni config. Nella tabella Catena vedi l'abbassamento dal vivo.
+3.109.1
+Ambience ora uguale agli altri (Ninja e Shots).
+- Prima diceva "100% = come il config": incoerente. Ora lo slider parte dal
+  valore del config (Target, es. 39%), mostra la percentuale, ed e' ricordato
+  per ogni config. Stesso identico modo di Ninja e Shots.
