@@ -1,8 +1,6 @@
-3.108.2
-Dark Ninja - ora comanda il CONFIG (come volevi tu).
-- A slider 0 il Dark Ninja usa il valore del config (es. Volume 0.003981): e' il
-  CONFIG che decide. Cambi config -> il Dark Ninja diventa quello che dice quel config.
-- La scritta ora dice "come il config" (prima diceva "fermo", sbagliata): NON l'ho
-  messo a zero, usa il valore del config.
-- Se vuoi alzarlo piu' del config, muovi lo slider "Alza i passi": lì vedi "su +X%".
-- Tolto il Loudness: i passi li alza solo il Dark Ninja.
+3.108.3
+Dark Ninja - ora vedi SEMPRE la percentuale.
+- Lo slider parte dal valore scritto NEL config (es. 0.4%): quello e' il valore
+  del config (NON zero). La percentuale c'e' sempre, anche nella tabella Catena.
+- Il config decide: cambi config -> il Dark Ninja parte dal valore di quel config.
+- Lo alzi tu quanto vuoi, e resta ricordato per quel config.
