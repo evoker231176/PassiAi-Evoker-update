@@ -1,5 +1,4 @@
-3.108.0
-Dark Ninja - il NOSTRO plugin che alza i passi (al posto del Ninja di Rara).
-- Alza SOLO la banda dei passi. NON tocca gli spari: a quelli pensano gia' il Compressore e Silent Shots.
-- Lo slider "Alza i passi" ora va da 0% (fermo, come Rara) a 100%, e ti scrive la percentuale e i dB (es. 45%  +8 dB), cosi' vedi di quanto lo alzi.
-- Parte fermo: i tuoi config NON cambiano finche' non alzi tu lo slider.
+3.108.1
+Dark Ninja: nella tabella "I plugin uno per uno" (scheda Catena) la colonna
+"Abbassa" ora mostra la PERCENTUALE di quanto alza i passi (es. "su +45%"),
+invece della scritta. Se e' fermo scrive "fermo". Stesso anche per il Loudness.
