@@ -1,7 +1,8 @@
-3.112.2
-Passi Mod - via gli "scoppietti" (passi finti).
-- Erano colpa del Dark Loudness: gate netto + guadagno troppo scattante -> alzava
-  di colpo i ticchettii deboli facendoli sembrare passi.
-- Ora: gate MORBIDO (il boost entra piano), attacco piu' calmo, guadagno piu' liscio
-  (30 ms) e gate un filo piu' alto -> alza i passi lontani SENZA pop ne' casino.
-Se senti ancora che "schiaccia" troppo, dimmelo: ammorbidisco anche i compressori.
+3.112.3
+Passi Mod - BASE PULITA per trovare il colpevole.
+- Troppa roba impilata (2 compressori + Loudness + ducking + ambience) pompava e
+  appiattiva tutto: non si distingueva piu' niente.
+- Ora versione minima e pulita: Ninja leggero + EQ pulito + UN solo compressore gentile.
+  Spenti: 2o compressore, Ambience, Shots, Loudness (li riaccendi tu uno alla volta).
+- Loudness: tetto abbassato a +10 dB (non puo' piu' distorcere) e parte spento.
+Prova: cosi' si distinguono i passi e l'audio e' pulito? Poi riaccendiamo il resto a uno a uno.
