@@ -1,7 +1,5 @@
-3.111.0
-Passi Mod - EQ a 40 campane (tono rifatto).
-- Prima era troppo ovattato e i passi non spiccavano. Ora 40 campane fitte
-  scolpiscono la banda dei passi (2-3 kHz su +8), con corpo e meno roll in alto:
-  passi CRUDI, forti, in primo piano.
-- Spari giu' (Dark Shots) e ambiente giu' restano.
-Provalo e dimmi: passi abbastanza forti? Troppo aspri o troppo scuri? Lo sposto.
+3.111.1
+Passi Mod - tono piu' SORDO (come hai chiesto).
+- Spinta dei passi spostata piu' in BASSO (corpo/thud, 180-950 Hz) e alti molto
+  chiusi sopra ~2 kHz: passo grosso e ovattato, non secco/crispy.
+Provalo. Se e' troppo sordo (passi "impastati") te lo alzo un filo; se va, lo lascio.
