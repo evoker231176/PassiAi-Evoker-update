@@ -1,5 +1,6 @@
-3.111.2
-Passi Mod - passo sordo ma mix PULITO.
-- Tenuto il timbro sordo dei passi (ti piaceva), ma tagliato il "fango" dei medi-bassi
-  e riaperti gli alti (prima erano chiusi a -14 dB: impastava tutto).
-- Ora il resto e' piu' pulito e capisci dove sono le cose, senza perdere il passo grosso.
+3.112.0
+Passi Mod - ora SENTI I PASSI LONTANI (il vero senso del mod audio).
+- Rimesso il Dark Loudness SOLO su Passi Mod: alza i passi deboli/lontani e tiene
+  fermi i suoni forti, cosi' senti arrivare i nemici da lontano.
+- Nuovo slider in Plugin: "Senti i passi lontani" (0-100%) per regolare quanto.
+- Timbro dei passi e pulizia del resto restano come li hai approvati.
