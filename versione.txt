@@ -1,5 +1,5 @@
-3.111.1
-Passi Mod - tono piu' SORDO (come hai chiesto).
-- Spinta dei passi spostata piu' in BASSO (corpo/thud, 180-950 Hz) e alti molto
-  chiusi sopra ~2 kHz: passo grosso e ovattato, non secco/crispy.
-Provalo. Se e' troppo sordo (passi "impastati") te lo alzo un filo; se va, lo lascio.
+3.111.2
+Passi Mod - passo sordo ma mix PULITO.
+- Tenuto il timbro sordo dei passi (ti piaceva), ma tagliato il "fango" dei medi-bassi
+  e riaperti gli alti (prima erano chiusi a -14 dB: impastava tutto).
+- Ora il resto e' piu' pulito e capisci dove sono le cose, senza perdere il passo grosso.
