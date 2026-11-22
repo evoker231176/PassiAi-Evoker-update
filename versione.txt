@@ -1,6 +1,5 @@
-3.106.0
-Dark Loudness rifatto: ora NON alza piu' tutto. Alza SOLO i suoni deboli
-(i passi, sotto una soglia) e i suoni FORTI (spari) NON li tocca. Nel test:
-passi +14 dB, sparo +0.7 dB (praticamente fermo).
-In piu' c'e' la MANOPOLA: scheda Plugin -> "Spinta passi (Loudness)" (0-100%),
-cosi' decidi tu quanto tirare su (0 = spento). Solo sul config "Passi Forti".
+3.107.0
+Dark Loudness spostato PRIMA del renderer (sui 16 canali del gioco), come
+l'alza-passi di Rara: adesso tira su i passi nel mix del gioco e poi il
+renderer li spazializza giusti - invece di agire sul suono gia' finito.
+Posizione corretta per far venire su i passi.
