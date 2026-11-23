@@ -1,13 +1,10 @@
-3.127.0
-Nuovo config "Mod Audio Dinamico" - come i mod "dinamico e spaziale" a pagamento.
+3.127.1
+Mod Audio Dinamico: passi piu' FORTI (anche i vicini).
 
-Fatto come fanno quei mod (compressione dinamica + spaziale), con onesta':
-- DINAMICO: Loudness deciso -> alza i suoni deboli (passi, anche lontani) e
-  tiene giu' i forti. E' il "segreto" dei passi a distanza.
-- PRESENZA passi: EQ su 1-4 kHz (la banda dove l'orecchio sente meglio) + snap 4-5k.
-- Taglio rimbombo sotto 120 Hz.
-- SPAZIALE: il renderer in cuffia.
-Prezzo onesto del "sentire i lontani": sale anche un filo di fondo/ambiente -
-e' fisica, lo fanno anche i mod a pagamento (il marketing non lo dice).
+- Loudness piu' deciso (Up 0.62->0.72, gate piu' aperto): tira su di piu' i passi
+  deboli verso il tetto.
+- Volume del config alzato (Preamp 4->6.5 dB).
+Il PeakGuard tiene comunque il tetto sugli spari, quindi i passi salgono senza
+far assordare gli spari.
 
-Scegli "Mod Audio Dinamico" dalla tendina Config. Da qui lo tariamo SOLO questo.
+Se ancora piano, dimmelo e alzo ancora; se diventa troppo forte/distorto, scendo.
