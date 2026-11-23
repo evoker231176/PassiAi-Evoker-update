@@ -1,12 +1,11 @@
-3.121.1
-Dark Step reso SELETTIVO + audio piu' aperto (Mod Passi Ultra+).
+3.121.2
+Dark Step rifatto sul metodo vero (SPL Transient Designer).
 
-Contro gli scoppiettini e il "gracchio":
-- Dark Step ora ascolta solo la banda dei passi (500-2500 Hz) per decidere:
-  ignora tintinnii, bossoli e rumorini -> niente scoppiettini.
-- Soglia sul colpo: alza solo i passi veri, non ogni micro-rumore.
-- Guadagno piu' morbido (sale in 2 ms, scende in 60 ms): niente scatti/gracchio.
-- Piu' paziente: aggancia anche i passi lontani ovattati.
-Audio piu' aperto:
-- Dato aria alle alte (7-10 kHz) che prima era troppo chiuso/sordo, tenendo
-  il tonfo a 200 Hz e il 3-4 kHz calmo (niente fastidio).
+- Due inviluppi (attacco veloce + attacco lento): la loro DIFFERENZA comanda il
+  boost. A regime (ambiente) la differenza e' 0 -> ambiente intatto.
+- LIVELLO-INDIPENDENTE, senza soglia: il passo LONTANO (debole) viene alzato
+  come quello vicino -> i lontani si sentono (prima la soglia li escludeva).
+- Un "fondo" tiene fermo il calcolo nel silenzio -> niente scoppietti/gracchio
+  (era il calcolo che "esplodeva" sui suoni deboli).
+- Guadagno morbido (sale in 4 ms) -> niente gracchio.
+- Detector in banda passi 300-1500 Hz -> ignora tintinnii e bossoli acuti.
