@@ -1,9 +1,13 @@
-3.120.2
-Il VOLUME ora e' separato per ogni config (non si copia piu' su tutti).
+3.121.0
+Nuovo plugin "Dark Step" per i passi LONTANI + config "Mod Passi Ultra+".
 
-- Prima il volume di un config nuovo partiva dall'ultimo volume usato: mettevi
-  +15 su uno e te lo ritrovavi su tutti. Ora ogni config parte dal suo (+6 dB
-  di base) e tiene il valore che gli dai tu, separato dagli altri.
-- Gli slider Ninja / Shots / Ambience erano gia' separati per config.
-- Incluso anche il fix di prima: ora "Mod Passi Ultra" e tutti i config
-  compaiono nella tendina (il conteggio si fa da solo).
+Dark Step e' un transient shaper: riconosce i passi dalla FORMA del suono
+(l'attacco scattante del colpo), non dal volume. Cosi':
+- alza i passi LONTANI come quelli vicini (conta la forma, non quanto sono forti);
+- NON tocca l'ambiente (continuo, senza attacco): niente ambiente gonfiato;
+- alza i deboli (lontani) ancora di piu' (parametro "Far");
+- zero latenza, direzione intatta.
+
+E' nel nuovo config "Mod Passi Ultra+" (dopo l'EQ, prima del limitatore), che ha
+anche il tonfo pieno a 200 Hz e l'ambiente piu' giu'. Scegli "Mod Passi Ultra+"
+dalla tendina Config in Dark 16. Mod Passi Ultra e Passi Mod restano come sono.
