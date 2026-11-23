@@ -1,14 +1,15 @@
-3.124.0
-Nuovo config "Mod Audio Lontano++" + nuovo plugin "Dark Exciter". (Gli altri restano com'erano.)
+3.125.0
+Nuovo config "Mod Passi Chiaro" - PULITO: i passi staccano, niente confusione.
 
-Dalla psicoacustica (curve di Fletcher-Munson): l'orecchio sente meglio a 2-5 kHz.
-Il passo LONTANO pero' ha perso le alte e gli resta solo il tonfo basso, dove
-l'orecchio sente MALE -> per questo non lo senti.
+Gli ultimi config erano confusi perche' caricavo troppo il tonfo basso (200-400
+Hz = zona del "fango") e mettevo troppi strati (Ninja+comp+Dark Step+Exciter).
+Mod Passi Chiaro fa l'opposto, come l'EQ sottrattiva dei professionisti:
+- TAGLIA il rimbombo (sotto 120 Hz) e il FANGO (250-400 Hz) -> i passi si
+  separano dal fondo.
+- Chiarezza gentile a 2-4 kHz (dove l'orecchio sente meglio), picco solo +3 dB.
+- Poca compressione -> i passi STACCANO invece di stare tutti appiattiti.
+- Catena corta: niente Dark Step, niente Exciter, niente strati.
 
-Dark Exciter risolve il problema alla radice: prende il tonfo del passo e genera
-una sua ARMONICA a 2-4 kHz (la banda udibile), solo sui colpi (non sull'ambiente)
-e per canale (direzione intatta). Cosi' "senti" il passo lontano anche se il suo
-suono e' tutto in basso, senza gonfiare il basso.
+Inoltre: corretto un bug per cui alcuni config nuovi non si aggiornavano da soli.
 
-Mod Audio Lontano++ = tonfo zona 1 (come Lontano+) + Dark Step + Dark Exciter.
-Scegli "Mod Audio Lontano++" dalla tendina Config in Dark 16.
+Scegli "Mod Passi Chiaro" dalla tendina Config in Dark 16.
