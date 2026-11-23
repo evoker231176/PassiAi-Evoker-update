@@ -1,6 +1,5 @@
-3.114.0
-7.1 - nuove voci Compressore (PRE) e Peace (POST).
-- L'app scrive da sola i due file (identici ai tuoi Compressor.txt e peace.txt):
-  "Compressore" compare nei PRE, "Peace" nei POST. Caricano ReaXComp e ReaEQ con le
-  tue regolazioni identiche.
-- Servono i plugin ReaPlugs (ReaXComp, ReaEQ) installati; ReaEQ va aggiunto se manca.
+3.115.0
+Dark 16 - passi piu' chiari + Passi Mod sistemato.
+- Renderer: il canale LFE (bassi/esplosioni) ora e' abbassato di ~18 dB, cosi' non
+  copre piu' i passi in cuffia (prima impastava tutto).
+- Passi Mod: tolto del tutto il Loudness (faceva casino/scoppietti) e riacceso Dark Ambience.
