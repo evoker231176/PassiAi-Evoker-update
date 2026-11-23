@@ -1,11 +1,10 @@
-3.128.0
-Mod Audio Dinamico: ora i passi EMERGONO da spari ed esplosioni.
+3.128.1
+"Mod Audio Dinamico" lasciato COM'ERA (la tua versione). Nuovo: "Mod Audio Dinamico 2".
 
-Il problema era la gamma dinamica: spari/esplosioni fortissimi, passi deboli.
-Alzare il volume non serviva (alzava anche gli spari). Ora COMPRIMO la dinamica:
-- Il Loudness ora e' un vero compressore: ALZA i passi deboli E ABBASSA i forti
-  (prima li alzava e basta). Cosi' spari ed esplosioni scendono e i passi salgono.
-- Dark Shots piu' forte (doma di piu' gli spari).
-- Volume generale riportato a un valore sano (la compressione fa il lavoro).
+- Mod Audio Dinamico: riportato esattamente a com'era da te (non cambia nulla).
+- Mod Audio Dinamico 2 (NUOVO): qui c'e' la compressione dinamica forte - il
+  Loudness alza i passi deboli E abbassa spari/esplosioni, Shots piu' forte.
+  Serve a far EMERGERE i passi quando spari ed esplosioni li coprono.
+  Prezzo onesto: un filo di fondo in piu'.
 
-Scegli "Mod Audio Dinamico". I passi ora dovrebbero staccarsi dagli spari.
+Prova "Mod Audio Dinamico 2" e confrontalo col tuo Mod Audio Dinamico.
