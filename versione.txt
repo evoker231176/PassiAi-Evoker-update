@@ -1,13 +1,14 @@
-3.123.0
-Nuovo config "Mod Passi Lontano+" per i passi lontani (gli altri restano com'erano).
+3.124.0
+Nuovo config "Mod Audio Lontano++" + nuovo plugin "Dark Exciter". (Gli altri restano com'erano.)
 
-Dal modello a 3 ZONE dei professionisti FPS: il passo ha corpo/tonfo (150-450 Hz),
-texture (1-3.5k) e snap (4-5k). Con la distanza spariscono le zone alte: del passo
-LONTANO resta SOLO la zona 1, il tonfo basso. Quindi:
-- EQ tutta sul TONFO 150-450 Hz (picco +7 a 260 Hz), ISOLATO col taglio forte
-  sotto 150 e sopra 1 kHz -> il tonfo lontano spicca da solo.
-- Dark Step ora ha la banda di ascolto regolabile: qui ascolta la ZONA 1 (tonfo),
-  dove vive il passo lontano, e spinge forte (Boost/Far su).
-- Volume alto (Preamp +6) per tirare su i deboli.
+Dalla psicoacustica (curve di Fletcher-Munson): l'orecchio sente meglio a 2-5 kHz.
+Il passo LONTANO pero' ha perso le alte e gli resta solo il tonfo basso, dove
+l'orecchio sente MALE -> per questo non lo senti.
 
-Scegli "Mod Passi Lontano+" dalla tendina Config in Dark 16.
+Dark Exciter risolve il problema alla radice: prende il tonfo del passo e genera
+una sua ARMONICA a 2-4 kHz (la banda udibile), solo sui colpi (non sull'ambiente)
+e per canale (direzione intatta). Cosi' "senti" il passo lontano anche se il suo
+suono e' tutto in basso, senza gonfiare il basso.
+
+Mod Audio Lontano++ = tonfo zona 1 (come Lontano+) + Dark Step + Dark Exciter.
+Scegli "Mod Audio Lontano++" dalla tendina Config in Dark 16.
