@@ -1,19 +1,8 @@
-3.119.0
-Passi Mod - suono rifatto in ARMONIA (studio sull'audio di MW4 + conti veri).
+3.119.1
+Corretto un falso allarme nella diagnostica di Dark 16.
 
-Tutti i plugin tarati per andare insieme, nessuno che schiaccia a caso:
-- EQ ricalcolata campana per campana: curva liscia stile MW4 (peso del passo a
-  200 Hz, dettaglio a 900 Hz, click a 4 kHz). Tolto il picco a +18 dB che dava
-  fastidio ai timpani: ora il massimo e' +5 dB.
-- Dark Ninja piu' gentile e piu' basso: lavora sul corpo del passo (~1550 Hz),
-  fuori dalla zona che fa male.
-- Compressore meno aggressivo (3:1 invece di 5.5:1): non mangia piu' l'attacco
-  del passo (il "crocchio" resta).
-- Dark Shots ora lavora davvero e doma gli spari: prima era spento (Gun 0).
-- Loudness spostato DOPO l'EQ, prima del limitatore: tira su i passi LONTANI
-  (10/20/30 m) sul suono gia' pulito, senza rialzare ambiente ne' fruscio.
-- Spari e passi lontani ora quasi allo stesso volume (prima 38 dB di differenza,
-  ora 2): senti tutto nel caos, come fa MW4.
-
-Nessun plugin modificato, solo le regolazioni e la posizione del Loudness.
-La spazialita' (direzione, distanza) resta intatta.
+- In Avanzate compariva "Mancano 2 ritocchi di Rara: reinstalla" anche quando
+  i plugin c'erano tutti. Era solo un contatore sbagliato (cercava 4 plugin di
+  Rara invece dei 2 giusti, dato che gli altri ora sono i NOSTRI Dark).
+- Ora, se i 2 plugin di Rara ci sono, scrive verde che e' tutto a posto.
+- L'audio non cambia: stesse tarature della 3.119.0.
