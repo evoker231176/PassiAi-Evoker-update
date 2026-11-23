@@ -1,4 +1,11 @@
-3.127.2
-Mod Audio Dinamico: volume ancora piu su (Preamp 9 dB).
-Se e ancora piano con lo slider al massimo, il problema e nel volume di
-Windows o della cuffia, non nel config - vedi il messaggio in chat.
+3.128.0
+Mod Audio Dinamico: ora i passi EMERGONO da spari ed esplosioni.
+
+Il problema era la gamma dinamica: spari/esplosioni fortissimi, passi deboli.
+Alzare il volume non serviva (alzava anche gli spari). Ora COMPRIMO la dinamica:
+- Il Loudness ora e' un vero compressore: ALZA i passi deboli E ABBASSA i forti
+  (prima li alzava e basta). Cosi' spari ed esplosioni scendono e i passi salgono.
+- Dark Shots piu' forte (doma di piu' gli spari).
+- Volume generale riportato a un valore sano (la compressione fa il lavoro).
+
+Scegli "Mod Audio Dinamico". I passi ora dovrebbero staccarsi dagli spari.
