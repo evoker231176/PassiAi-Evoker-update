@@ -1,5 +1,6 @@
-3.113.0
-ATK - il Volume ora ABBASSA (prima solo da 0 a +20 dB).
-- Lo slider Volume dell'ATK va ora da -24 a +20 dB: puoi alzare E abbassare.
-- Il tuo volume attuale resta IDENTICO (rimappato una volta sola), non ti cambia niente.
-- Era un limite vecchio del motore (volume = solo guadagno positivo), ora sistemato.
+3.113.1
+ATK Volume - ADESSO abbassa davvero (trovato il vero colpevole).
+- Con l'IA dei passi SPENTA, il motore usciva PRIMA di applicare il Volume (e il
+  Tetto scoppi): per questo lo slider non faceva niente.
+- Ora Volume e Tetto scoppi funzionano SEMPRE, anche con l'IA passi spenta.
+  Solo la parte "passi" dell'IA resta spenta quando la spegni.
