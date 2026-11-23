@@ -1,3 +1,7 @@
-3.128.3
-Mod Audio Dinamico 2: compressione abbassata di poco (un gradino sotto il massimo).
-Un filo meno schiacciato: se serve ancora piu morbido o piu forte, lo dico e ritocco.
+3.129.0
+Due config nuovi con EQ (campane) diverse, stessa compressione di Dinamico 2:
+
+- Mod Audio Nitido: presenza acuta sui passi (2-4.5 kHz) -> passi definiti e brillanti.
+- Mod Audio Corposo: tonfo pieno in basso (150-400 Hz) -> passi grossi e pieni.
+
+Provali e confrontali: dimmi quale timbro ti piace e tariamo quello.
