@@ -1,5 +1,4 @@
-3.115.0
-Dark 16 - passi piu' chiari + Passi Mod sistemato.
-- Renderer: il canale LFE (bassi/esplosioni) ora e' abbassato di ~18 dB, cosi' non
-  copre piu' i passi in cuffia (prima impastava tutto).
-- Passi Mod: tolto del tutto il Loudness (faceva casino/scoppietti) e riacceso Dark Ambience.
+3.116.0
+Passi Mod - adesso i passi SCROCCHIANO.
+- EQ con crunch forte sui 3-6 kHz (lo scrocchio del passo), tenendo il corpo sordo.
+- Dark Ninja piu' su (42%) e banda allargata fino a ~5,6 kHz, cosi' spinge anche lo scrocchio.
