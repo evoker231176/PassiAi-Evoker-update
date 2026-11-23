@@ -1,5 +1,3 @@
-3.128.2
-Mod Audio Dinamico 2: compressione al MASSIMO (night mode estremo).
-Loudness al limite: alza i passi deboli al massimo e schiaccia il piu possibile
-spari ed esplosioni. E il massimo che la compressione dinamica puo fare.
-Se nemmeno cosi i passi emergono, il limite e strutturale - vedi chat.
+3.128.3
+Mod Audio Dinamico 2: compressione abbassata di poco (un gradino sotto il massimo).
+Un filo meno schiacciato: se serve ancora piu morbido o piu forte, lo dico e ritocco.
