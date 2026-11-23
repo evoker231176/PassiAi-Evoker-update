@@ -1,15 +1,13 @@
-3.126.0
-Nuovo config "Mod Passi Pieno" - dal timbro del tuo video.
+3.127.0
+Nuovo config "Mod Audio Dinamico" - come i mod "dinamico e spaziale" a pagamento.
 
-Ho analizzato lo spettro del video che mi hai mandato: e' un suono CORPOSO e
-pieno, dominato dal tonfo basso (67% dell'energia sotto 250 Hz, picco a 117 Hz,
-dominante 120-250 Hz), con pochi acuti.
+Fatto come fanno quei mod (compressione dinamica + spaziale), con onesta':
+- DINAMICO: Loudness deciso -> alza i suoni deboli (passi, anche lontani) e
+  tiene giu' i forti. E' il "segreto" dei passi a distanza.
+- PRESENZA passi: EQ su 1-4 kHz (la banda dove l'orecchio sente meglio) + snap 4-5k.
+- Taglio rimbombo sotto 120 Hz.
+- SPAZIALE: il renderer in cuffia.
+Prezzo onesto del "sentire i lontani": sale anche un filo di fondo/ambiente -
+e' fisica, lo fanno anche i mod a pagamento (il marketing non lo dice).
 
-Mod Passi Pieno replica quel carattere:
-- Tonfo basso dominante (picco EQ +7 dB a 150 Hz, forte su 120-250).
-- Roll-off dolce sui medio-alti (come il video).
-- Un filo di 3.6 kHz per non perdere del tutto la localizzazione dei passi
-  (quella il video l'aveva persa per la compressione di WhatsApp).
-- Catena pulita (niente strati), compressore gentile, volume +4.5.
-
-Scegli "Mod Passi Pieno" dalla tendina Config in Dark 16.
+Scegli "Mod Audio Dinamico" dalla tendina Config. Da qui lo tariamo SOLO questo.
