@@ -1,13 +1,12 @@
-3.121.0
-Nuovo plugin "Dark Step" per i passi LONTANI + config "Mod Passi Ultra+".
+3.121.1
+Dark Step reso SELETTIVO + audio piu' aperto (Mod Passi Ultra+).
 
-Dark Step e' un transient shaper: riconosce i passi dalla FORMA del suono
-(l'attacco scattante del colpo), non dal volume. Cosi':
-- alza i passi LONTANI come quelli vicini (conta la forma, non quanto sono forti);
-- NON tocca l'ambiente (continuo, senza attacco): niente ambiente gonfiato;
-- alza i deboli (lontani) ancora di piu' (parametro "Far");
-- zero latenza, direzione intatta.
-
-E' nel nuovo config "Mod Passi Ultra+" (dopo l'EQ, prima del limitatore), che ha
-anche il tonfo pieno a 200 Hz e l'ambiente piu' giu'. Scegli "Mod Passi Ultra+"
-dalla tendina Config in Dark 16. Mod Passi Ultra e Passi Mod restano come sono.
+Contro gli scoppiettini e il "gracchio":
+- Dark Step ora ascolta solo la banda dei passi (500-2500 Hz) per decidere:
+  ignora tintinnii, bossoli e rumorini -> niente scoppiettini.
+- Soglia sul colpo: alza solo i passi veri, non ogni micro-rumore.
+- Guadagno piu' morbido (sale in 2 ms, scende in 60 ms): niente scatti/gracchio.
+- Piu' paziente: aggancia anche i passi lontani ovattati.
+Audio piu' aperto:
+- Dato aria alle alte (7-10 kHz) che prima era troppo chiuso/sordo, tenendo
+  il tonfo a 200 Hz e il 3-4 kHz calmo (niente fastidio).
