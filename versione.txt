@@ -1,8 +1,11 @@
-3.119.1
-Corretto un falso allarme nella diagnostica di Dark 16.
+3.120.0
+Nuovo config Dark 16: "Mod Passi Ultra" (Passi Mod resta uguale, non toccato).
 
-- In Avanzate compariva "Mancano 2 ritocchi di Rara: reinstalla" anche quando
-  i plugin c'erano tutti. Era solo un contatore sbagliato (cercava 4 plugin di
-  Rara invece dei 2 giusti, dato che gli altri ora sono i NOSTRI Dark).
-- Ora, se i 2 plugin di Rara ci sono, scrive verde che e' tutto a posto.
-- L'audio non cambia: stesse tarature della 3.119.0.
+Serve a far spiccare i passi SOPRA l'ambiente (prima erano alla pari):
+- Ambiente molto piu' giu' (Ambience forte): l'ambiente scende, i passi passano.
+- Ninja piu' su: il colpo del passo esce sopra.
+- NIENTE Loudness: era lui che, nei silenzi, rialzava l'ambiente e lo metteva
+  alla pari dei passi. Tolto, i passi spiccano per contrasto (anche i lontani).
+
+Scegli "Mod Passi Ultra" dalla tendina Config in Dark 16. Poi sentilo e dimmi:
+lo aggiustiamo un pezzo alla volta.
