@@ -1,6 +1,7 @@
-3.113.1
-ATK Volume - ADESSO abbassa davvero (trovato il vero colpevole).
-- Con l'IA dei passi SPENTA, il motore usciva PRIMA di applicare il Volume (e il
-  Tetto scoppi): per questo lo slider non faceva niente.
-- Ora Volume e Tetto scoppi funzionano SEMPRE, anche con l'IA passi spenta.
-  Solo la parte "passi" dell'IA resta spenta quando la spegni.
+3.113.2
+ATK - diagnostica "Il preset si carica?"
+- Nella scheda ATK -> Avanzate c'e' un riquadro nuovo che ti dice a schermo se il
+  preset scelto entra davvero nel motore: quanti byte ha, se e' CARICATO (verde),
+  quale motore (DLL) gira e se combacia col preset.
+- Serve a capire se "non suona come dovrebbe" e' perche' il preset non si carica.
+Guarda quel riquadro e dimmi se e' tutto verde o se c'e' del rosso.
