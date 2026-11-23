@@ -1,11 +1,6 @@
-3.121.2
-Dark Step rifatto sul metodo vero (SPL Transient Designer).
+3.121.3
+Ora Dark Step ha il suo nome nella tabella della catena.
 
-- Due inviluppi (attacco veloce + attacco lento): la loro DIFFERENZA comanda il
-  boost. A regime (ambiente) la differenza e' 0 -> ambiente intatto.
-- LIVELLO-INDIPENDENTE, senza soglia: il passo LONTANO (debole) viene alzato
-  come quello vicino -> i lontani si sentono (prima la soglia li escludeva).
-- Un "fondo" tiene fermo il calcolo nel silenzio -> niente scoppietti/gracchio
-  (era il calcolo che "esplodeva" sui suoni deboli).
-- Guadagno morbido (sale in 4 ms) -> niente gracchio.
-- Detector in banda passi 300-1500 Hz -> ignora tintinnii e bossoli acuti.
+- Prima, nella scheda Catena, Dark Step appariva come "plugin" generico.
+  Adesso mostra "Dark Step - il nostro: alza i passi lontani (transient designer)".
+- Audio identico alla 3.121.2 (solo l'etichetta).
