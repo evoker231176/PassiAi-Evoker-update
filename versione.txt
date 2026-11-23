@@ -1,11 +1,8 @@
-3.120.0
-Nuovo config Dark 16: "Mod Passi Ultra" (Passi Mod resta uguale, non toccato).
+3.120.1
+Corretto: ora "Mod Passi Ultra" appare davvero nella tendina Config.
 
-Serve a far spiccare i passi SOPRA l'ambiente (prima erano alla pari):
-- Ambiente molto piu' giu' (Ambience forte): l'ambiente scende, i passi passano.
-- Ninja piu' su: il colpo del passo esce sopra.
-- NIENTE Loudness: era lui che, nei silenzi, rialzava l'ambiente e lo metteva
-  alla pari dei passi. Tolto, i passi spiccano per contrasto (anche i lontani).
+- Nella 3.120.0 il config c'era ma un contatore interno era fermo a 10 e non
+  contava l'ultimo: cosi' Mod Passi Ultra non veniva scritto e non compariva.
+- Ora il conto e' automatico. Aggiorna, apri Dark 16 e lo trovi nella tendina.
 
-Scegli "Mod Passi Ultra" dalla tendina Config in Dark 16. Poi sentilo e dimmi:
-lo aggiustiamo un pezzo alla volta.
+L'audio e le tarature sono identiche alla 3.120.0.
