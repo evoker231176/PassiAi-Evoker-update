@@ -1,6 +1,15 @@
-3.121.3
-Ora Dark Step ha il suo nome nella tabella della catena.
+3.122.0
+Nuovo config "Mod Passi Lontano" (Mod Passi Ultra+ resta com'e').
 
-- Prima, nella scheda Catena, Dark Step appariva come "plugin" generico.
-  Adesso mostra "Dark Step - il nostro: alza i passi lontani (transient designer)".
-- Audio identico alla 3.121.2 (solo l'etichetta).
+Da ricerca sull'audio professionale: un passo LONTANO e' debole E ha perso le
+alte (l'aria le assorbe) -> resta solo il TONFO basso 200-600 Hz. Cercare il
+passo negli acuti era sbagliato: da lontano lassu' non c'e' niente.
+
+Mod Passi Lontano:
+- EQ con enfasi forte sul tonfo basso (picco a 200 Hz), dove il passo lontano
+  vive davvero; acuti piu' bassi (tanto da lontano non ci sono).
+- Ninja sul corpo basso (~830 Hz).
+- Volume generale piu' alto (Preamp +5) per compensare il renderer.
+- Dark Step spinto di piu' (Boost/Far su) per tirare su i deboli.
+
+Scegli "Mod Passi Lontano" dalla tendina Config in Dark 16.
