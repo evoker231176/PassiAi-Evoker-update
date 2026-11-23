@@ -1,8 +1,9 @@
-3.120.1
-Corretto: ora "Mod Passi Ultra" appare davvero nella tendina Config.
+3.120.2
+Il VOLUME ora e' separato per ogni config (non si copia piu' su tutti).
 
-- Nella 3.120.0 il config c'era ma un contatore interno era fermo a 10 e non
-  contava l'ultimo: cosi' Mod Passi Ultra non veniva scritto e non compariva.
-- Ora il conto e' automatico. Aggiorna, apri Dark 16 e lo trovi nella tendina.
-
-L'audio e le tarature sono identiche alla 3.120.0.
+- Prima il volume di un config nuovo partiva dall'ultimo volume usato: mettevi
+  +15 su uno e te lo ritrovavi su tutti. Ora ogni config parte dal suo (+6 dB
+  di base) e tiene il valore che gli dai tu, separato dagli altri.
+- Gli slider Ninja / Shots / Ambience erano gia' separati per config.
+- Incluso anche il fix di prima: ora "Mod Passi Ultra" e tutti i config
+  compaiono nella tendina (il conteggio si fa da solo).
