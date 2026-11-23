@@ -1,8 +1,5 @@
-3.112.3
-Passi Mod - BASE PULITA per trovare il colpevole.
-- Troppa roba impilata (2 compressori + Loudness + ducking + ambience) pompava e
-  appiattiva tutto: non si distingueva piu' niente.
-- Ora versione minima e pulita: Ninja leggero + EQ pulito + UN solo compressore gentile.
-  Spenti: 2o compressore, Ambience, Shots, Loudness (li riaccendi tu uno alla volta).
-- Loudness: tetto abbassato a +10 dB (non puo' piu' distorcere) e parte spento.
-Prova: cosi' si distinguono i passi e l'audio e' pulito? Poi riaccendiamo il resto a uno a uno.
+3.113.0
+ATK - il Volume ora ABBASSA (prima solo da 0 a +20 dB).
+- Lo slider Volume dell'ATK va ora da -24 a +20 dB: puoi alzare E abbassare.
+- Il tuo volume attuale resta IDENTICO (rimappato una volta sola), non ti cambia niente.
+- Era un limite vecchio del motore (volume = solo guadagno positivo), ora sistemato.
