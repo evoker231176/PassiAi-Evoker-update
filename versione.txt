@@ -1,7 +1,6 @@
-3.113.2
-ATK - diagnostica "Il preset si carica?"
-- Nella scheda ATK -> Avanzate c'e' un riquadro nuovo che ti dice a schermo se il
-  preset scelto entra davvero nel motore: quanti byte ha, se e' CARICATO (verde),
-  quale motore (DLL) gira e se combacia col preset.
-- Serve a capire se "non suona come dovrebbe" e' perche' il preset non si carica.
-Guarda quel riquadro e dimmi se e' tutto verde o se c'e' del rosso.
+3.114.0
+7.1 - nuove voci Compressore (PRE) e Peace (POST).
+- L'app scrive da sola i due file (identici ai tuoi Compressor.txt e peace.txt):
+  "Compressore" compare nei PRE, "Peace" nei POST. Caricano ReaXComp e ReaEQ con le
+  tue regolazioni identiche.
+- Servono i plugin ReaPlugs (ReaXComp, ReaEQ) installati; ReaEQ va aggiunto se manca.
