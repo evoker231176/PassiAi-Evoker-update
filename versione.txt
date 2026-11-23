@@ -1,10 +1,5 @@
-3.128.1
-"Mod Audio Dinamico" lasciato COM'ERA (la tua versione). Nuovo: "Mod Audio Dinamico 2".
-
-- Mod Audio Dinamico: riportato esattamente a com'era da te (non cambia nulla).
-- Mod Audio Dinamico 2 (NUOVO): qui c'e' la compressione dinamica forte - il
-  Loudness alza i passi deboli E abbassa spari/esplosioni, Shots piu' forte.
-  Serve a far EMERGERE i passi quando spari ed esplosioni li coprono.
-  Prezzo onesto: un filo di fondo in piu'.
-
-Prova "Mod Audio Dinamico 2" e confrontalo col tuo Mod Audio Dinamico.
+3.128.2
+Mod Audio Dinamico 2: compressione al MASSIMO (night mode estremo).
+Loudness al limite: alza i passi deboli al massimo e schiaccia il piu possibile
+spari ed esplosioni. E il massimo che la compressione dinamica puo fare.
+Se nemmeno cosi i passi emergono, il limite e strutturale - vedi chat.
