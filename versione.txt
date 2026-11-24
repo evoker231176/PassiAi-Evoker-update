@@ -1,5 +1,6 @@
-3.133.0
-Pagina "Solo IA": aggiunto il SALVA-PRESET.
-- Nella pagina Solo IA c'e' la scheda "Preset": regoli gli slider come vuoi (Forza, Sensibilita', lato/fronte-dietro/fuori-testa, volume, tetto), dai un nome e premi Salva.
-- Lo richiami quando vuoi con "Carica", o lo togli con "Togli".
-I tuoi preset restano salvati sul PC (cartella SoloIA_preset).
+3.134.0
+Pagina "Solo IA": ora ha i PRESET come nel Dark 16, e ti fa vedere la catena.
+- Scheda "Tutti i preset": card da scegliere (MW4, Equilibrato, Passi forti, Pieno). Clicchi e cambia il timbro. In fondo puoi anche salvare le TUE regolazioni con un nome.
+- Scheda "Catena": ti fa vedere TUTTI i plugin che carica, in ordine, con cosa fanno. La IA ascolta all'inizio e alza i passi alla fine.
+- Il preset cambia solo l'EQ (punto 6, dopo la testa); il resto della catena resta uguale.
+Primo preset da provare: MW4 (quello fatto per il Dark 16, qui con IA + Dark Spatial sopra).
