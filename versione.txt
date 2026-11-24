@@ -1,4 +1,4 @@
-3.148.0
-Dark Spatial - tolto il "soffio" del Fuori-testa:
-Le riflessioni corte (dei mini-echi) facevano quel soffio ogni tanto. Le ho tolte. Resta solo il crossfeed morbido, che da' un filo di "fuori testa" SENZA soffio.
-Lo slider "Fuori-testa" ora e' pulito: puoi rialzarlo senza che sbuffi.
+3.149.0
+Solo IA — pagina Spazialita':
+- Ora gli slider Lato, Fronte/dietro e Fuori-testa mostrano la percentuale, come gli altri.
+- Fuori-testa messo al valore giusto: 40% (prima restava a zero). Niente soffio, un filo di spazio senza esagerare.
