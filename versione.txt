@@ -1,4 +1,6 @@
-3.156.0
-Sistemato il crash di Impostazioni:
-- Quando il testo dell'aggiornamento conteneva il segno di percentuale, l'app andava in crash aprendo Impostazioni. Risolto: ora quel testo e' sempre sicuro.
-- Resta valida la 3.155: catena di Solo IA abbassata di 15 dB, il volume al massimo e' un livello normale e non spacca piu' le orecchie. Il volume riparte dal massimo.
+3.157.0
+Solo IA — tolto il volume su-e-giu' e passi deboli:
+- C'era un limitatore che schiacciava i passi appena la IA li alzava: faceva pompare il volume (su, giu', su, giu') e mangiava i passi. L'ho spento.
+- Resta solo il tetto istantaneo di sicurezza, che non pompa.
+- Risultato: volume costante e passi forti.
+- Catena rialzata un po' (da meno 15 a meno 8 dB). Tieni il volume sul massimo e regola a piacere.
