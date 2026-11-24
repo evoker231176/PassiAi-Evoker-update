@@ -1,5 +1,2 @@
-3.135.1
-Pagina Solo IA, schede rifatte per vedersi SEMPRE:
-- "Tutti i preset": ora sono BOTTONI (MW4, Nitido, Pieno) - si vedono di sicuro. Premi un preset e SOTTO vedi le sue CAMPANE a barre (il grafico dell'EQ: in alto alza la frequenza, in basso la abbassa).
-- "Catena": elenco dei plugin in testo normale (si vede sempre).
-Tolto il disegno manuale che finiva dietro lo sfondo.
+3.135.2
+Panoramica: aggiunta la card "Solo IA" accanto a Dark 16 (prima mancava, c'era solo nella barra in alto). Ora si clicca anche da li'.
