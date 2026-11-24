@@ -1,5 +1,5 @@
-3.161.0
-Solo IA — tutto come l'originale, con la sola modifica giusta:
-- Rimessi Compressore, Ambience e preamp esattamente come all'inizio.
-- UNICA modifica: il PeakGuard ora ha il rilascio LENTO (0.9) invece di veloce (0.4). Era lui a fare il piano/forte.
-- La IA non e' stata toccata.
+3.162.0
+Solo IA — fix pumping fatto bene (da ricerca audio):
+- PeakGuard con rilascio MEDIO (non veloce, non lentissimo): e' il punto giusto che non pompa.
+- Un filo di spazio in ingresso cosi' il limitatore taglia poco e non ciclica.
+- Compressore, Ambience e IA come l'originale.
