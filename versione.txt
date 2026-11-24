@@ -1,6 +1,4 @@
-3.155.0
-Solo IA — sistemato il volume che spaccava i timpani:
-- La catena era troppo "calda" e spingeva tutto contro il limite: il 100% era un muro di suono. Ora la catena e' abbassata di 15 dB.
-- Adesso il Volume 100% e' un livello NORMALE, con spazio per respirare. Non devi piu' tenerlo al 9%.
-- I passi restano spinti uguale: la IA li alza in rapporto al resto, quel rapporto non cambia.
-- Il volume riparte da 100% (ignorato il 9% salvato). Regolalo a piacere da li'.
+3.156.0
+Sistemato il crash di Impostazioni:
+- Quando il testo dell'aggiornamento conteneva il segno di percentuale, l'app andava in crash aprendo Impostazioni. Risolto: ora quel testo e' sempre sicuro.
+- Resta valida la 3.155: catena di Solo IA abbassata di 15 dB, il volume al massimo e' un livello normale e non spacca piu' le orecchie. Il volume riparte dal massimo.
