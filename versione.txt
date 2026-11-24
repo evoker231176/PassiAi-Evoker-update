@@ -1,2 +1,6 @@
-3.134.1
-Correzione: nella pagina Solo IA le schede (card dei preset e la Catena) non si vedevano - erano disegnate dietro lo sfondo. Ora si vedono bene, con piu' contrasto.
+3.135.0
+Pagina Solo IA: i 3 preset ora sono fatti TUTTI col metodo giusto (curva bersaglio -> ottimizzatore -> 40 campane).
+- MW4: la tua curva (MW4_Target). Tonfo ~190 Hz + presenza 2.6-3.4 kHz.
+- Nitido: presenza spinta 3-4.5 kHz, bassi asciutti. Passi acuti, massima localizzazione. (errore 0.49 dB)
+- Pieno: tonfo pieno 150-220 Hz, acuti morbidi. Passi grossi e vicini. (errore 0.34 dB)
+Tolti i vecchi preset fatti alla svelta con poche campane.
