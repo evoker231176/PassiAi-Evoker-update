@@ -1,8 +1,8 @@
-3.129.2
-Tolti Caldo e Aperto. Due timbri nuovi (stessa compressione di Dinamico 2):
+3.129.3
+Tagliente lasciato. Tolto Scavato. Due toni nuovi (stessa compressione):
 
-- Mod Audio Scavato: EQ a V - corpo (200 Hz) + crack (3-4.5k), medi puliti. I passi "bucano".
-- Mod Audio Tagliente: focus stretto sul "crack" del passo (3-4 kHz). Massima localizzazione.
+- Mod Audio Acuto: crack ALTO (~5 kHz), passo sottile e sibilante, molto direzionale.
+- Mod Audio Grave: crack BASSO (~2 kHz), passo pieno e deciso, meno acuto.
 
-Mod Audio Caldo e Aperto spariscono da soli dalla lista (puliti all'avvio).
-Timbri ora da confrontare: Nitido, Corposo, Scavato, Tagliente.
+Cosi' senti il "crack" del passo a tre altezze: Grave (2k), Tagliente (3.5k), Acuto (5k).
+Scavato sparisce da solo dalla lista.
