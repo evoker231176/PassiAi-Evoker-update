@@ -1,3 +1,7 @@
-3.139.0
-Pagina Solo IA: nuovo preset "TUTTO" in cima - uno solo con tutto dentro.
-Massimizza insieme passi, porte, ricariche, piastre, funi e i calpestii su erba, cemento e metallo: tonfo 150-300 Hz + tutta la banda 1-8 kHz (texture, click, fruscii, ring). Non e' piatto, ha tutte le gobbe su.
+3.140.0
+Pagina Solo IA:
+- VOLUME ora in percentuale (100% = normale), con nome e spiegazione. TETTO con nome e spiegazione. Ogni slider dice a cosa serve.
+- 2 preset nuovi dai target ufficiali dei siti (DoveSonic):
+  * Warzone MW4: 75 Hz giu', spinte a 200/550/900 Hz e 4.1 kHz (il target specifico di MW4).
+  * Warzone: tonfo 140 Hz, presenza 1.1k + 2.85k + 5.8 kHz, 60 Hz giu'.
+Ora i preset sono 16, con Tutto, Warzone MW4 e Warzone in cima.
