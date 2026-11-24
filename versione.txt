@@ -1,8 +1,8 @@
-3.129.1
-Altri due timbri (stessa compressione di Dinamico 2, campane diverse):
+3.129.2
+Tolti Caldo e Aperto. Due timbri nuovi (stessa compressione di Dinamico 2):
 
-- Mod Audio Caldo: enfasi sui medi (350-1200 Hz) -> suono pieno e caldo al centro.
-- Mod Audio Aperto: aria sugli alti (4-9 kHz) -> suono brillante e direzionale.
+- Mod Audio Scavato: EQ a V - corpo (200 Hz) + crack (3-4.5k), medi puliti. I passi "bucano".
+- Mod Audio Tagliente: focus stretto sul "crack" del passo (3-4 kHz). Massima localizzazione.
 
-Ora hai 4 timbri da confrontare: Nitido, Corposo, Caldo, Aperto.
-Dimmi quale ti piace e tariamo quello.
+Mod Audio Caldo e Aperto spariscono da soli dalla lista (puliti all'avvio).
+Timbri ora da confrontare: Nitido, Corposo, Scavato, Tagliente.
