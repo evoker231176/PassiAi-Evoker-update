@@ -1,4 +1,5 @@
-3.149.0
-Solo IA — pagina Spazialita':
-- Ora gli slider Lato, Fronte/dietro e Fuori-testa mostrano la percentuale, come gli altri.
-- Fuori-testa messo al valore giusto: 40% (prima restava a zero). Niente soffio, un filo di spazio senza esagerare.
+3.150.0
+Solo IA — preset nuovo "Zero 2":
+- Fatto con l'ottimizzatore dalla tua curva di partenza delle 7Hz Zero 2 (errore sotto 1 dB).
+- Un filo meno basso, zona del passo 2-8 kHz alzata dolce. E' la base: proviamolo e lo ritocchiamo a orecchio.
+- Gli altri preset non sono stati toccati.
