@@ -1,5 +1,8 @@
-3.130.0
-Nuovo preset nel Dark 16: "Mod Audio MW4".
-- EQ costruita sul bersaglio MW4_Target_V1 (la tua curva): tonfo del passo a ~190 Hz, presenza/snap a 2.6-3.4 kHz, pulito sotto i 60 Hz e meno aria sopra i 16 kHz.
-- Compressione dinamica come Dinamico 2: alza i passi deboli e tiene giu' spari ed esplosioni.
-- Volume separato, suo. Non tocca nessun preset esistente.
+3.131.0
+NOVITA': preset "Solo IA" nel Dark 16 - la catena da GARA, fatta per vincere.
+- Massimizza i passi e schiaccia spari, bombe e ambiente (compressione dinamica + Ducking della IA).
+- La IA dei passi (la tua) riconosce e alza i passi anche qui, nel Dark 16.
+- Nuovo plugin NOSTRO: Dark Spatial - spazialita' binaurale dopo la testa (lato destra/sinistra piu' netto, fronte/dietro, suono fuori dalla testa). Costruito su psicoacustica (ITD/ILD, pinna) e sui metodi dei pro.
+- EQ FPS (bersaglio MW4_Target) + Dark Step (transient sui passi).
+Come si prova: Dark 16 -> scegli il preset "Solo IA".
+La tua IA non e' stata toccata. Le altre modalita' restano identiche.
