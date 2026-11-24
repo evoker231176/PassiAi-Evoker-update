@@ -1,7 +1,8 @@
-3.129.0
-Due config nuovi con EQ (campane) diverse, stessa compressione di Dinamico 2:
+3.129.1
+Altri due timbri (stessa compressione di Dinamico 2, campane diverse):
 
-- Mod Audio Nitido: presenza acuta sui passi (2-4.5 kHz) -> passi definiti e brillanti.
-- Mod Audio Corposo: tonfo pieno in basso (150-400 Hz) -> passi grossi e pieni.
+- Mod Audio Caldo: enfasi sui medi (350-1200 Hz) -> suono pieno e caldo al centro.
+- Mod Audio Aperto: aria sugli alti (4-9 kHz) -> suono brillante e direzionale.
 
-Provali e confrontali: dimmi quale timbro ti piace e tariamo quello.
+Ora hai 4 timbri da confrontare: Nitido, Corposo, Caldo, Aperto.
+Dimmi quale ti piace e tariamo quello.
