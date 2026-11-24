@@ -1,3 +1,6 @@
-3.146.0
-Solo IA: nuovo preset "Warzone 1" - come Warzone ma meno cupo (tonfo 140 Hz abbassato da +8 a +5). Primo gradino piu' chiaro. Tutto il resto uguale a Warzone.
-Se e' ancora troppo cupo lo abbassiamo ancora (Warzone 2, 3...).
+3.147.0
+Guida-IA (Dark Spatial) - tolto il "soffio"/tonfo allargato:
+- Ora allarga SOLO i medi-alti del passo (la direzione destra/sinistra). Il tonfo basso resta FERMO al centro, non si gonfia piu'.
+- Intensita' piu' bassa di default (40% invece di 60%).
+- Allargamento piu' morbido quando il passo parte e finisce (niente sbuffo).
+Il passo si localizza di lato, ma pulito. Regoli tutto con lo slider "Quanto allarga sul passo".
