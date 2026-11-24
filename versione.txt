@@ -1,6 +1,2 @@
-3.134.0
-Pagina "Solo IA": ora ha i PRESET come nel Dark 16, e ti fa vedere la catena.
-- Scheda "Tutti i preset": card da scegliere (MW4, Equilibrato, Passi forti, Pieno). Clicchi e cambia il timbro. In fondo puoi anche salvare le TUE regolazioni con un nome.
-- Scheda "Catena": ti fa vedere TUTTI i plugin che carica, in ordine, con cosa fanno. La IA ascolta all'inizio e alza i passi alla fine.
-- Il preset cambia solo l'EQ (punto 6, dopo la testa); il resto della catena resta uguale.
-Primo preset da provare: MW4 (quello fatto per il Dark 16, qui con IA + Dark Spatial sopra).
+3.134.1
+Correzione: nella pagina Solo IA le schede (card dei preset e la Catena) non si vedevano - erano disegnate dietro lo sfondo. Ora si vedono bene, con piu' contrasto.
