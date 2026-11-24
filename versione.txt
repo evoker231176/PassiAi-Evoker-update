@@ -1,8 +1,7 @@
-3.131.0
-NOVITA': preset "Solo IA" nel Dark 16 - la catena da GARA, fatta per vincere.
-- Massimizza i passi e schiaccia spari, bombe e ambiente (compressione dinamica + Ducking della IA).
-- La IA dei passi (la tua) riconosce e alza i passi anche qui, nel Dark 16.
-- Nuovo plugin NOSTRO: Dark Spatial - spazialita' binaurale dopo la testa (lato destra/sinistra piu' netto, fronte/dietro, suono fuori dalla testa). Costruito su psicoacustica (ITD/ILD, pinna) e sui metodi dei pro.
-- EQ FPS (bersaglio MW4_Target) + Dark Step (transient sui passi).
-Come si prova: Dark 16 -> scegli il preset "Solo IA".
-La tua IA non e' stata toccata. Le altre modalita' restano identiche.
+3.132.0
+NUOVA PAGINA "Solo IA" - una scheda tutta sua, in alto accanto a Dark 16. La pagina da gara.
+- Tutta roba tua: catena nostra -> renderer nostro -> Dark Spatial -> cuffie, e la IA dei passi (la tua) che lavora nel motore in Ducking: alza i passi e schiaccia spari, bombe e ambiente.
+- Barra VIVA della IA (si riempie quando sente un passo) + slider: Forza, Sensibilita', e i tre del Dark Spatial (lato destra/sinistra, fronte/dietro, fuori-testa), volume e tetto.
+- Dark Spatial: spazialita' binaurale dopo la testa (ITD/ILD, pinna, crossfeed), costruita sui metodi dei pro.
+IMPORTANTE: ho TOLTO il preset "Solo IA" che per sbaglio avevo messo dentro il Dark 16 nella 3.131.0. Il Dark 16 e' tornato ESATTAMENTE com'era, con tutti i tuoi preset.
+Come si usa: scheda "Solo IA" in alto -> ATTIVA.
