@@ -1,7 +1,5 @@
-3.142.0
-Solo IA - tolto il "respiro" (audio basso/alto/basso) e passi piu' udibili:
-- Il Ducking era troppo aggressivo: abbassava di 11 dB e risaliva di scatto (pumping). Ora parte a -6 dB, piu' morbido.
-- La IA ora e' piu' sensibile ai passi (li riconosce piu' facilmente).
-- Colpo forte meno estremo.
-Se senti ancora il respiro, porta lo slider "Ambiente giu'" (nelle Regolazioni) verso DESTRA. Se i passi sono deboli, alza "Forza".
-Ricorda: in "IA passi" l'interruttore "Tutte le IA" deve essere ACCESO.
+3.143.0
+Solo IA - RISOLTO l'audio che va su e giu':
+- Tolto il Ducking (era lui a far muovere il volume). Ora l'audio e' FERMO e COSTANTE: la IA alza SOLO i passi quando ci sono davvero, senza abbassare il fondo.
+- Lo slider "Ambiente giu'" ora parte da 0 (fondo fermo). Se lo vuoi, verso sinistra abbassa l'ambiente, ma l'audio puo' respirare un po': tienilo su 0 per audio stabile.
+Ricorda: "Tutte le IA" ACCESO in IA passi, se no la IA non alza niente.
