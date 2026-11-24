@@ -1,5 +1,5 @@
-3.159.0
-Solo IA — altro giro contro il piano/forte:
-- Compressore e Ambience resi ancora piu' dolci: lavorano pochissimo, soglia alta, rilascio lentissimo. Intervengono solo di rado.
-- Piu' spazio al tetto finale (catena a meno 11 dB) cosi' il limitatore quasi non entra: meno piano/forte.
-- La IA non e' stata toccata.
+3.160.0
+Solo IA — TROVATO il colpevole del piano/forte (con ricerca online):
+- Era il PeakGuard (limitatore di picco) con rilascio veloce (Release 0.4): si attivava e disattivava di continuo e faceva pompare. E' lo stesso pezzo che fa pompare anche Dark 16.
+- Messo rilascio LENTO (0.9) e tetto piu' alto: non ciclica piu', niente piano/forte.
+- La IA non e' stata toccata. Compressore e Ambience restano dolci come prima.
