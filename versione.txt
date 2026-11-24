@@ -1,8 +1,3 @@
-3.138.0
-Pagina Solo IA: 5 preset nuovi MIRATI (frequenze da ricerca sui suoni veri del gioco). Ora sono 13.
-- Porte: risonanza legno 150-300 Hz + click 2-4 kHz.
-- Ricariche: clink metallico 2-6 kHz, bassi via.
-- Piastre: fruscio gear/stoffa 2.4 kHz + edge 6.8 kHz.
-- Erba: fruscio alto 2-8 kHz, quasi niente basso.
-- Metallo: ring metallico brillante 1-6 kHz.
-Ognuno ha il suo tono, non sono tutti uguali. Tutti fatti con l'ottimizzatore (errore < 0.4 dB).
+3.139.0
+Pagina Solo IA: nuovo preset "TUTTO" in cima - uno solo con tutto dentro.
+Massimizza insieme passi, porte, ricariche, piastre, funi e i calpestii su erba, cemento e metallo: tonfo 150-300 Hz + tutta la banda 1-8 kHz (texture, click, fruscii, ring). Non e' piatto, ha tutte le gobbe su.
