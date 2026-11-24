@@ -1,7 +1,5 @@
-3.132.0
-NUOVA PAGINA "Solo IA" - una scheda tutta sua, in alto accanto a Dark 16. La pagina da gara.
-- Tutta roba tua: catena nostra -> renderer nostro -> Dark Spatial -> cuffie, e la IA dei passi (la tua) che lavora nel motore in Ducking: alza i passi e schiaccia spari, bombe e ambiente.
-- Barra VIVA della IA (si riempie quando sente un passo) + slider: Forza, Sensibilita', e i tre del Dark Spatial (lato destra/sinistra, fronte/dietro, fuori-testa), volume e tetto.
-- Dark Spatial: spazialita' binaurale dopo la testa (ITD/ILD, pinna, crossfeed), costruita sui metodi dei pro.
-IMPORTANTE: ho TOLTO il preset "Solo IA" che per sbaglio avevo messo dentro il Dark 16 nella 3.131.0. Il Dark 16 e' tornato ESATTAMENTE com'era, con tutti i tuoi preset.
-Come si usa: scheda "Solo IA" in alto -> ATTIVA.
+3.133.0
+Pagina "Solo IA": aggiunto il SALVA-PRESET.
+- Nella pagina Solo IA c'e' la scheda "Preset": regoli gli slider come vuoi (Forza, Sensibilita', lato/fronte-dietro/fuori-testa, volume, tetto), dai un nome e premi Salva.
+- Lo richiami quando vuoi con "Carica", o lo togli con "Togli".
+I tuoi preset restano salvati sul PC (cartella SoloIA_preset).
