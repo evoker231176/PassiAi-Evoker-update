@@ -1,5 +1,5 @@
-3.150.0
-Solo IA — preset nuovo "Zero 2":
-- Fatto con l'ottimizzatore dalla tua curva di partenza delle 7Hz Zero 2 (errore sotto 1 dB).
-- Un filo meno basso, zona del passo 2-8 kHz alzata dolce. E' la base: proviamolo e lo ritocchiamo a orecchio.
-- Gli altri preset non sono stati toccati.
+3.151.0
+Solo IA — preset nuovo "Zero 2 Filtri":
+- Sono i tuoi 10 filtri esatti delle 7Hz Salnotes Zero 2, parametri originali (Fc, Gain, Q come li hai dati), niente trasformazioni.
+- Sub-basso tagliato (21/42 Hz) e grossa alzata a 190 Hz sul corpo del passo.
+- Il preset "Zero 2" di prima e gli altri restano come sono.
