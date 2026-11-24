@@ -1,5 +1,4 @@
-3.153.0
-Solo IA — tolti gli "scoppi alle orecchie":
-- Prima la IA alzava il passo con un salto di volume istantaneo: quello faceva lo scoppio ogni tanto.
-- Ora la IA rileva il passo come prima, ma il boost entra con una rampa dolce (circa 2 ms) e esce in circa 80 ms: il passo resta forte, senza botta.
-- La IA dei passi non e' stata toccata. Vale per tutti i preset di Solo IA.
+3.154.0
+Solo IA — rimesso com'era: la IA alza i passi come prima (passi forti).
+- Annullata la prova di "boost smussato" che aveva fatto sparire i passi.
+- Sto cercando cosa causa gli scoppi fuori dalla IA.
