@@ -1,8 +1,5 @@
-3.129.3
-Tagliente lasciato. Tolto Scavato. Due toni nuovi (stessa compressione):
-
-- Mod Audio Acuto: crack ALTO (~5 kHz), passo sottile e sibilante, molto direzionale.
-- Mod Audio Grave: crack BASSO (~2 kHz), passo pieno e deciso, meno acuto.
-
-Cosi' senti il "crack" del passo a tre altezze: Grave (2k), Tagliente (3.5k), Acuto (5k).
-Scavato sparisce da solo dalla lista.
+3.130.0
+Nuovo preset nel Dark 16: "Mod Audio MW4".
+- EQ costruita sul bersaglio MW4_Target_V1 (la tua curva): tonfo del passo a ~190 Hz, presenza/snap a 2.6-3.4 kHz, pulito sotto i 60 Hz e meno aria sopra i 16 kHz.
+- Compressione dinamica come Dinamico 2: alza i passi deboli e tiene giu' spari ed esplosioni.
+- Volume separato, suo. Non tocca nessun preset esistente.
