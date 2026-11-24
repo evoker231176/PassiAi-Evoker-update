@@ -1,5 +1,4 @@
-3.144.0
-Solo IA - passi piu' forti:
-- Nuovo preset "Passi Max" in cima: il piu' aggressivo sui passi (tonfo 150-350 + texture/snap 1.5-5 kHz spinti, resto tagliato).
-- La IA ora puo' alzare i passi fino a 16 dB (prima 12). Forza di default piu' alta.
-Prova: Solo IA -> Passi Max -> ATTIVA, "Tutte le IA" acceso, e se serve alza ancora "Forza".
+3.145.0
+Dark Spatial - aggiunta la GUIDA-IA (la Tappa 3 che mancava).
+Quando la IA sente un passo, allarga lo stereo SOLO in quell'istante: il passo si localizza di piu' (destra/sinistra netto), il resto resta naturale. E' la cosa che DTS/Sonar non hanno, perche' usa la tua IA.
+Nella scheda "Spazialita'": interruttore "Guida IA" (acceso di default) + slider "Quanto allarga sul passo".
