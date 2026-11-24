@@ -1,5 +1,5 @@
-3.152.0
-Solo IA — tolto il "pompa" sul preset "Zero 2 Filtri":
-- Aggiunto il tuo Preamp -6.9 dB (quello scritto nel file) subito dopo l'EQ, sui canali cuffia.
-- Cosi' la grossa alzata a 190 Hz non sbatte piu' contro il limite di sicurezza: audio costante, niente pompa.
-- I tuoi 10 filtri restano identici. Gli altri preset non cambiano.
+3.153.0
+Solo IA — tolti gli "scoppi alle orecchie":
+- Prima la IA alzava il passo con un salto di volume istantaneo: quello faceva lo scoppio ogni tanto.
+- Ora la IA rileva il passo come prima, ma il boost entra con una rampa dolce (circa 2 ms) e esce in circa 80 ms: il passo resta forte, senza botta.
+- La IA dei passi non e' stata toccata. Vale per tutti i preset di Solo IA.
