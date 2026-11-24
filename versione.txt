@@ -1,4 +1,3 @@
-3.145.0
-Dark Spatial - aggiunta la GUIDA-IA (la Tappa 3 che mancava).
-Quando la IA sente un passo, allarga lo stereo SOLO in quell'istante: il passo si localizza di piu' (destra/sinistra netto), il resto resta naturale. E' la cosa che DTS/Sonar non hanno, perche' usa la tua IA.
-Nella scheda "Spazialita'": interruttore "Guida IA" (acceso di default) + slider "Quanto allarga sul passo".
+3.146.0
+Solo IA: nuovo preset "Warzone 1" - come Warzone ma meno cupo (tonfo 140 Hz abbassato da +8 a +5). Primo gradino piu' chiaro. Tutto il resto uguale a Warzone.
+Se e' ancora troppo cupo lo abbassiamo ancora (Warzone 2, 3...).
