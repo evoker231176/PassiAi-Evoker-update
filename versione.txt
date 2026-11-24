@@ -1,2 +1,5 @@
-3.135.2
-Panoramica: aggiunta la card "Solo IA" accanto a Dark 16 (prima mancava, c'era solo nella barra in alto). Ora si clicca anche da li'.
+3.136.0
+Pagina Solo IA - tre cose:
+1) GRAFICO delle campane rifatto: linea verde con puntini (stile analizzatore), linea dello zero, griglia dei dB ed etichette delle frequenze. Ora si capisce.
+2) AMBIENTE piu' basso: la IA in Ducking ora schiaccia davvero il resto (prima era solo -4 dB, troppo poco). Nuovo slider "Ambiente giu'" nelle Regolazioni: tiralo a sinistra e ambiente/spari/bombe scendono di piu' quando non c'e' un passo. La Forza ora alza davvero i passi.
+3) NUOVI PRESET: Cupo (scuro, alti tagliati), Chiaro (brillante), Lontano (per i passi lontani). Ora sono 6: MW4, Nitido, Pieno, Cupo, Chiaro, Lontano. Tutti fatti con l'ottimizzatore (errore < 0.5 dB).
