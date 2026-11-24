@@ -1,3 +1,7 @@
-3.141.0
-Pagina Solo IA: tolti i preset per singolo suono (Interazioni, Calpestii, Porte, Ricariche, Piastre, Erba, Metallo) - quelli che andavano messi in un preset unico.
-Restano 9: Tutto, Warzone MW4, Warzone, MW4, Nitido, Pieno, Cupo, Chiaro, Lontano.
+3.142.0
+Solo IA - tolto il "respiro" (audio basso/alto/basso) e passi piu' udibili:
+- Il Ducking era troppo aggressivo: abbassava di 11 dB e risaliva di scatto (pumping). Ora parte a -6 dB, piu' morbido.
+- La IA ora e' piu' sensibile ai passi (li riconosce piu' facilmente).
+- Colpo forte meno estremo.
+Se senti ancora il respiro, porta lo slider "Ambiente giu'" (nelle Regolazioni) verso DESTRA. Se i passi sono deboli, alza "Forza".
+Ricorda: in "IA passi" l'interruttore "Tutte le IA" deve essere ACCESO.
