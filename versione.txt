@@ -1,6 +1,4 @@
-3.147.0
-Guida-IA (Dark Spatial) - tolto il "soffio"/tonfo allargato:
-- Ora allarga SOLO i medi-alti del passo (la direzione destra/sinistra). Il tonfo basso resta FERMO al centro, non si gonfia piu'.
-- Intensita' piu' bassa di default (40% invece di 60%).
-- Allargamento piu' morbido quando il passo parte e finisce (niente sbuffo).
-Il passo si localizza di lato, ma pulito. Regoli tutto con lo slider "Quanto allarga sul passo".
+3.148.0
+Dark Spatial - tolto il "soffio" del Fuori-testa:
+Le riflessioni corte (dei mini-echi) facevano quel soffio ogni tanto. Le ho tolte. Resta solo il crossfeed morbido, che da' un filo di "fuori testa" SENZA soffio.
+Lo slider "Fuori-testa" ora e' pulito: puoi rialzarlo senza che sbuffi.
