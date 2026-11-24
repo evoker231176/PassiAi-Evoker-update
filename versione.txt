@@ -1,5 +1,5 @@
-3.136.0
-Pagina Solo IA - tre cose:
-1) GRAFICO delle campane rifatto: linea verde con puntini (stile analizzatore), linea dello zero, griglia dei dB ed etichette delle frequenze. Ora si capisce.
-2) AMBIENTE piu' basso: la IA in Ducking ora schiaccia davvero il resto (prima era solo -4 dB, troppo poco). Nuovo slider "Ambiente giu'" nelle Regolazioni: tiralo a sinistra e ambiente/spari/bombe scendono di piu' quando non c'e' un passo. La Forza ora alza davvero i passi.
-3) NUOVI PRESET: Cupo (scuro, alti tagliati), Chiaro (brillante), Lontano (per i passi lontani). Ora sono 6: MW4, Nitido, Pieno, Cupo, Chiaro, Lontano. Tutti fatti con l'ottimizzatore (errore < 0.5 dB).
+3.137.0
+Pagina Solo IA: 2 preset nuovi per i suoni di informazione.
+- Interazioni: massimizza porte, ricariche, piastre, funi (click e fruscii meccanici, 2-6 kHz, bassi tagliati).
+- Calpestii: massimizza i passi su erba, cemento e metallo (tonfo + texture + fruscio, 1-6 kHz).
+Ora i preset sono 8: MW4, Nitido, Pieno, Cupo, Chiaro, Lontano, Interazioni, Calpestii.
