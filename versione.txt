@@ -1,6 +1,6 @@
-3.157.0
-Solo IA — tolto il volume su-e-giu' e passi deboli:
-- C'era un limitatore che schiacciava i passi appena la IA li alzava: faceva pompare il volume (su, giu', su, giu') e mangiava i passi. L'ho spento.
-- Resta solo il tetto istantaneo di sicurezza, che non pompa.
-- Risultato: volume costante e passi forti.
-- Catena rialzata un po' (da meno 15 a meno 8 dB). Tieni il volume sul massimo e regola a piacere.
+3.158.0
+Solo IA — provo a togliere il pompaggio aggiustando Compressore e Ambience (non tolti):
+- Lavorano molto meno e col rilascio LENTO, cosi' il guadagno scende piano e non fa su-giu'.
+- Rimesso il limitatore che avevo tolto (non era lui il colpevole).
+- La IA non e' stata toccata.
+Se pompa ancora, scrivimi: li rendo ancora piu' dolci.
