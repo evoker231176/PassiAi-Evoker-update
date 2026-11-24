@@ -1,4 +1,6 @@
-3.154.0
-Solo IA — rimesso com'era: la IA alza i passi come prima (passi forti).
-- Annullata la prova di "boost smussato" che aveva fatto sparire i passi.
-- Sto cercando cosa causa gli scoppi fuori dalla IA.
+3.155.0
+Solo IA — sistemato il volume che spaccava i timpani:
+- La catena era troppo "calda" e spingeva tutto contro il limite: il 100% era un muro di suono. Ora la catena e' abbassata di 15 dB.
+- Adesso il Volume 100% e' un livello NORMALE, con spazio per respirare. Non devi piu' tenerlo al 9%.
+- I passi restano spinti uguale: la IA li alza in rapporto al resto, quel rapporto non cambia.
+- Il volume riparte da 100% (ignorato il 9% salvato). Regolalo a piacere da li'.
