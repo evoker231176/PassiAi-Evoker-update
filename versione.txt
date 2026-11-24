@@ -1,6 +1,5 @@
-3.158.0
-Solo IA — provo a togliere il pompaggio aggiustando Compressore e Ambience (non tolti):
-- Lavorano molto meno e col rilascio LENTO, cosi' il guadagno scende piano e non fa su-giu'.
-- Rimesso il limitatore che avevo tolto (non era lui il colpevole).
+3.159.0
+Solo IA — altro giro contro il piano/forte:
+- Compressore e Ambience resi ancora piu' dolci: lavorano pochissimo, soglia alta, rilascio lentissimo. Intervengono solo di rado.
+- Piu' spazio al tetto finale (catena a meno 11 dB) cosi' il limitatore quasi non entra: meno piano/forte.
 - La IA non e' stata toccata.
-Se pompa ancora, scrivimi: li rendo ancora piu' dolci.
