@@ -1,5 +1,4 @@
-3.173.0
-Solo IA — il compressore ora PROTEGGE i passi:
-- Problema: un compressore cieco abbassa gli spari E i passi insieme, perche' guarda solo il volume.
-- Soluzione: il compressore e' guidato dalla IA. Abbassa i suoni forti (spari/bombe), ma quando la IA sente un passo lo lascia stare (passo protetto).
-- La IA non abbassa niente: dice solo al compressore "questo e' un passo, non toccarlo".
+3.174.0
+Solo IA — tolto il compressore che rovinava i passi.
+- Un compressore dopo il mix del gioco non riesce a separare spari e passi: finiva per toccare i passi. Tolto.
+- Catena pulita: i passi tornano a suonare bene. La IA li alza come sempre.
