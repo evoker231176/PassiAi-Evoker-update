@@ -1,6 +1,5 @@
-3.165.0
-Solo IA — spari/bombe giu' col Compressore (Low Dynamic Range):
-- Il Compressore ora tira giu' i suoni forti (spari, bombe), mentre i passi piu' deboli passano. E' la compressione verso il basso dei giochi competitivi.
-- Rilascio lento (~300ms) cosi' non pompa.
-- "Ambiente giu'" rimesso a 0 (la IA alza i passi, non abbassa gli spari: giusto).
-- Se gli spari sono ancora alti, in Regolazioni abbassa "Ambiente giu'" NON serve: dimmi e spingo di piu' il Compressore.
+3.166.0
+Solo IA — compressore NOSTRO per abbassare spari/bombe:
+- Il compressore di Rara non rispondeva e gracchiava: rimesso com'era.
+- Aggiunto un compressore nostro, nel punto giusto (dopo la testa, PRIMA del boost dei passi): schiaccia i suoni forti sopra la soglia (spari, bombe), i passi piu' deboli passano, poi la IA li alza.
+- Attacco veloce, rilascio lento (~300ms): tira giu' i forti senza pompare e senza gracchiare.
