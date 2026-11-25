@@ -1,6 +1,6 @@
-3.164.0
-Solo IA — spari/bombe/ambiente giu', passi su (da ricerca gaming competitivo):
-- Il modo giusto non e' abbassare il volume generale (abbasserebbe anche i passi), ma abbassare SOLO i suoni forti. E' la tecnica "Low Dynamic Range / Boost Mix" dei giochi.
-- La tua IA e' lo strumento piu' intelligente: sa cos'e' un passo. Ho acceso "Ambiente giu'" a -6 dB, cosi' spari, bombe e ambiente calano mentre i passi restano forti.
-- Rimesso il volume d'uscita come l'originale (non abbasso piu' tutto).
-- Puoi regolare "Ambiente giu'" in Regolazioni: piu' a sinistra = resto piu' basso.
+3.165.0
+Solo IA — spari/bombe giu' col Compressore (Low Dynamic Range):
+- Il Compressore ora tira giu' i suoni forti (spari, bombe), mentre i passi piu' deboli passano. E' la compressione verso il basso dei giochi competitivi.
+- Rilascio lento (~300ms) cosi' non pompa.
+- "Ambiente giu'" rimesso a 0 (la IA alza i passi, non abbassa gli spari: giusto).
+- Se gli spari sono ancora alti, in Regolazioni abbassa "Ambiente giu'" NON serve: dimmi e spingo di piu' il Compressore.
