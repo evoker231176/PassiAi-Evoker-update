@@ -1,4 +1,3 @@
-3.170.0
-Solo IA — rimessa la modifica al compressore di Rara per abbassare spari/bombe:
-- Compressore di Rara (quello vero) con Amount 0.5 (invece di 0.35): abbassa un po' i suoni forti.
-- Rilasci e soglia originali, niente gracchio.
+3.171.0
+Solo IA — compressore di Rara spinto di piu' per abbassare spari/bombe:
+- Amount 0.7 (da 0.35). Rilasci e soglia originali, niente gracchio.
