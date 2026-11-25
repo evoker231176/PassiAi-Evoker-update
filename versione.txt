@@ -1,4 +1,7 @@
-3.176.0
-Solo IA — rimessi i passi forti (correzione di un mio effetto collaterale):
-- Il fix del volume di prima accendeva anche il "Tetto di sicurezza" a -1 dB, che schiacciava i passi alzati dalla IA. Per questo sembrava che la IA alzasse meno.
-- Ora applico SOLO il volume, non il tetto. La IA alza i passi come sempre (il suo cervello non e' mai stato toccato).
+3.177.0
+Solo IA — preset nuovo "Gara" (come i mod a pagamento):
+- Sub-basso tagliato (via rimbombo/esplosioni), tonfo moderato.
+- Banda 1-8 kHz alzata: texture dei passi + suoni meccanici (porte, ricariche, piastre, zipline).
+- Presenza 2-5 kHz spinta: snap del passo, per localizzare bene.
+- Fatto con l'ottimizzatore (40 campane, errore basso). Gli altri preset non sono toccati.
+- La tua arma la tiene giu' SilentShots, i passi li alza la IA, la direzione la da Dark Spatial: le stesse cose dei mod da 90 euro.
