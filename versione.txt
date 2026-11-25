@@ -1,6 +1,5 @@
-3.172.0
-Solo IA — compressore nostro con soglia GIUSTA per abbassare spari/bombe:
-- Prima la soglia era troppo alta e gli spari ci restavano sotto (per questo non abbassava). Ora soglia bassa, 8:1.
-- Prende davvero i suoni forti (spari, bombe) e li tira giu'; i passi deboli passano, poi la IA li alza.
-- Attacco ~1 ms (prende il crack dello sparo), rilascio ~250 ms (niente pompaggio).
-- Compressore di Rara rimesso originale.
+3.173.0
+Solo IA — il compressore ora PROTEGGE i passi:
+- Problema: un compressore cieco abbassa gli spari E i passi insieme, perche' guarda solo il volume.
+- Soluzione: il compressore e' guidato dalla IA. Abbassa i suoni forti (spari/bombe), ma quando la IA sente un passo lo lascia stare (passo protetto).
+- La IA non abbassa niente: dice solo al compressore "questo e' un passo, non toccarlo".
