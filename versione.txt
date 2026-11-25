@@ -1,6 +1,6 @@
-3.178.0
-Solo IA — nuovo interruttore "Abbassa i MIEI passi" (come i mod a pagamento):
-- In Regolazioni. Spento di default (niente rischio).
-- Tira giu' il canale centro (dove sei TU): abbassa i tuoi passi/suoni, ma lascia i nemici (canali posizionali).
+3.179.0
+Solo IA — "Abbassa i miei passi" ora con SELETTORE DI CANALE:
+- Prima era fisso sul canale 3, ma nel tuo setup il 3 porta troppa roba e abbassava tutto.
+- Ora puoi scegliere QUALE canale abbassare (1-16): provali uno a uno finche' cala SOLO la tua roba (passi/arma tuoi) e non tutto.
+- Quando trovi il canale giusto, quello e' il tuo "solo io". Resta salvato.
 - C'e' anche "Quanto giu'" per dosarlo.
-- Se accendendolo non cambia niente, vuol dire che nel tuo setup il centro e' su un altro canale: dimmelo e lo punto giusto.
