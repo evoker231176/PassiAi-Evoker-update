@@ -1,5 +1,2 @@
-3.168.0
-Solo IA — corretti i testi sbagliati:
-- Le scritte dicevano che la IA fa "Ducking" e abbassa spari/bombe/ambiente: FALSO. La tua IA alza SOLO i passi.
-- Ora i testi dicono la verita': la IA alza solo i passi; a calare gli altri suoni sono il Compressore, l'Ambience e SilentShots.
-- Il compressore di Rara e' quello della catena (voce 3), con una piccola spinta in piu' per abbassare un filo i forti.
+3.169.0
+Solo IA — compressore di Rara rimesso ESATTAMENTE originale (Amount 0.35, tutti i parametri come l'inizio).
