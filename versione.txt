@@ -1,5 +1,5 @@
-3.166.0
-Solo IA — compressore NOSTRO per abbassare spari/bombe:
-- Il compressore di Rara non rispondeva e gracchiava: rimesso com'era.
-- Aggiunto un compressore nostro, nel punto giusto (dopo la testa, PRIMA del boost dei passi): schiaccia i suoni forti sopra la soglia (spari, bombe), i passi piu' deboli passano, poi la IA li alza.
-- Attacco veloce, rilascio lento (~300ms): tira giu' i forti senza pompare e senza gracchiare.
+3.167.0
+Solo IA — rimesso il compressore di Rara, modificato un po':
+- Tolto il compressore nostro (peggiorava).
+- Rimesso il compressore di Rara com'era, con solo una piccola spinta in piu' (Amount 0.35 -> 0.5) per abbassare un filo spari/bombe.
+- Rilasci e soglia originali, quindi niente gracchio.
