@@ -1,4 +1,4 @@
-3.175.0
-Solo IA — sistemato il volume all'avvio:
-- Bug: all'avvio il motore partiva al suo volume di default (forte, +6 dB) e il volume salvato veniva applicato solo quando muovevi lo slider. Per questo a 35 si sentiva forte, e bastava scalare a 34 per "stabilizzarlo".
-- Ora il volume salvato e' applicato subito, senza doverlo toccare.
+3.176.0
+Solo IA — rimessi i passi forti (correzione di un mio effetto collaterale):
+- Il fix del volume di prima accendeva anche il "Tetto di sicurezza" a -1 dB, che schiacciava i passi alzati dalla IA. Per questo sembrava che la IA alzasse meno.
+- Ora applico SOLO il volume, non il tetto. La IA alza i passi come sempre (il suo cervello non e' mai stato toccato).
